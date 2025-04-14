@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2025
+title: Latest 15 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model](http://arxiv.org/abs/2504.08259v1)** | 2025-04-11 | 11 pages, 9 figures |
+| **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Learning Universal Features for Generalizable Image Forgery Localization](http://arxiv.org/abs/2504.07462v1)** | 2025-04-10 |  |
 | **[Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing](http://arxiv.org/abs/2504.07424v1)** | 2025-04-10 |  |
 | **[Transfer between Modalities with MetaQueries](http://arxiv.org/abs/2504.06256v1)** | 2025-04-08 | <details><summary>Proje...</summary><p>Project Page: https://xichenpan.com/metaquery</p></details> |
@@ -20,6 +22,4 @@ labels: documentation
 | **[Pattern Analogies: Learning to Perform Programmatic Image Edits by Analogy](http://arxiv.org/abs/2412.12463v2)** | 2025-04-05 | <details><summary>CVPR ...</summary><p>CVPR 2024 - Website: https://bardofcodes.github.io/patterns/</p></details> |
 | **[Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion](http://arxiv.org/abs/2501.14524v2)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted to CVPR Workshop on AI for Creative Visual Content Generation Editing and Understanding 2025</p></details> |
 | **[Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices](http://arxiv.org/abs/2504.03155v1)** | 2025-04-04 | <details><summary>29 pa...</summary><p>29 pages, 10 tables, 9 figures, PLDI 2025</p></details> |
-| **[VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning](http://arxiv.org/abs/2504.02949v1)** | 2025-04-03 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/VARGPT-family/VARGPT-v1.1. arXiv admin note: text overlap with arXiv:2501.12327</p></details> |
-| **[Concept Lancet: Image Editing with Compositional Representation Transplant](http://arxiv.org/abs/2504.02828v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025. Project page at https://peterljq.github.io/project/colan</p></details> |
 
