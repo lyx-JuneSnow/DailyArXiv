@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Tuning Diffusion Generative Models via Rich Preference Optimization](http://arxiv.org/abs/2503.11720v3)** | 2025-04-16 |  |
+| **[Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](http://arxiv.org/abs/2504.11922v1)** | 2025-04-16 |  |
+| **[Reference-Based 3D-Aware Image Editing with Triplanes](http://arxiv.org/abs/2404.03632v3)** | 2025-04-15 | <details><summary>CVPR ...</summary><p>CVPR 2025 Highlight. Includes supplementary material</p></details> |
+| **[Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing](http://arxiv.org/abs/2504.10434v1)** | 2025-04-14 |  |
+| **[SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow](http://arxiv.org/abs/2504.09697v1)** | 2025-04-13 | <details><summary>24 pa...</summary><p>24 pages, 21 figures. Figure 9(b) has been accepted by CVPR AI Art Gallery 2025</p></details> |
 | **[CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model](http://arxiv.org/abs/2504.08259v1)** | 2025-04-11 | 11 pages, 9 figures |
 | **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Learning Universal Features for Generalizable Image Forgery Localization](http://arxiv.org/abs/2504.07462v1)** | 2025-04-10 |  |
@@ -17,9 +22,4 @@ labels: documentation
 | **[MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models](http://arxiv.org/abs/2504.03641v2)** | 2025-04-07 | <details><summary>Proje...</summary><p>Project page: https://mme-unify.github.io/</p></details> |
 | **[Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing](http://arxiv.org/abs/2504.04784v1)** | 2025-04-07 | 14 pages, 8 figures |
 | **[INRetouch: Context Aware Implicit Neural Representation for Photography Retouching](http://arxiv.org/abs/2412.03848v3)** | 2025-04-06 |  |
-| **[Long-horizon Visual Instruction Generation with Logic and Attribute Self-reflection](http://arxiv.org/abs/2503.13500v2)** | 2025-04-06 | ICLR 2025 |
-| **[NeIn: Telling What You Don't Want](http://arxiv.org/abs/2409.06481v2)** | 2025-04-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 Workshop SyntaGen. Project page: https://tanbuinhat.github.io/NeIn/</p></details> |
-| **[Pattern Analogies: Learning to Perform Programmatic Image Edits by Analogy](http://arxiv.org/abs/2412.12463v2)** | 2025-04-05 | <details><summary>CVPR ...</summary><p>CVPR 2024 - Website: https://bardofcodes.github.io/patterns/</p></details> |
-| **[Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion](http://arxiv.org/abs/2501.14524v2)** | 2025-04-04 | <details><summary>Accep...</summary><p>Accepted to CVPR Workshop on AI for Creative Visual Content Generation Editing and Understanding 2025</p></details> |
-| **[Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices](http://arxiv.org/abs/2504.03155v1)** | 2025-04-04 | <details><summary>29 pa...</summary><p>29 pages, 10 tables, 9 figures, PLDI 2025</p></details> |
 
