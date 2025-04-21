@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DialogGen: Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation](http://arxiv.org/abs/2403.08857v3)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page: https://hunyuan-dialoggen.github.io/. Accepted to NAACL2025</p></details> |
+| **[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](http://arxiv.org/abs/2504.13490v1)** | 2025-04-18 |  |
 | **[$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark](http://arxiv.org/abs/2504.13143v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project Page: https://ucsc-vlaa.github.io/Complex-Edit/, Dataset: https://huggingface.co/datasets/UCSC-VLAA/Complex-Edit</p></details> |
 | **[UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models](http://arxiv.org/abs/2504.13109v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page: https://uniedit-flow.github.io/</p></details> |
+| **[Image Editing with Diffusion Models: A Survey](http://arxiv.org/abs/2504.13226v1)** | 2025-04-17 |  |
 | **[Image-Editing Specialists: An RLAIF Approach for Diffusion Models](http://arxiv.org/abs/2504.12833v1)** | 2025-04-17 |  |
 | **[SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding](http://arxiv.org/abs/2504.12704v1)** | 2025-04-17 |  |
 | **[Fine-Tuning Diffusion Generative Models via Rich Preference Optimization](http://arxiv.org/abs/2503.11720v3)** | 2025-04-16 |  |
@@ -19,7 +22,4 @@ labels: documentation
 | **[CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model](http://arxiv.org/abs/2504.08259v1)** | 2025-04-11 | 11 pages, 9 figures |
 | **[POEM: Precise Object-level Editing via MLLM control](http://arxiv.org/abs/2504.08111v1)** | 2025-04-10 | <details><summary>Accep...</summary><p>Accepted to SCIA 2025</p></details> |
 | **[Learning Universal Features for Generalizable Image Forgery Localization](http://arxiv.org/abs/2504.07462v1)** | 2025-04-10 |  |
-| **[Routing to the Right Expertise: A Trustworthy Judge for Instruction-based Image Editing](http://arxiv.org/abs/2504.07424v1)** | 2025-04-10 |  |
-| **[Transfer between Modalities with MetaQueries](http://arxiv.org/abs/2504.06256v1)** | 2025-04-08 | <details><summary>Proje...</summary><p>Project Page: https://xichenpan.com/metaquery</p></details> |
-| **[Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model](http://arxiv.org/abs/2504.05594v1)** | 2025-04-08 | under review |
 
