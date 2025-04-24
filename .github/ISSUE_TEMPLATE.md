@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2025
+title: Latest 15 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing](http://arxiv.org/abs/2503.12652v2)** | 2025-04-22 |  |
 | **[Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models](http://arxiv.org/abs/2504.15723v1)** | 2025-04-22 |  |
 | **[MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World](http://arxiv.org/abs/2504.15397v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://mirror-verse.github.io/</p></details> |
 | **[Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](http://arxiv.org/abs/2504.11922v2)** | 2025-04-21 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[$\texttt{Complex-Edit}$: CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark](http://arxiv.org/abs/2504.13143v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project Page: https://ucsc-vlaa.github.io/Complex-Edit/, Dataset: https://huggingface.co/datasets/UCSC-VLAA/Complex-Edit</p></details> |
 | **[UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models](http://arxiv.org/abs/2504.13109v1)** | 2025-04-17 | <details><summary>Proje...</summary><p>Project page: https://uniedit-flow.github.io/</p></details> |
 | **[Image Editing with Diffusion Models: A Survey](http://arxiv.org/abs/2504.13226v1)** | 2025-04-17 |  |
-| **[Image-Editing Specialists: An RLAIF Approach for Diffusion Models](http://arxiv.org/abs/2504.12833v1)** | 2025-04-17 |  |
 
