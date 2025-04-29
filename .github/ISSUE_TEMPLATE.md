@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,8 +7,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision](http://arxiv.org/abs/2411.07199v2)** | 2025-04-28 | 21 pages |
+| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v2)** | 2025-04-28 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
+| **[CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes](http://arxiv.org/abs/2504.19212v1)** | 2025-04-27 | 20 pages |
+| **[Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing](http://arxiv.org/abs/2411.01819v3)** | 2025-04-27 | <details><summary>19 pa...</summary><p>19 pages,11 figures,5 tables</p></details> |
+| **[REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models](http://arxiv.org/abs/2504.18989v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted to Eurographics 2025. Project page: https://reed-vae.github.io/</p></details> |
 | **[DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](http://arxiv.org/abs/2504.17894v1)** | 2025-04-24 |  |
-| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v1)** | 2025-04-24 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 | **[Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields](http://arxiv.org/abs/2504.17712v1)** | 2025-04-24 |  |
 | **[Enhancing Variational Autoencoders with Smooth Robust Latent Encoding](http://arxiv.org/abs/2504.17219v1)** | 2025-04-24 | Under review |
 | **[UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing](http://arxiv.org/abs/2503.12652v2)** | 2025-04-22 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion](http://arxiv.org/abs/2412.14462v2)** | 2025-04-20 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/KaKituken/affordance-aware-any. Project page at: https://kakituken.github.io/affordance-any.github.io/</p></details> |
 | **[CrowdGenUI: Aligning LLM-Based UI Generation with Crowdsourced User Preferences](http://arxiv.org/abs/2411.03477v2)** | 2025-04-20 |  |
 | **[MP-Mat: A 3D-and-Instance-Aware Human Matting and Editing Framework with Multiplane Representation](http://arxiv.org/abs/2504.14606v1)** | 2025-04-20 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
-| **[Visual Prompting for One-shot Controllable Video Editing without Inversion](http://arxiv.org/abs/2504.14335v1)** | 2025-04-19 | accepted by cvpr2025 |
-| **[PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling](http://arxiv.org/abs/2504.14219v1)** | 2025-04-19 |  |
-| **[Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation](http://arxiv.org/abs/2504.14011v1)** | 2025-04-18 | IJCNN 2025 |
-| **[DialogGen: Multi-modal Interactive Dialogue System for Multi-turn Text-to-Image Generation](http://arxiv.org/abs/2403.08857v3)** | 2025-04-18 | <details><summary>Proje...</summary><p>Project page: https://hunyuan-dialoggen.github.io/. Accepted to NAACL2025</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
