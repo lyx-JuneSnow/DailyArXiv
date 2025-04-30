@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2025
+title: Latest 15 Papers - April 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v1)** | 2025-04-29 | <details><summary>Proje...</summary><p>Project Page: https://river-zhang.github.io/ICEdit-gh-pages/</p></details> |
+| **[PixelHacker: Image Inpainting with Structural and Semantic Consistency](http://arxiv.org/abs/2504.20438v1)** | 2025-04-29 |  |
+| **[REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations](http://arxiv.org/abs/2502.03629v2)** | 2025-04-29 | <details><summary>Publi...</summary><p>Published at CVPR 2025</p></details> |
 | **[OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision](http://arxiv.org/abs/2411.07199v2)** | 2025-04-28 | 21 pages |
 | **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v2)** | 2025-04-28 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 | **[CapsFake: A Multimodal Capsule Network for Detecting Instruction-Guided Deepfakes](http://arxiv.org/abs/2504.19212v1)** | 2025-04-27 | 20 pages |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models](http://arxiv.org/abs/2504.15723v1)** | 2025-04-22 |  |
 | **[MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World](http://arxiv.org/abs/2504.15397v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://mirror-verse.github.io/</p></details> |
 | **[Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](http://arxiv.org/abs/2504.11922v2)** | 2025-04-21 |  |
-| **[Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion](http://arxiv.org/abs/2412.14462v2)** | 2025-04-20 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/KaKituken/affordance-aware-any. Project page at: https://kakituken.github.io/affordance-any.github.io/</p></details> |
-| **[CrowdGenUI: Aligning LLM-Based UI Generation with Crowdsourced User Preferences](http://arxiv.org/abs/2411.03477v2)** | 2025-04-20 |  |
-| **[MP-Mat: A 3D-and-Instance-Aware Human Matting and Editing Framework with Multiplane Representation](http://arxiv.org/abs/2504.14606v1)** | 2025-04-20 | <details><summary>Accep...</summary><p>Accepted by ICLR 2025</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
