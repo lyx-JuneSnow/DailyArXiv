@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 01, 2025
+title: Latest 15 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
+| **[Towards Scalable Human-aligned Benchmark for Text-guided Image Editing](http://arxiv.org/abs/2505.00502v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 (highlight)</p></details> |
+| **[GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](http://arxiv.org/abs/2504.02782v2)** | 2025-05-01 |  |
 | **[PixelHacker: Image Inpainting with Structural and Semantic Consistency](http://arxiv.org/abs/2504.20438v2)** | 2025-04-30 | <details><summary>https...</summary><p>https://hustvl.github.io/PixelHacker</p></details> |
 | **[ColorEdit: Training-free Image-Guided Color editing with diffusion model](http://arxiv.org/abs/2411.10232v2)** | 2025-04-30 |  |
 | **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v1)** | 2025-04-29 | <details><summary>Proje...</summary><p>Project Page: https://river-zhang.github.io/ICEdit-gh-pages/</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](http://arxiv.org/abs/2504.17894v1)** | 2025-04-24 |  |
 | **[Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields](http://arxiv.org/abs/2504.17712v1)** | 2025-04-24 |  |
 | **[Enhancing Variational Autoencoders with Smooth Robust Latent Encoding](http://arxiv.org/abs/2504.17219v1)** | 2025-04-24 | Under review |
-| **[UniVG: A Generalist Diffusion Model for Unified Image Generation and Editing](http://arxiv.org/abs/2503.12652v2)** | 2025-04-22 |  |
-| **[Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models](http://arxiv.org/abs/2504.15723v1)** | 2025-04-22 |  |
-| **[MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World](http://arxiv.org/abs/2504.15397v1)** | 2025-04-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://mirror-verse.github.io/</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
