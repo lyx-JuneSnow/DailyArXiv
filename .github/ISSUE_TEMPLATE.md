@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 02, 2025
+title: Latest 15 Papers - May 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -33,4 +33,9 @@ labels: documentation
 | **[Identity-Guided Collaborative Learning for Cloth-Changing Person Reidentification](http://arxiv.org/abs/2304.04400v2)** | 2023-11-17 |  |
 | **[Unsupervised clothing change adaptive person ReID](http://arxiv.org/abs/2109.03702v2)** | 2021-09-14 | 9 pages |
 | **[Multigranular Visual-Semantic Embedding for Cloth-Changing Person Re-identification](http://arxiv.org/abs/2108.04527v1)** | 2021-08-10 |  |
+
+## Virtual Try-On
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Image-Based Virtual Try-On: A Survey](http://arxiv.org/abs/2311.04811v4)** | 2024-09-03 | 30 pages, 20 figures |
 
