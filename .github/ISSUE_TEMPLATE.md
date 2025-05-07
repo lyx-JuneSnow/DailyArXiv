@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 06, 2025
+title: Latest 15 Papers - May 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v3)** | 2025-05-06 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
+| **[HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing](http://arxiv.org/abs/2412.04280v2)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 AI for Content Creation (AI4CC) Workshop. Codes and Supplementary Material: https://github.com/viiika/HumanEdit</p></details> |
 | **[BrushEdit: All-In-One Image Inpainting and Editing](http://arxiv.org/abs/2412.10316v3)** | 2025-05-05 | <details><summary>WebPa...</summary><p>WebPage available at https://liyaowei-stu.github.io/project/BrushEdit/</p></details> |
 | **[Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](http://arxiv.org/abs/2505.02471v1)** | 2025-05-05 | <details><summary>https...</summary><p>https://github.com/inclusionAI/Ming/tree/main/Ming-unify</p></details> |
 | **[SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing](http://arxiv.org/abs/2505.02370v1)** | 2025-05-05 | <details><summary>Code,...</summary><p>Code, Data and Models are available at: https://github.com/bytedance/SuperEdit</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[ColorEdit: Training-free Image-Guided Color editing with diffusion model](http://arxiv.org/abs/2411.10232v2)** | 2025-04-30 |  |
 | **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v1)** | 2025-04-29 | <details><summary>Proje...</summary><p>Project Page: https://river-zhang.github.io/ICEdit-gh-pages/</p></details> |
 | **[REALEDIT: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations](http://arxiv.org/abs/2502.03629v2)** | 2025-04-29 | <details><summary>Publi...</summary><p>Published at CVPR 2025</p></details> |
-| **[OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision](http://arxiv.org/abs/2411.07199v2)** | 2025-04-28 | 21 pages |
-| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v2)** | 2025-04-28 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
