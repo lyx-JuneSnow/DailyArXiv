@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 08, 2025
+title: Latest 15 Papers - May 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](http://arxiv.org/abs/2505.05472v1)** | 2025-05-08 | <details><summary>Mogao...</summary><p>Mogao Technical Report</p></details> |
+| **[MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models](http://arxiv.org/abs/2505.05101v1)** | 2025-05-08 | 9 pages, 7 figures |
+| **[GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing](http://arxiv.org/abs/2505.04915v1)** | 2025-05-08 | CVPR 2025 |
+| **[Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers](http://arxiv.org/abs/2505.04718v1)** | 2025-05-07 |  |
 | **[Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](http://arxiv.org/abs/2505.02471v2)** | 2025-05-07 | <details><summary>https...</summary><p>https://github.com/inclusionAI/Ming/tree/main/Ming-unify</p></details> |
 | **[Multi-turn Consistent Image Editing](http://arxiv.org/abs/2505.04320v1)** | 2025-05-07 |  |
 | **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v3)** | 2025-05-06 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](http://arxiv.org/abs/2504.02782v3)** | 2025-05-02 |  |
 | **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
 | **[Towards Scalable Human-aligned Benchmark for Text-guided Image Editing](http://arxiv.org/abs/2505.00502v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 (highlight)</p></details> |
-| **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v1)** | 2025-05-01 |  |
-| **[PixelHacker: Image Inpainting with Structural and Semantic Consistency](http://arxiv.org/abs/2504.20438v2)** | 2025-04-30 | <details><summary>https...</summary><p>https://hustvl.github.io/PixelHacker</p></details> |
-| **[ColorEdit: Training-free Image-Guided Color editing with diffusion model](http://arxiv.org/abs/2411.10232v2)** | 2025-04-30 |  |
-| **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v1)** | 2025-04-29 | <details><summary>Proje...</summary><p>Project Page: https://river-zhang.github.io/ICEdit-gh-pages/</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
