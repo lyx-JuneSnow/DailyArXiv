@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 11, 2025
+title: Latest 15 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing](http://arxiv.org/abs/2412.04280v2)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 AI for Content Creation (AI4CC) Workshop. Codes and Supplementary Material: https://github.com/viiika/HumanEdit</p></details> |
 | **[BrushEdit: All-In-One Image Inpainting and Editing](http://arxiv.org/abs/2412.10316v3)** | 2025-05-05 | <details><summary>WebPa...</summary><p>WebPage available at https://liyaowei-stu.github.io/project/BrushEdit/</p></details> |
 | **[SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing](http://arxiv.org/abs/2505.02370v1)** | 2025-05-05 | <details><summary>Code,...</summary><p>Code, Data and Models are available at: https://github.com/bytedance/SuperEdit</p></details> |
-| **[ParallelEdits: Efficient Multi-object Image Editing](http://arxiv.org/abs/2406.00985v4)** | 2025-05-04 |  |
-| **[Improving Editability in Image Generation with Layer-wise Memory](http://arxiv.org/abs/2505.01079v1)** | 2025-05-02 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page : https://carpedkm.github.io/projects/improving_edit/index.html</p></details> |
-| **[GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](http://arxiv.org/abs/2504.02782v3)** | 2025-05-02 |  |
-| **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
-| **[Towards Scalable Human-aligned Benchmark for Text-guided Image Editing](http://arxiv.org/abs/2505.00502v1)** | 2025-05-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 (highlight)</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
