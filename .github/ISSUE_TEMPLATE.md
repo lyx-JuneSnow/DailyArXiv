@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2025
+title: Latest 15 Papers - May 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Forget your Inverse DDIM for Image Editing](http://arxiv.org/abs/2505.09571v1)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, code available at https://guillermogotre.github.io/sage/</p></details> |
+| **[PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling](http://arxiv.org/abs/2504.14219v2)** | 2025-05-14 |  |
+| **[IntrinsicEdit: Precise generative image manipulation in intrinsic space](http://arxiv.org/abs/2505.08889v1)** | 2025-05-13 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025 Journal track</p></details> |
 | **[MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models](http://arxiv.org/abs/2505.05101v2)** | 2025-05-12 | 9 pages, 7 figures |
 | **[Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](http://arxiv.org/abs/2505.05472v2)** | 2025-05-11 | <details><summary>Mogao...</summary><p>Mogao Technical Report</p></details> |
 | **[Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](http://arxiv.org/abs/2409.02426v3)** | 2025-05-11 | <details><summary>39 pa...</summary><p>39 pages, 8 figures, 2 tables</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[BrushEdit: All-In-One Image Inpainting and Editing](http://arxiv.org/abs/2412.10316v3)** | 2025-05-05 | <details><summary>WebPa...</summary><p>WebPage available at https://liyaowei-stu.github.io/project/BrushEdit/</p></details> |
 | **[SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing](http://arxiv.org/abs/2505.02370v1)** | 2025-05-05 | <details><summary>Code,...</summary><p>Code, Data and Models are available at: https://github.com/bytedance/SuperEdit</p></details> |
 | **[ParallelEdits: Efficient Multi-object Image Editing](http://arxiv.org/abs/2406.00985v4)** | 2025-05-04 |  |
-| **[Improving Editability in Image Generation with Layer-wise Memory](http://arxiv.org/abs/2505.01079v1)** | 2025-05-02 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page : https://carpedkm.github.io/projects/improving_edit/index.html</p></details> |
-| **[GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation](http://arxiv.org/abs/2504.02782v3)** | 2025-05-02 |  |
-| **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v1)** | 2025-05-01 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
