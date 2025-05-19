@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 18, 2025
+title: Latest 15 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v1)** | 2025-05-16 |  |
 | **[3D-Fixup: Advancing Photo Editing with 3D Priors](http://arxiv.org/abs/2505.10566v1)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://3dfixup.github.io/</p></details> |
 | **[IntrinsicEdit: Precise generative image manipulation in intrinsic space](http://arxiv.org/abs/2505.08889v2)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025 Journal track</p></details> |
 | **[Don't Forget your Inverse DDIM for Image Editing](http://arxiv.org/abs/2505.09571v1)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, code available at https://guillermogotre.github.io/sage/</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v3)** | 2025-05-06 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 | **[HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing](http://arxiv.org/abs/2412.04280v2)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025 AI for Content Creation (AI4CC) Workshop. Codes and Supplementary Material: https://github.com/viiika/HumanEdit</p></details> |
 | **[BrushEdit: All-In-One Image Inpainting and Editing](http://arxiv.org/abs/2412.10316v3)** | 2025-05-05 | <details><summary>WebPa...</summary><p>WebPage available at https://liyaowei-stu.github.io/project/BrushEdit/</p></details> |
-| **[SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing](http://arxiv.org/abs/2505.02370v1)** | 2025-05-05 | <details><summary>Code,...</summary><p>Code, Data and Models are available at: https://github.com/bytedance/SuperEdit</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
