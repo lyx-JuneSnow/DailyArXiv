@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2025
+title: Latest 15 Papers - May 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -15,6 +15,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](http://arxiv.org/abs/2505.15644v1)** | 2025-05-21 | 14pages,15 figures |
 | **[CompBench: Benchmarking Complex Instruction-guided Image Editing](http://arxiv.org/abs/2505.12200v2)** | 2025-05-20 |  |
 | **[DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model](http://arxiv.org/abs/2505.12427v2)** | 2025-05-20 | Accepted by ICML2025 |
 | **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v3)** | 2025-05-20 |  |
@@ -29,7 +30,6 @@ labels: documentation
 | **[Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](http://arxiv.org/abs/2505.05472v2)** | 2025-05-11 | <details><summary>Mogao...</summary><p>Mogao Technical Report</p></details> |
 | **[Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](http://arxiv.org/abs/2409.02426v3)** | 2025-05-11 | <details><summary>39 pa...</summary><p>39 pages, 8 figures, 2 tables</p></details> |
 | **[GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing](http://arxiv.org/abs/2505.04915v1)** | 2025-05-08 | CVPR 2025 |
-| **[Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers](http://arxiv.org/abs/2505.04718v1)** | 2025-05-07 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
