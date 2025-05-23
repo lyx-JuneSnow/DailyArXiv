@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2025
+title: Latest 15 Papers - May 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -15,6 +15,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models](http://arxiv.org/abs/2505.16707v1)** | 2025-05-22 | 39 pages, 36 figures |
+| **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](http://arxiv.org/abs/2505.16181v1)** | 2025-05-22 | <details><summary>Code ...</summary><p>Code and qualitative examples are available at: https://psrdataset.github.io</p></details> |
 | **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](http://arxiv.org/abs/2505.15644v1)** | 2025-05-21 | 14pages,15 figures |
 | **[CompBench: Benchmarking Complex Instruction-guided Image Editing](http://arxiv.org/abs/2505.12200v2)** | 2025-05-20 |  |
 | **[DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model](http://arxiv.org/abs/2505.12427v2)** | 2025-05-20 | Accepted by ICML2025 |
@@ -28,8 +30,6 @@ labels: documentation
 | **[PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling](http://arxiv.org/abs/2504.14219v2)** | 2025-05-14 |  |
 | **[MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models](http://arxiv.org/abs/2505.05101v2)** | 2025-05-12 | 9 pages, 7 figures |
 | **[Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](http://arxiv.org/abs/2505.05472v2)** | 2025-05-11 | <details><summary>Mogao...</summary><p>Mogao Technical Report</p></details> |
-| **[Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](http://arxiv.org/abs/2409.02426v3)** | 2025-05-11 | <details><summary>39 pa...</summary><p>39 pages, 8 figures, 2 tables</p></details> |
-| **[GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing](http://arxiv.org/abs/2505.04915v1)** | 2025-05-08 | CVPR 2025 |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
