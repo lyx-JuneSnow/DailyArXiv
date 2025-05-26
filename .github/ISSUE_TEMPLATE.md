@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -15,6 +15,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval](http://arxiv.org/abs/2505.17796v1)** | 2025-05-23 | 20 pages, 6 figures |
+| **[R-Genie: Reasoning-Guided Generative Image Editing](http://arxiv.org/abs/2505.17768v1)** | 2025-05-23 | <details><summary>https...</summary><p>https://dongzhang89.github.io/RGenie.github.io/</p></details> |
 | **[KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models](http://arxiv.org/abs/2505.16707v1)** | 2025-05-22 | 39 pages, 36 figures |
 | **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](http://arxiv.org/abs/2505.16181v1)** | 2025-05-22 | <details><summary>Code ...</summary><p>Code and qualitative examples are available at: https://psrdataset.github.io</p></details> |
 | **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](http://arxiv.org/abs/2505.15644v1)** | 2025-05-21 | 14pages,15 figures |
@@ -28,8 +30,6 @@ labels: documentation
 | **[IntrinsicEdit: Precise generative image manipulation in intrinsic space](http://arxiv.org/abs/2505.08889v2)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025 Journal track</p></details> |
 | **[Don't Forget your Inverse DDIM for Image Editing](http://arxiv.org/abs/2505.09571v1)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, code available at https://guillermogotre.github.io/sage/</p></details> |
 | **[PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling](http://arxiv.org/abs/2504.14219v2)** | 2025-05-14 |  |
-| **[MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models](http://arxiv.org/abs/2505.05101v2)** | 2025-05-12 | 9 pages, 7 figures |
-| **[Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation](http://arxiv.org/abs/2505.05472v2)** | 2025-05-11 | <details><summary>Mogao...</summary><p>Mogao Technical Report</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
