@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - May 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -15,21 +15,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Training-Free High-Resolution Synthesis with Energy Rectification in Diffusion Models](http://arxiv.org/abs/2503.02537v3)** | 2025-05-26 | <details><summary>Proje...</summary><p>Project Page: https://zhenyangcs.github.io/RectifiedHR-Diffusion/</p></details> |
+| **[StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation](http://arxiv.org/abs/2505.19874v1)** | 2025-05-26 |  |
+| **[Marmot: Multi-Agent Reasoning for Multi-Object Self-Correcting in Improving Image-Text Alignment](http://arxiv.org/abs/2504.20054v2)** | 2025-05-26 |  |
+| **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](http://arxiv.org/abs/2505.16181v2)** | 2025-05-26 | <details><summary>Code ...</summary><p>Code and qualitative examples are available at: https://psrdataset.github.io</p></details> |
+| **[Beyond Editing Pairs: Fine-Grained Instructional Image Editing via Multi-Scale Learnable Regions](http://arxiv.org/abs/2505.19352v1)** | 2025-05-25 |  |
+| **[MIND-Edit: MLLM Insight-Driven Editing via Language-Vision Projection](http://arxiv.org/abs/2505.19149v1)** | 2025-05-25 |  |
+| **[Affective Image Editing: Shaping Emotional Factors via Text Descriptions](http://arxiv.org/abs/2505.18699v1)** | 2025-05-24 |  |
+| **[Improved Immiscible Diffusion: Accelerate Diffusion Training by Reducing Its Miscibility](http://arxiv.org/abs/2505.18521v1)** | 2025-05-24 |  |
+| **[OneDiff: A Generalist Model for Image Difference Captioning](http://arxiv.org/abs/2407.05645v4)** | 2025-05-24 |  |
 | **[DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval](http://arxiv.org/abs/2505.17796v1)** | 2025-05-23 | 20 pages, 6 figures |
 | **[R-Genie: Reasoning-Guided Generative Image Editing](http://arxiv.org/abs/2505.17768v1)** | 2025-05-23 | <details><summary>https...</summary><p>https://dongzhang89.github.io/RGenie.github.io/</p></details> |
 | **[KRIS-Bench: Benchmarking Next-Level Intelligent Image Editing Models](http://arxiv.org/abs/2505.16707v1)** | 2025-05-22 | 39 pages, 36 figures |
-| **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](http://arxiv.org/abs/2505.16181v1)** | 2025-05-22 | <details><summary>Code ...</summary><p>Code and qualitative examples are available at: https://psrdataset.github.io</p></details> |
 | **[FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models](http://arxiv.org/abs/2505.15644v1)** | 2025-05-21 | 14pages,15 figures |
 | **[CompBench: Benchmarking Complex Instruction-guided Image Editing](http://arxiv.org/abs/2505.12200v2)** | 2025-05-20 |  |
 | **[DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model](http://arxiv.org/abs/2505.12427v2)** | 2025-05-20 | Accepted by ICML2025 |
-| **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v3)** | 2025-05-20 |  |
-| **[Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models](http://arxiv.org/abs/2504.15723v2)** | 2025-05-20 |  |
-| **[X-Edit: Detecting and Localizing Edits in Images Altered by Text-Guided Diffusion Models](http://arxiv.org/abs/2505.11753v1)** | 2025-05-16 | CVPR (XAI4CV) 2025 |
-| **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v1)** | 2025-05-16 |  |
-| **[3D-Fixup: Advancing Photo Editing with 3D Priors](http://arxiv.org/abs/2505.10566v1)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025. Project page: https://3dfixup.github.io/</p></details> |
-| **[IntrinsicEdit: Precise generative image manipulation in intrinsic space](http://arxiv.org/abs/2505.08889v2)** | 2025-05-15 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2025 Journal track</p></details> |
-| **[Don't Forget your Inverse DDIM for Image Editing](http://arxiv.org/abs/2505.09571v1)** | 2025-05-14 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, code available at https://guillermogotre.github.io/sage/</p></details> |
-| **[PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling](http://arxiv.org/abs/2504.14219v2)** | 2025-05-14 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
