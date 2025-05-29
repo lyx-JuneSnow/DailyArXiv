@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2025
+title: Latest 15 Papers - May 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](http://arxiv.org/abs/2505.20540v1)** | 2025-05-26 | 30 pages, 9 figures |
+| **[Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](http://arxiv.org/abs/2505.20540v2)** | 2025-05-28 | 30 pages, 9 figures |
 | **[Unsupervised Person Re-Identification: A Systematic Survey of Challenges and Solutions](http://arxiv.org/abs/2109.06057v2)** | 2021-10-02 | 20 pages |
 | **[Weakly Supervised Person Re-ID: Differentiable Graphical Learning and A New Benchmark](http://arxiv.org/abs/1904.03845v3)** | 2020-07-15 | <details><summary>Accep...</summary><p>Accepted by TNNLS 2020</p></details> |
 | **[CANU-ReID: A Conditional Adversarial Network for Unsupervised person Re-IDentification](http://arxiv.org/abs/1904.01308v2)** | 2020-04-28 |  |
