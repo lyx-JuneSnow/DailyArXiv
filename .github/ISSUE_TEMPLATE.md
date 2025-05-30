@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2025
+title: Latest 15 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers](http://arxiv.org/abs/2505.23758v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project Webpage: https://lorashop.github.io/</p></details> |
+| **[Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features](http://arxiv.org/abs/2505.23586v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper was presented at the British Machine Vision Conference 2024 workshop on Media authenticity in the age of artificial intelligence</p></details> |
+| **[Aligning Text to Image in Diffusion Models is Easier Than You Think](http://arxiv.org/abs/2503.08250v4)** | 2025-05-29 |  |
+| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v1)** | 2025-05-29 |  |
+| **[HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer](http://arxiv.org/abs/2505.22705v1)** | 2025-05-28 | <details><summary>Sourc...</summary><p>Source codes and models are available at https://github.com/HiDream-ai/HiDream-I1 and https://github.com/HiDream-ai/HiDream-E1</p></details> |
 | **[Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks](http://arxiv.org/abs/2505.20916v1)** | 2025-05-27 | <details><summary>26 pa...</summary><p>26 pages including appendix, 14 images, 3 tables</p></details> |
 | **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v4)** | 2025-05-27 |  |
 | **[InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling](http://arxiv.org/abs/2505.20600v1)** | 2025-05-27 |  |
@@ -26,11 +31,6 @@ labels: documentation
 | **[Marmot: Multi-Agent Reasoning for Multi-Object Self-Correcting in Improving Image-Text Alignment](http://arxiv.org/abs/2504.20054v2)** | 2025-05-26 |  |
 | **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](http://arxiv.org/abs/2505.16181v2)** | 2025-05-26 | <details><summary>Code ...</summary><p>Code and qualitative examples are available at: https://psrdataset.github.io</p></details> |
 | **[Beyond Editing Pairs: Fine-Grained Instructional Image Editing via Multi-Scale Learnable Regions](http://arxiv.org/abs/2505.19352v1)** | 2025-05-25 |  |
-| **[MIND-Edit: MLLM Insight-Driven Editing via Language-Vision Projection](http://arxiv.org/abs/2505.19149v1)** | 2025-05-25 |  |
-| **[Affective Image Editing: Shaping Emotional Factors via Text Descriptions](http://arxiv.org/abs/2505.18699v1)** | 2025-05-24 |  |
-| **[Improved Immiscible Diffusion: Accelerate Diffusion Training by Reducing Its Miscibility](http://arxiv.org/abs/2505.18521v1)** | 2025-05-24 |  |
-| **[OneDiff: A Generalist Model for Image Difference Captioning](http://arxiv.org/abs/2407.05645v4)** | 2025-05-24 |  |
-| **[DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval](http://arxiv.org/abs/2505.17796v1)** | 2025-05-23 | 20 pages, 6 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
