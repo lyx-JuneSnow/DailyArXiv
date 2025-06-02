@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v3)** | 2025-05-30 |  |
+| **[TrojanEdit: Multimodal Backdoor Attack Against Image Editing Model](http://arxiv.org/abs/2411.14681v2)** | 2025-05-30 |  |
+| **[Cora: Correspondence-aware image editing using few step diffusion](http://arxiv.org/abs/2505.23907v1)** | 2025-05-29 | <details><summary>Publi...</summary><p>Published in SIGGRAPH 2025</p></details> |
 | **[LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers](http://arxiv.org/abs/2505.23758v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project Webpage: https://lorashop.github.io/</p></details> |
 | **[Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features](http://arxiv.org/abs/2505.23586v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper was presented at the British Machine Vision Conference 2024 workshop on Media authenticity in the age of artificial intelligence</p></details> |
 | **[Aligning Text to Image in Diffusion Models is Easier Than You Think](http://arxiv.org/abs/2503.08250v4)** | 2025-05-29 |  |
@@ -28,13 +31,11 @@ labels: documentation
 | **[ImgEdit: A Unified Image Editing Dataset and Benchmark](http://arxiv.org/abs/2505.20275v1)** | 2025-05-26 |  |
 | **[Efficient Training-Free High-Resolution Synthesis with Energy Rectification in Diffusion Models](http://arxiv.org/abs/2503.02537v3)** | 2025-05-26 | <details><summary>Proje...</summary><p>Project Page: https://zhenyangcs.github.io/RectifiedHR-Diffusion/</p></details> |
 | **[StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation](http://arxiv.org/abs/2505.19874v1)** | 2025-05-26 |  |
-| **[Marmot: Multi-Agent Reasoning for Multi-Object Self-Correcting in Improving Image-Text Alignment](http://arxiv.org/abs/2504.20054v2)** | 2025-05-26 |  |
-| **[Understanding Generative AI Capabilities in Everyday Image Editing Tasks](http://arxiv.org/abs/2505.16181v2)** | 2025-05-26 | <details><summary>Code ...</summary><p>Code and qualitative examples are available at: https://psrdataset.github.io</p></details> |
-| **[Beyond Editing Pairs: Fine-Grained Instructional Image Editing via Multi-Scale Learnable Regions](http://arxiv.org/abs/2505.19352v1)** | 2025-05-25 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](http://arxiv.org/abs/2505.24466v1)** | 2025-05-30 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Under review</p></details> |
 | **[CAMeL: Cross-modality Adaptive Meta-Learning for Text-based Person Retrieval](http://arxiv.org/abs/2504.18782v1)** | 2025-04-26 |  |
 | **[TVPR: Text-to-Video Person Retrieval and a New Benchmark](http://arxiv.org/abs/2307.07184v3)** | 2025-04-20 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, Proceedings of the 32nd ACM International Conference on Multimedia</p></details> |
 | **[UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval](http://arxiv.org/abs/2504.10084v1)** | 2025-04-14 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, first submited to IEEE TCSVT on 2024 May. Under review</p></details> |
@@ -49,7 +50,6 @@ labels: documentation
 | **[CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](http://arxiv.org/abs/2309.09496v2)** | 2024-01-02 | <details><summary>ICASS...</summary><p>ICASSP2024(accepted). minor typos revision compared to version 1 in arxiv</p></details> |
 | **[Prototype-Guided Text-based Person Search based on Rich Chinese Descriptions](http://arxiv.org/abs/2312.14834v1)** | 2023-12-22 | 11 pages, 5 figures |
 | **[Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark](http://arxiv.org/abs/2306.02898v4)** | 2023-08-14 |  |
-| **[Look Before You Leap: Improving Text-based Person Retrieval by Learning A Consistent Cross-modal Common Manifold](http://arxiv.org/abs/2209.06209v1)** | 2022-09-13 | <details><summary>Accep...</summary><p>Accepted on ACM MM '22. arXiv admin note: text overlap with arXiv:2209.05773</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
