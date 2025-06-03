@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion](http://arxiv.org/abs/2412.04301v4)** | 2025-06-02 | 17 pages, 15 figures |
+| **[LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration](http://arxiv.org/abs/2504.00010v2)** | 2025-05-31 | 26 pages |
 | **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v3)** | 2025-05-30 |  |
 | **[TrojanEdit: Multimodal Backdoor Attack Against Image Editing Model](http://arxiv.org/abs/2411.14681v2)** | 2025-05-30 |  |
 | **[Cora: Correspondence-aware image editing using few step diffusion](http://arxiv.org/abs/2505.23907v1)** | 2025-05-29 | <details><summary>Publi...</summary><p>Published in SIGGRAPH 2025</p></details> |
@@ -29,8 +31,6 @@ labels: documentation
 | **[InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling](http://arxiv.org/abs/2505.20600v1)** | 2025-05-27 |  |
 | **[What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models](http://arxiv.org/abs/2505.20405v1)** | 2025-05-26 |  |
 | **[ImgEdit: A Unified Image Editing Dataset and Benchmark](http://arxiv.org/abs/2505.20275v1)** | 2025-05-26 |  |
-| **[Efficient Training-Free High-Resolution Synthesis with Energy Rectification in Diffusion Models](http://arxiv.org/abs/2503.02537v3)** | 2025-05-26 | <details><summary>Proje...</summary><p>Project Page: https://zhenyangcs.github.io/RectifiedHR-Diffusion/</p></details> |
-| **[StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation](http://arxiv.org/abs/2505.19874v1)** | 2025-05-26 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
