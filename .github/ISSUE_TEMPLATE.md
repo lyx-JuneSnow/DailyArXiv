@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 03, 2025
+title: Latest 15 Papers - June 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
+| **[MedEBench: Revisiting Text-instructed Image Editing on Medical Domain](http://arxiv.org/abs/2506.01921v3)** | 2025-06-04 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
+| **[Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](http://arxiv.org/abs/2411.15466v2)** | 2025-06-04 | CVPR 2025 |
+| **[RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions](http://arxiv.org/abs/2506.03448v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project page: \url{http://refedit.vercel.app}</p></details> |
+| **[ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](http://arxiv.org/abs/2506.03107v1)** | 2025-06-03 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/bytemorph Dataset: https://huggingface.co/datasets/ByteDance-Seed/BM-6M Benchmark: https://huggingface.co/datasets/ByteDance-Seed/BM-Bench Code: https://github.com/ByteDance-Seed/BM-code Demo: https://huggingface.co/spaces/Boese0601/ByteMorph-Demo</p></details> |
+| **[DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing](http://arxiv.org/abs/2506.02560v1)** | 2025-06-03 |  |
+| **[RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers](http://arxiv.org/abs/2506.02528v1)** | 2025-06-03 |  |
+| **[IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout](http://arxiv.org/abs/2506.01949v1)** | 2025-06-02 |  |
 | **[SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion](http://arxiv.org/abs/2412.04301v4)** | 2025-06-02 | 17 pages, 15 figures |
+| **[Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation](http://arxiv.org/abs/2506.01480v1)** | 2025-06-02 | 21 pages, 7 figures |
+| **[DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing](http://arxiv.org/abs/2506.01430v1)** | 2025-06-02 | <details><summary>Proje...</summary><p>Project URL: https://xiechenxi99.github.io/DNAEdit</p></details> |
 | **[LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration](http://arxiv.org/abs/2504.00010v2)** | 2025-05-31 | 26 pages |
+| **[Concept-Centric Token Interpretation for Vector-Quantized Generative Models](http://arxiv.org/abs/2506.00698v1)** | 2025-05-31 | 17 pages, 7 figures |
 | **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v3)** | 2025-05-30 |  |
 | **[TrojanEdit: Multimodal Backdoor Attack Against Image Editing Model](http://arxiv.org/abs/2411.14681v2)** | 2025-05-30 |  |
-| **[Cora: Correspondence-aware image editing using few step diffusion](http://arxiv.org/abs/2505.23907v1)** | 2025-05-29 | <details><summary>Publi...</summary><p>Published in SIGGRAPH 2025</p></details> |
-| **[LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers](http://arxiv.org/abs/2505.23758v1)** | 2025-05-29 | <details><summary>Proje...</summary><p>Project Webpage: https://lorashop.github.io/</p></details> |
-| **[Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features](http://arxiv.org/abs/2505.23586v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper was presented at the British Machine Vision Conference 2024 workshop on Media authenticity in the age of artificial intelligence</p></details> |
-| **[Aligning Text to Image in Diffusion Models is Easier Than You Think](http://arxiv.org/abs/2503.08250v4)** | 2025-05-29 |  |
-| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v1)** | 2025-05-29 |  |
-| **[HiDream-I1: A High-Efficient Image Generative Foundation Model with Sparse Diffusion Transformer](http://arxiv.org/abs/2505.22705v1)** | 2025-05-28 | <details><summary>Sourc...</summary><p>Source codes and models are available at https://github.com/HiDream-ai/HiDream-I1 and https://github.com/HiDream-ai/HiDream-E1</p></details> |
-| **[Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks](http://arxiv.org/abs/2505.20916v1)** | 2025-05-27 | <details><summary>26 pa...</summary><p>26 pages including appendix, 14 images, 3 tables</p></details> |
-| **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v4)** | 2025-05-27 |  |
-| **[InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling](http://arxiv.org/abs/2505.20600v1)** | 2025-05-27 |  |
-| **[What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models](http://arxiv.org/abs/2505.20405v1)** | 2025-05-26 |  |
-| **[ImgEdit: A Unified Image Editing Dataset and Benchmark](http://arxiv.org/abs/2505.20275v1)** | 2025-05-26 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
