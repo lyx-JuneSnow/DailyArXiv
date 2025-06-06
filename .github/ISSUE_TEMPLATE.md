@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2025
+title: Latest 15 Papers - June 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SeedEdit 3.0: Fast and High-Quality Generative Image Editing](http://arxiv.org/abs/2506.05083v1)** | 2025-06-05 | <details><summary>Our w...</summary><p>Our website: https://seed.bytedance.com/tech/seededit</p></details> |
+| **[Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking](http://arxiv.org/abs/2506.04879v1)** | 2025-06-05 |  |
+| **[HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](http://arxiv.org/abs/2506.04421v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://research.nvidia.com/labs/dir/hmar/</p></details> |
+| **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v1)** | 2025-06-04 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
 | **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
 | **[MedEBench: Revisiting Text-instructed Image Editing on Medical Domain](http://arxiv.org/abs/2506.01921v3)** | 2025-06-04 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
 | **[Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](http://arxiv.org/abs/2411.15466v2)** | 2025-06-04 | CVPR 2025 |
@@ -27,10 +31,6 @@ labels: documentation
 | **[SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion](http://arxiv.org/abs/2412.04301v4)** | 2025-06-02 | 17 pages, 15 figures |
 | **[Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation](http://arxiv.org/abs/2506.01480v1)** | 2025-06-02 | 21 pages, 7 figures |
 | **[DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing](http://arxiv.org/abs/2506.01430v1)** | 2025-06-02 | <details><summary>Proje...</summary><p>Project URL: https://xiechenxi99.github.io/DNAEdit</p></details> |
-| **[LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration](http://arxiv.org/abs/2504.00010v2)** | 2025-05-31 | 26 pages |
-| **[Concept-Centric Token Interpretation for Vector-Quantized Generative Models](http://arxiv.org/abs/2506.00698v1)** | 2025-05-31 | 17 pages, 7 figures |
-| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v3)** | 2025-05-30 |  |
-| **[TrojanEdit: Multimodal Backdoor Attack Against Image Editing Model](http://arxiv.org/abs/2411.14681v2)** | 2025-05-30 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
