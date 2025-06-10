@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,7 +16,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SeedEdit 3.0: Fast and High-Quality Generative Image Editing](http://arxiv.org/abs/2506.05083v1)** | 2025-06-05 | <details><summary>Our w...</summary><p>Our website: https://seed.bytedance.com/tech/seededit</p></details> |
+| **[PairEdit: Learning Semantic Variations for Exemplar-based Image Editing](http://arxiv.org/abs/2506.07992v1)** | 2025-06-09 |  |
+| **[Diffusion Counterfactual Generation with Semantic Abduction](http://arxiv.org/abs/2506.07883v1)** | 2025-06-09 | <details><summary>Proce...</summary><p>Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada</p></details> |
+| **[DragNeXt: Rethinking Drag-Based Image Editing](http://arxiv.org/abs/2506.07611v1)** | 2025-06-09 |  |
+| **[SeedEdit 3.0: Fast and High-Quality Generative Image Editing](http://arxiv.org/abs/2506.05083v2)** | 2025-06-06 | <details><summary>Websi...</summary><p>Website: https://seed.bytedance.com/tech/seededit</p></details> |
+| **[Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models](http://arxiv.org/abs/2506.06006v1)** | 2025-06-06 |  |
+| **[FADE: Frequency-Aware Diffusion Model Factorization for Video Editing](http://arxiv.org/abs/2506.05934v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
+| **[Towards Reliable Identification of Diffusion-based Image Manipulations](http://arxiv.org/abs/2506.05466v1)** | 2025-06-05 |  |
 | **[Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking](http://arxiv.org/abs/2506.04879v1)** | 2025-06-05 |  |
 | **[HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](http://arxiv.org/abs/2506.04421v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://research.nvidia.com/labs/dir/hmar/</p></details> |
 | **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v1)** | 2025-06-04 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
@@ -25,12 +31,6 @@ labels: documentation
 | **[Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](http://arxiv.org/abs/2411.15466v2)** | 2025-06-04 | CVPR 2025 |
 | **[RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions](http://arxiv.org/abs/2506.03448v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project page: \url{http://refedit.vercel.app}</p></details> |
 | **[ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](http://arxiv.org/abs/2506.03107v1)** | 2025-06-03 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/bytemorph Dataset: https://huggingface.co/datasets/ByteDance-Seed/BM-6M Benchmark: https://huggingface.co/datasets/ByteDance-Seed/BM-Bench Code: https://github.com/ByteDance-Seed/BM-code Demo: https://huggingface.co/spaces/Boese0601/ByteMorph-Demo</p></details> |
-| **[DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing](http://arxiv.org/abs/2506.02560v1)** | 2025-06-03 |  |
-| **[RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers](http://arxiv.org/abs/2506.02528v1)** | 2025-06-03 |  |
-| **[IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout](http://arxiv.org/abs/2506.01949v1)** | 2025-06-02 |  |
-| **[SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion](http://arxiv.org/abs/2412.04301v4)** | 2025-06-02 | 17 pages, 15 figures |
-| **[Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation](http://arxiv.org/abs/2506.01480v1)** | 2025-06-02 | 21 pages, 7 figures |
-| **[DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing](http://arxiv.org/abs/2506.01430v1)** | 2025-06-02 | <details><summary>Proje...</summary><p>Project URL: https://xiechenxi99.github.io/DNAEdit</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
