@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2025
+title: Latest 15 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fine-Grained Spatially Varying Material Selection in Images](http://arxiv.org/abs/2506.09023v1)** | 2025-06-10 |  |
+| **[Do Concept Replacement Techniques Really Erase Unacceptable Concepts?](http://arxiv.org/abs/2506.08991v1)** | 2025-06-10 |  |
+| **[RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](http://arxiv.org/abs/2506.08632v1)** | 2025-06-10 |  |
+| **[Highly Compressed Tokenizer Can Generate Without Training](http://arxiv.org/abs/2506.08257v1)** | 2025-06-09 | <details><summary>Main ...</summary><p>Main manuscript: 9 pages, 7 figures. Appendix: 8 pages, 9 figures. To appear in the Proceedings of the 42nd International Conference on Machine Learning</p></details> |
 | **[PairEdit: Learning Semantic Variations for Exemplar-based Image Editing](http://arxiv.org/abs/2506.07992v1)** | 2025-06-09 |  |
 | **[Diffusion Counterfactual Generation with Semantic Abduction](http://arxiv.org/abs/2506.07883v1)** | 2025-06-09 | <details><summary>Proce...</summary><p>Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada</p></details> |
 | **[DragNeXt: Rethinking Drag-Based Image Editing](http://arxiv.org/abs/2506.07611v1)** | 2025-06-09 |  |
@@ -27,10 +31,6 @@ labels: documentation
 | **[HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](http://arxiv.org/abs/2506.04421v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://research.nvidia.com/labs/dir/hmar/</p></details> |
 | **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v1)** | 2025-06-04 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
 | **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
-| **[MedEBench: Revisiting Text-instructed Image Editing on Medical Domain](http://arxiv.org/abs/2506.01921v3)** | 2025-06-04 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
-| **[Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator](http://arxiv.org/abs/2411.15466v2)** | 2025-06-04 | CVPR 2025 |
-| **[RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions](http://arxiv.org/abs/2506.03448v1)** | 2025-06-03 | <details><summary>Proje...</summary><p>Project page: \url{http://refedit.vercel.app}</p></details> |
-| **[ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](http://arxiv.org/abs/2506.03107v1)** | 2025-06-03 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/bytemorph Dataset: https://huggingface.co/datasets/ByteDance-Seed/BM-6M Benchmark: https://huggingface.co/datasets/ByteDance-Seed/BM-Bench Code: https://github.com/ByteDance-Seed/BM-code Demo: https://huggingface.co/spaces/Boese0601/ByteMorph-Demo</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
