@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2025
+title: Latest 15 Papers - June 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Fine-Grained Spatially Varying Material Selection in Images](http://arxiv.org/abs/2506.09023v1)** | 2025-06-10 |  |
+| **[VINCIE: Unlocking In-context Image Editing from Video](http://arxiv.org/abs/2506.10941v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://vincie2025.github.io/</p></details> |
+| **[Towards Reliable Identification of Diffusion-based Image Manipulations](http://arxiv.org/abs/2506.05466v2)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page at https://alex-costanzino.github.io/radar/</p></details> |
+| **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v1)** | 2025-06-12 | 11 pages, 9 figures |
+| **[EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits](http://arxiv.org/abs/2506.09988v1)** | 2025-06-11 |  |
+| **[Fine-Grained Spatially Varying Material Selection in Images](http://arxiv.org/abs/2506.09023v2)** | 2025-06-11 |  |
+| **[ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models](http://arxiv.org/abs/2506.09740v1)** | 2025-06-11 |  |
+| **[ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](http://arxiv.org/abs/2506.03107v2)** | 2025-06-11 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/bytemorph Dataset: https://huggingface.co/datasets/ByteDance-Seed/BM-6M Benchmark: https://huggingface.co/datasets/ByteDance-Seed/BM-Bench Code: https://github.com/ByteDance-Seed/BM-code Demo: https://huggingface.co/spaces/Boese0601/ByteMorph-Demo</p></details> |
+| **[Ming-Omni: A Unified Multimodal Model for Perception and Generation](http://arxiv.org/abs/2506.09344v1)** | 2025-06-11 | 18 pages,8 figures |
+| **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v2)** | 2025-06-10 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
 | **[Do Concept Replacement Techniques Really Erase Unacceptable Concepts?](http://arxiv.org/abs/2506.08991v1)** | 2025-06-10 |  |
 | **[RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](http://arxiv.org/abs/2506.08632v1)** | 2025-06-10 |  |
 | **[Highly Compressed Tokenizer Can Generate Without Training](http://arxiv.org/abs/2506.08257v1)** | 2025-06-09 | <details><summary>Main ...</summary><p>Main manuscript: 9 pages, 7 figures. Appendix: 8 pages, 9 figures. To appear in the Proceedings of the 42nd International Conference on Machine Learning</p></details> |
 | **[PairEdit: Learning Semantic Variations for Exemplar-based Image Editing](http://arxiv.org/abs/2506.07992v1)** | 2025-06-09 |  |
 | **[Diffusion Counterfactual Generation with Semantic Abduction](http://arxiv.org/abs/2506.07883v1)** | 2025-06-09 | <details><summary>Proce...</summary><p>Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada</p></details> |
 | **[DragNeXt: Rethinking Drag-Based Image Editing](http://arxiv.org/abs/2506.07611v1)** | 2025-06-09 |  |
-| **[SeedEdit 3.0: Fast and High-Quality Generative Image Editing](http://arxiv.org/abs/2506.05083v2)** | 2025-06-06 | <details><summary>Websi...</summary><p>Website: https://seed.bytedance.com/tech/seededit</p></details> |
-| **[Bootstrapping World Models from Dynamics Models in Multimodal Foundation Models](http://arxiv.org/abs/2506.06006v1)** | 2025-06-06 |  |
-| **[FADE: Frequency-Aware Diffusion Model Factorization for Video Editing](http://arxiv.org/abs/2506.05934v1)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</p></details> |
-| **[Towards Reliable Identification of Diffusion-based Image Manipulations](http://arxiv.org/abs/2506.05466v1)** | 2025-06-05 |  |
-| **[Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking](http://arxiv.org/abs/2506.04879v1)** | 2025-06-05 |  |
-| **[HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](http://arxiv.org/abs/2506.04421v1)** | 2025-06-04 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025. Project Page: https://research.nvidia.com/labs/dir/hmar/</p></details> |
-| **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v1)** | 2025-06-04 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
-| **[Image Editing As Programs with Diffusion Models](http://arxiv.org/abs/2506.04158v1)** | 2025-06-04 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
