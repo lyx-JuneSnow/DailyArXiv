@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SphereDrag: Spherical Geometry-Aware Panoramic Image Editing](http://arxiv.org/abs/2506.11863v1)** | 2025-06-13 |  |
+| **[Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](http://arxiv.org/abs/2505.02471v3)** | 2025-06-13 | <details><summary>https...</summary><p>https://github.com/inclusionAI/Ming/tree/Ming-Lite-Omni-Preview/Ming-unify</p></details> |
 | **[VINCIE: Unlocking In-context Image Editing from Video](http://arxiv.org/abs/2506.10941v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://vincie2025.github.io/</p></details> |
 | **[Towards Reliable Identification of Diffusion-based Image Manipulations](http://arxiv.org/abs/2506.05466v2)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page at https://alex-costanzino.github.io/radar/</p></details> |
 | **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v1)** | 2025-06-12 | 11 pages, 9 figures |
@@ -29,8 +31,6 @@ labels: documentation
 | **[RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](http://arxiv.org/abs/2506.08632v1)** | 2025-06-10 |  |
 | **[Highly Compressed Tokenizer Can Generate Without Training](http://arxiv.org/abs/2506.08257v1)** | 2025-06-09 | <details><summary>Main ...</summary><p>Main manuscript: 9 pages, 7 figures. Appendix: 8 pages, 9 figures. To appear in the Proceedings of the 42nd International Conference on Machine Learning</p></details> |
 | **[PairEdit: Learning Semantic Variations for Exemplar-based Image Editing](http://arxiv.org/abs/2506.07992v1)** | 2025-06-09 |  |
-| **[Diffusion Counterfactual Generation with Semantic Abduction](http://arxiv.org/abs/2506.07883v1)** | 2025-06-09 | <details><summary>Proce...</summary><p>Proceedings of the 42nd International Conference on Machine Learning, Vancouver, Canada</p></details> |
-| **[DragNeXt: Rethinking Drag-Based Image Editing](http://arxiv.org/abs/2506.07611v1)** | 2025-06-09 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
