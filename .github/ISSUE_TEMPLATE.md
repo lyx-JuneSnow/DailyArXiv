@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2025
+title: Latest 15 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.08434v4)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://atfortes.github.io/projects/bokeh-diffusion/</p></details> |
+| **[AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing](http://arxiv.org/abs/2506.13301v1)** | 2025-06-16 |  |
+| **[ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies](http://arxiv.org/abs/2506.12830v1)** | 2025-06-15 | 7 Pages |
 | **[SphereDrag: Spherical Geometry-Aware Panoramic Image Editing](http://arxiv.org/abs/2506.11863v1)** | 2025-06-13 |  |
 | **[Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](http://arxiv.org/abs/2505.02471v3)** | 2025-06-13 | <details><summary>https...</summary><p>https://github.com/inclusionAI/Ming/tree/Ming-Lite-Omni-Preview/Ming-unify</p></details> |
 | **[VINCIE: Unlocking In-context Image Editing from Video](http://arxiv.org/abs/2506.10941v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://vincie2025.github.io/</p></details> |
@@ -28,9 +31,6 @@ labels: documentation
 | **[Ming-Omni: A Unified Multimodal Model for Perception and Generation](http://arxiv.org/abs/2506.09344v1)** | 2025-06-11 | 18 pages,8 figures |
 | **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v2)** | 2025-06-10 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
 | **[Do Concept Replacement Techniques Really Erase Unacceptable Concepts?](http://arxiv.org/abs/2506.08991v1)** | 2025-06-10 |  |
-| **[RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](http://arxiv.org/abs/2506.08632v1)** | 2025-06-10 |  |
-| **[Highly Compressed Tokenizer Can Generate Without Training](http://arxiv.org/abs/2506.08257v1)** | 2025-06-09 | <details><summary>Main ...</summary><p>Main manuscript: 9 pages, 7 figures. Appendix: 8 pages, 9 figures. To appear in the Proceedings of the 42nd International Conference on Machine Learning</p></details> |
-| **[PairEdit: Learning Semantic Variations for Exemplar-based Image Editing](http://arxiv.org/abs/2506.07992v1)** | 2025-06-09 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
