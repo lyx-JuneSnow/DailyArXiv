@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 17, 2025
+title: Latest 15 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,8 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v2)** | 2025-06-17 |  |
 | **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.08434v4)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://atfortes.github.io/projects/bokeh-diffusion/</p></details> |
 | **[AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing](http://arxiv.org/abs/2506.13301v1)** | 2025-06-16 |  |
+| **[Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing](http://arxiv.org/abs/2506.13827v1)** | 2025-06-15 |  |
 | **[ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies](http://arxiv.org/abs/2506.12830v1)** | 2025-06-15 | 7 Pages |
 | **[SphereDrag: Spherical Geometry-Aware Panoramic Image Editing](http://arxiv.org/abs/2506.11863v1)** | 2025-06-13 |  |
 | **[Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](http://arxiv.org/abs/2505.02471v3)** | 2025-06-13 | <details><summary>https...</summary><p>https://github.com/inclusionAI/Ming/tree/Ming-Lite-Omni-Preview/Ming-unify</p></details> |
@@ -29,8 +31,6 @@ labels: documentation
 | **[ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models](http://arxiv.org/abs/2506.09740v1)** | 2025-06-11 |  |
 | **[ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](http://arxiv.org/abs/2506.03107v2)** | 2025-06-11 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/bytemorph Dataset: https://huggingface.co/datasets/ByteDance-Seed/BM-6M Benchmark: https://huggingface.co/datasets/ByteDance-Seed/BM-Bench Code: https://github.com/ByteDance-Seed/BM-code Demo: https://huggingface.co/spaces/Boese0601/ByteMorph-Demo</p></details> |
 | **[Ming-Omni: A Unified Multimodal Model for Perception and Generation](http://arxiv.org/abs/2506.09344v1)** | 2025-06-11 | 18 pages,8 figures |
-| **[Is Perturbation-Based Image Protection Disruptive to Image Editing?](http://arxiv.org/abs/2506.04394v2)** | 2025-06-10 | <details><summary>6 pag...</summary><p>6 pages, 8 figures, accepted by ICIP 2025</p></details> |
-| **[Do Concept Replacement Techniques Really Erase Unacceptable Concepts?](http://arxiv.org/abs/2506.08991v1)** | 2025-06-10 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
