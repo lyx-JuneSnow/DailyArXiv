@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2025
+title: Latest 15 Papers - June 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v2)** | 2025-06-20 |  |
+| **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v1)** | 2025-06-20 |  |
+| **[Arch-Router: Aligning LLM Routing with Human Preferences](http://arxiv.org/abs/2506.16655v1)** | 2025-06-19 |  |
+| **[VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics](http://arxiv.org/abs/2506.15903v1)** | 2025-06-18 |  |
 | **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v2)** | 2025-06-17 |  |
 | **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.08434v4)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://atfortes.github.io/projects/bokeh-diffusion/</p></details> |
 | **[AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing](http://arxiv.org/abs/2506.13301v1)** | 2025-06-16 |  |
@@ -27,10 +31,6 @@ labels: documentation
 | **[Towards Reliable Identification of Diffusion-based Image Manipulations](http://arxiv.org/abs/2506.05466v2)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page at https://alex-costanzino.github.io/radar/</p></details> |
 | **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v1)** | 2025-06-12 | 11 pages, 9 figures |
 | **[EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits](http://arxiv.org/abs/2506.09988v1)** | 2025-06-11 |  |
-| **[Fine-Grained Spatially Varying Material Selection in Images](http://arxiv.org/abs/2506.09023v2)** | 2025-06-11 |  |
-| **[ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models](http://arxiv.org/abs/2506.09740v1)** | 2025-06-11 |  |
-| **[ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions](http://arxiv.org/abs/2506.03107v2)** | 2025-06-11 | <details><summary>Websi...</summary><p>Website: https://boese0601.github.io/bytemorph Dataset: https://huggingface.co/datasets/ByteDance-Seed/BM-6M Benchmark: https://huggingface.co/datasets/ByteDance-Seed/BM-Bench Code: https://github.com/ByteDance-Seed/BM-code Demo: https://huggingface.co/spaces/Boese0601/ByteMorph-Demo</p></details> |
-| **[Ming-Omni: A Unified Multimodal Model for Perception and Generation](http://arxiv.org/abs/2506.09344v1)** | 2025-06-11 | 18 pages,8 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
