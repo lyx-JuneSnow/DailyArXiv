@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2025
+title: Latest 15 Papers - June 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,7 +16,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v2)** | 2025-06-20 |  |
+| **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v1)** | 2025-06-23 |  |
+| **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v3)** | 2025-06-23 |  |
+| **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v2)** | 2025-06-23 |  |
+| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v4)** | 2025-06-23 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
+| **[CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing](http://arxiv.org/abs/2506.18438v1)** | 2025-06-23 |  |
+| **[Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction](http://arxiv.org/abs/2506.18290v1)** | 2025-06-23 |  |
+| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v4)** | 2025-06-22 |  |
 | **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v1)** | 2025-06-20 |  |
 | **[Arch-Router: Aligning LLM Routing with Human Preferences](http://arxiv.org/abs/2506.16655v1)** | 2025-06-19 |  |
 | **[VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics](http://arxiv.org/abs/2506.15903v1)** | 2025-06-18 |  |
@@ -25,12 +31,6 @@ labels: documentation
 | **[AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing](http://arxiv.org/abs/2506.13301v1)** | 2025-06-16 |  |
 | **[Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing](http://arxiv.org/abs/2506.13827v1)** | 2025-06-15 |  |
 | **[ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies](http://arxiv.org/abs/2506.12830v1)** | 2025-06-15 | 7 Pages |
-| **[SphereDrag: Spherical Geometry-Aware Panoramic Image Editing](http://arxiv.org/abs/2506.11863v1)** | 2025-06-13 |  |
-| **[Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction](http://arxiv.org/abs/2505.02471v3)** | 2025-06-13 | <details><summary>https...</summary><p>https://github.com/inclusionAI/Ming/tree/Ming-Lite-Omni-Preview/Ming-unify</p></details> |
-| **[VINCIE: Unlocking In-context Image Editing from Video](http://arxiv.org/abs/2506.10941v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://vincie2025.github.io/</p></details> |
-| **[Towards Reliable Identification of Diffusion-based Image Manipulations](http://arxiv.org/abs/2506.05466v2)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page at https://alex-costanzino.github.io/radar/</p></details> |
-| **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v1)** | 2025-06-12 | 11 pages, 9 figures |
-| **[EditInspector: A Benchmark for Evaluation of Text-Guided Image Edits](http://arxiv.org/abs/2506.09988v1)** | 2025-06-11 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
