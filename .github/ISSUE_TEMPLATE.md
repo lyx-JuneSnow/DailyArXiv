@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 24, 2025
+title: Latest 15 Papers - June 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SceneCrafter: Controllable Multi-View Driving Scene Editing](http://arxiv.org/abs/2506.19488v1)** | 2025-06-24 | CVPR 2025 |
+| **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](http://arxiv.org/abs/2310.08785v2)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
+| **[Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models](http://arxiv.org/abs/2506.19103v1)** | 2025-06-23 | <details><summary>The c...</summary><p>The code of our method is available on GitHub at https://github.com/ControlGenAI/Inverse-and-Edit</p></details> |
 | **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v1)** | 2025-06-23 |  |
 | **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v3)** | 2025-06-23 |  |
 | **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v2)** | 2025-06-23 |  |
@@ -28,9 +31,6 @@ labels: documentation
 | **[VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics](http://arxiv.org/abs/2506.15903v1)** | 2025-06-18 |  |
 | **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v2)** | 2025-06-17 |  |
 | **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.08434v4)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://atfortes.github.io/projects/bokeh-diffusion/</p></details> |
-| **[AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing](http://arxiv.org/abs/2506.13301v1)** | 2025-06-16 |  |
-| **[Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing](http://arxiv.org/abs/2506.13827v1)** | 2025-06-15 |  |
-| **[ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies](http://arxiv.org/abs/2506.12830v1)** | 2025-06-15 | 7 Pages |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
