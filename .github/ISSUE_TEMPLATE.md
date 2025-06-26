@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 25, 2025
+title: Latest 15 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,10 +16,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v2)** | 2025-06-25 |  |
+| **[EditP23: 3D Editing via Propagation of Image Prompts to Multi-View](http://arxiv.org/abs/2506.20652v1)** | 2025-06-25 | <details><summary>Code,...</summary><p>Code, supplementary videos, interactive 3D visualizations, and additional results are available at https://editp23.github.io/</p></details> |
+| **[Towards Efficient Exemplar Based Image Editing with Multimodal VLMs](http://arxiv.org/abs/2506.20155v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 (AI4VA Workshop)</p></details> |
 | **[SceneCrafter: Controllable Multi-View Driving Scene Editing](http://arxiv.org/abs/2506.19488v1)** | 2025-06-24 | CVPR 2025 |
 | **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](http://arxiv.org/abs/2310.08785v2)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
 | **[Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models](http://arxiv.org/abs/2506.19103v1)** | 2025-06-23 | <details><summary>The c...</summary><p>The code of our method is available on GitHub at https://github.com/ControlGenAI/Inverse-and-Edit</p></details> |
-| **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v1)** | 2025-06-23 |  |
 | **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v3)** | 2025-06-23 |  |
 | **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v2)** | 2025-06-23 |  |
 | **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v4)** | 2025-06-23 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
@@ -29,8 +31,6 @@ labels: documentation
 | **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v1)** | 2025-06-20 |  |
 | **[Arch-Router: Aligning LLM Routing with Human Preferences](http://arxiv.org/abs/2506.16655v1)** | 2025-06-19 |  |
 | **[VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics](http://arxiv.org/abs/2506.15903v1)** | 2025-06-18 |  |
-| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v2)** | 2025-06-17 |  |
-| **[Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models](http://arxiv.org/abs/2503.08434v4)** | 2025-06-16 | <details><summary>Proje...</summary><p>Project page: https://atfortes.github.io/projects/bokeh-diffusion/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
