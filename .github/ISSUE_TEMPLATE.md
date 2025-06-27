@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controllable 3D Placement of Objects with Scene-Aware Diffusion Models](http://arxiv.org/abs/2506.21446v1)** | 2025-06-26 |  |
+| **[Materialist: Physically Based Editing Using Single-Image Inverse Rendering](http://arxiv.org/abs/2501.03717v2)** | 2025-06-26 | <details><summary>Add a...</summary><p>Add acknowledgements, more authors and more results. Project website: https://lez-s.github.io/materialist_project/</p></details> |
+| **[Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling](http://arxiv.org/abs/2506.21045v1)** | 2025-06-26 | preprint |
+| **[M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](http://arxiv.org/abs/2506.20922v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted in International Conference on Computer Vision (ICCV) 2025</p></details> |
+| **[FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing](http://arxiv.org/abs/2506.20911v1)** | 2025-06-26 |  |
 | **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v2)** | 2025-06-25 |  |
 | **[EditP23: 3D Editing via Propagation of Image Prompts to Multi-View](http://arxiv.org/abs/2506.20652v1)** | 2025-06-25 | <details><summary>Code,...</summary><p>Code, supplementary videos, interactive 3D visualizations, and additional results are available at https://editp23.github.io/</p></details> |
 | **[Towards Efficient Exemplar Based Image Editing with Multimodal VLMs](http://arxiv.org/abs/2506.20155v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 (AI4VA Workshop)</p></details> |
@@ -26,16 +31,11 @@ labels: documentation
 | **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v2)** | 2025-06-23 |  |
 | **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v4)** | 2025-06-23 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 | **[CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing](http://arxiv.org/abs/2506.18438v1)** | 2025-06-23 |  |
-| **[Instability in Diffusion ODEs: An Explanation for Inaccurate Image Reconstruction](http://arxiv.org/abs/2506.18290v1)** | 2025-06-23 |  |
-| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v4)** | 2025-06-22 |  |
-| **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v1)** | 2025-06-20 |  |
-| **[Arch-Router: Aligning LLM Routing with Human Preferences](http://arxiv.org/abs/2506.16655v1)** | 2025-06-19 |  |
-| **[VectorEdits: A Dataset and Benchmark for Instruction-Based Editing of Vector Graphics](http://arxiv.org/abs/2506.15903v1)** | 2025-06-18 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](http://arxiv.org/abs/2505.24466v1)** | 2025-05-30 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Under review</p></details> |
+| **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](http://arxiv.org/abs/2505.24466v2)** | 2025-06-26 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Under review</p></details> |
 | **[CAMeL: Cross-modality Adaptive Meta-Learning for Text-based Person Retrieval](http://arxiv.org/abs/2504.18782v1)** | 2025-04-26 |  |
 | **[TVPR: Text-to-Video Person Retrieval and a New Benchmark](http://arxiv.org/abs/2307.07184v3)** | 2025-04-20 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, Proceedings of the 32nd ACM International Conference on Multimedia</p></details> |
 | **[UP-Person: Unified Parameter-Efficient Transfer Learning for Text-based Person Retrieval](http://arxiv.org/abs/2504.10084v1)** | 2025-04-14 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, first submited to IEEE TCSVT on 2024 May. Under review</p></details> |
