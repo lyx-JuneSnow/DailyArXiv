@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2025
+title: Latest 15 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v3)** | 2025-06-27 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
+| **[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](http://arxiv.org/abs/2502.04050v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2025 (Conference Track). Project page: https://gorluxor.github.io/part-edit/</p></details> |
+| **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v1)** | 2025-06-27 |  |
 | **[Controllable 3D Placement of Objects with Scene-Aware Diffusion Models](http://arxiv.org/abs/2506.21446v1)** | 2025-06-26 |  |
 | **[Materialist: Physically Based Editing Using Single-Image Inverse Rendering](http://arxiv.org/abs/2501.03717v2)** | 2025-06-26 | <details><summary>Add a...</summary><p>Add acknowledgements, more authors and more results. Project website: https://lez-s.github.io/materialist_project/</p></details> |
 | **[Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling](http://arxiv.org/abs/2506.21045v1)** | 2025-06-26 | preprint |
@@ -28,9 +31,6 @@ labels: documentation
 | **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](http://arxiv.org/abs/2310.08785v2)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
 | **[Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models](http://arxiv.org/abs/2506.19103v1)** | 2025-06-23 | <details><summary>The c...</summary><p>The code of our method is available on GitHub at https://github.com/ControlGenAI/Inverse-and-Edit</p></details> |
 | **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v3)** | 2025-06-23 |  |
-| **[InstructAttribute: Fine-grained Object Attributes editing with Instruction](http://arxiv.org/abs/2505.00751v2)** | 2025-06-23 |  |
-| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v4)** | 2025-06-23 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
-| **[CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing](http://arxiv.org/abs/2506.18438v1)** | 2025-06-23 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
