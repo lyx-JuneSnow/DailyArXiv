@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement](http://arxiv.org/abs/2506.23676v1)** | 2025-06-30 |  |
+| **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v2)** | 2025-06-30 | 11 pages, 9 figures |
+| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (2025 IEEE/CVF International Conference on Computer Vision)</p></details> |
+| **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v1)** | 2025-06-29 | <details><summary>A dat...</summary><p>A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
+| **[Dense Feature Interaction Network for Image Inpainting Localization](http://arxiv.org/abs/2408.02191v2)** | 2025-06-29 |  |
+| **[Ovis-U1 Technical Report](http://arxiv.org/abs/2506.23044v1)** | 2025-06-29 | <details><summary>A uni...</summary><p>A unified model for multimodal understanding, text-to-image generation, and image editing. GitHub: https://github.com/AIDC-AI/Ovis-U1</p></details> |
+| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](http://arxiv.org/abs/2506.22930v1)** | 2025-06-28 |  |
 | **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v3)** | 2025-06-27 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](http://arxiv.org/abs/2502.04050v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2025 (Conference Track). Project page: https://gorluxor.github.io/part-edit/</p></details> |
 | **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v1)** | 2025-06-27 |  |
@@ -24,13 +31,6 @@ labels: documentation
 | **[Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling](http://arxiv.org/abs/2506.21045v1)** | 2025-06-26 | preprint |
 | **[M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](http://arxiv.org/abs/2506.20922v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted in International Conference on Computer Vision (ICCV) 2025</p></details> |
 | **[FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing](http://arxiv.org/abs/2506.20911v1)** | 2025-06-26 |  |
-| **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v2)** | 2025-06-25 |  |
-| **[EditP23: 3D Editing via Propagation of Image Prompts to Multi-View](http://arxiv.org/abs/2506.20652v1)** | 2025-06-25 | <details><summary>Code,...</summary><p>Code, supplementary videos, interactive 3D visualizations, and additional results are available at https://editp23.github.io/</p></details> |
-| **[Towards Efficient Exemplar Based Image Editing with Multimodal VLMs](http://arxiv.org/abs/2506.20155v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted at ECCV 2024 (AI4VA Workshop)</p></details> |
-| **[SceneCrafter: Controllable Multi-View Driving Scene Editing](http://arxiv.org/abs/2506.19488v1)** | 2025-06-24 | CVPR 2025 |
-| **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](http://arxiv.org/abs/2310.08785v2)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
-| **[Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models](http://arxiv.org/abs/2506.19103v1)** | 2025-06-23 | <details><summary>The c...</summary><p>The code of our method is available on GitHub at https://github.com/ControlGenAI/Inverse-and-Edit</p></details> |
-| **[EmoAgent: A Multi-Agent Framework for Diverse Affective Image Manipulation](http://arxiv.org/abs/2503.11290v3)** | 2025-06-23 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
