@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v4)** | 2025-07-01 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
+| **[Edit Transfer: Learning Image Editing via Vision In-Context Relations](http://arxiv.org/abs/2503.13327v2)** | 2025-07-01 |  |
+| **[Ovis-U1 Technical Report](http://arxiv.org/abs/2506.23044v2)** | 2025-07-01 | <details><summary>An un...</summary><p>An unified model for multimodal understanding, text-to-image generation, and image editing. GitHub: https://github.com/AIDC-AI/Ovis-U1</p></details> |
 | **[A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement](http://arxiv.org/abs/2506.23676v1)** | 2025-06-30 |  |
 | **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v2)** | 2025-06-30 | 11 pages, 9 figures |
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (2025 IEEE/CVF International Conference on Computer Vision)</p></details> |
 | **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v1)** | 2025-06-29 | <details><summary>A dat...</summary><p>A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
 | **[Dense Feature Interaction Network for Image Inpainting Localization](http://arxiv.org/abs/2408.02191v2)** | 2025-06-29 |  |
-| **[Ovis-U1 Technical Report](http://arxiv.org/abs/2506.23044v1)** | 2025-06-29 | <details><summary>A uni...</summary><p>A unified model for multimodal understanding, text-to-image generation, and image editing. GitHub: https://github.com/AIDC-AI/Ovis-U1</p></details> |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](http://arxiv.org/abs/2506.22930v1)** | 2025-06-28 |  |
-| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v3)** | 2025-06-27 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
 | **[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](http://arxiv.org/abs/2502.04050v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2025 (Conference Track). Project page: https://gorluxor.github.io/part-edit/</p></details> |
 | **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v1)** | 2025-06-27 |  |
 | **[Controllable 3D Placement of Objects with Scene-Aware Diffusion Models](http://arxiv.org/abs/2506.21446v1)** | 2025-06-26 |  |
 | **[Materialist: Physically Based Editing Using Single-Image Inverse Rendering](http://arxiv.org/abs/2501.03717v2)** | 2025-06-26 | <details><summary>Add a...</summary><p>Add acknowledgements, more authors and more results. Project website: https://lez-s.github.io/materialist_project/</p></details> |
 | **[Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling](http://arxiv.org/abs/2506.21045v1)** | 2025-06-26 | preprint |
 | **[M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization](http://arxiv.org/abs/2506.20922v1)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted in International Conference on Computer Vision (ICCV) 2025</p></details> |
-| **[FaSTA$^*$: Fast-Slow Toolpath Agent with Subroutine Mining for Efficient Multi-turn Image Editing](http://arxiv.org/abs/2506.20911v1)** | 2025-06-26 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
