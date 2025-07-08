@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,15 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing](http://arxiv.org/abs/2507.05259v1)** | 2025-07-07 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/x-planner/</p></details> |
+| **[S$^2$Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](http://arxiv.org/abs/2507.04584v1)** | 2025-07-07 |  |
+| **[Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing](http://arxiv.org/abs/2411.01819v4)** | 2025-07-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM(2025)</p></details> |
+| **[Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](http://arxiv.org/abs/2409.02426v4)** | 2025-07-05 | <details><summary>43 pa...</summary><p>43 pages, 8 figures, 2 tables</p></details> |
+| **[Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images](http://arxiv.org/abs/2507.03402v1)** | 2025-07-04 | <details><summary>18 pa...</summary><p>18 pages, 17 figures, ICCV25</p></details> |
+| **[LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v1)** | 2025-07-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Preprint version</p></details> |
 | **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v1)** | 2025-07-02 |  |
 | **[ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](http://arxiv.org/abs/2507.01496v1)** | 2025-07-02 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://wlaud1001.github.io/ReFlex/</p></details> |
 | **[LUSD: Localized Update Score Distillation for Text-Guided Image Editing](http://arxiv.org/abs/2503.11054v2)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://github.com/sincostanx/LUSD</p></details> |
-| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v4)** | 2025-07-01 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
-| **[Edit Transfer: Learning Image Editing via Vision In-Context Relations](http://arxiv.org/abs/2503.13327v2)** | 2025-07-01 |  |
-| **[Ovis-U1 Technical Report](http://arxiv.org/abs/2506.23044v2)** | 2025-07-01 | <details><summary>An un...</summary><p>An unified model for multimodal understanding, text-to-image generation, and image editing. GitHub: https://github.com/AIDC-AI/Ovis-U1</p></details> |
-| **[A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement](http://arxiv.org/abs/2506.23676v1)** | 2025-06-30 |  |
-| **[Edit360: 2D Image Edits to 3D Assets from Any Angle](http://arxiv.org/abs/2506.10507v2)** | 2025-06-30 | 11 pages, 9 figures |
-| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025 (2025 IEEE/CVF International Conference on Computer Vision)</p></details> |
-| **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v1)** | 2025-06-29 | <details><summary>A dat...</summary><p>A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
-| **[Dense Feature Interaction Network for Image Inpainting Localization](http://arxiv.org/abs/2408.02191v2)** | 2025-06-29 |  |
-| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](http://arxiv.org/abs/2506.22930v1)** | 2025-06-28 |  |
-| **[PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models](http://arxiv.org/abs/2502.04050v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2025 (Conference Track). Project page: https://gorluxor.github.io/part-edit/</p></details> |
-| **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v1)** | 2025-06-27 |  |
-| **[Controllable 3D Placement of Objects with Scene-Aware Diffusion Models](http://arxiv.org/abs/2506.21446v1)** | 2025-06-26 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
