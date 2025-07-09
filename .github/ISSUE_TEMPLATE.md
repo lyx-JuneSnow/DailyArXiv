@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MaSS13K: A Matting-level Semantic Segmentation Benchmark](http://arxiv.org/abs/2503.18364v2)** | 2025-07-08 | CVPR2025 |
+| **[2D Instance Editing in 3D Space](http://arxiv.org/abs/2507.05819v1)** | 2025-07-08 | 8 pages, 6 figures |
+| **[Bayesian Optimization for Controlled Image Editing via LLMs](http://arxiv.org/abs/2502.18116v3)** | 2025-07-07 | <details><summary>8 fig...</summary><p>8 figures, accept at ACL2025 Findings</p></details> |
+| **[Neural-Driven Image Editing](http://arxiv.org/abs/2507.05397v1)** | 2025-07-07 | 22 pages, 14 figures |
 | **[Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing](http://arxiv.org/abs/2507.05259v1)** | 2025-07-07 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/x-planner/</p></details> |
 | **[S$^2$Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](http://arxiv.org/abs/2507.04584v1)** | 2025-07-07 |  |
 | **[Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing](http://arxiv.org/abs/2411.01819v4)** | 2025-07-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM(2025)</p></details> |
@@ -25,6 +29,8 @@ labels: documentation
 | **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v1)** | 2025-07-02 |  |
 | **[ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](http://arxiv.org/abs/2507.01496v1)** | 2025-07-02 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://wlaud1001.github.io/ReFlex/</p></details> |
 | **[LUSD: Localized Update Score Distillation for Text-Guided Image Editing](http://arxiv.org/abs/2503.11054v2)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://github.com/sincostanx/LUSD</p></details> |
+| **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v4)** | 2025-07-01 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
+| **[Edit Transfer: Learning Image Editing via Vision In-Context Relations](http://arxiv.org/abs/2503.13327v2)** | 2025-07-01 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
