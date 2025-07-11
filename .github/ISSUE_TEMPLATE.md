@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2025
+title: Latest 15 Papers - July 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v1)** | 2025-07-09 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
 | **[MaSS13K: A Matting-level Semantic Segmentation Benchmark](http://arxiv.org/abs/2503.18364v2)** | 2025-07-08 | CVPR2025 |
 | **[2D Instance Editing in 3D Space](http://arxiv.org/abs/2507.05819v1)** | 2025-07-08 | 8 pages, 6 figures |
 | **[Bayesian Optimization for Controlled Image Editing via LLMs](http://arxiv.org/abs/2502.18116v3)** | 2025-07-07 | <details><summary>8 fig...</summary><p>8 figures, accept at ACL2025 Findings</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](http://arxiv.org/abs/2507.01496v1)** | 2025-07-02 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://wlaud1001.github.io/ReFlex/</p></details> |
 | **[LUSD: Localized Update Score Distillation for Text-Guided Image Editing](http://arxiv.org/abs/2503.11054v2)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://github.com/sincostanx/LUSD</p></details> |
 | **[Exploring Text-Guided Single Image Editing for Remote Sensing Images](http://arxiv.org/abs/2405.05769v4)** | 2025-07-01 | <details><summary>17 pa...</summary><p>17 pages, 18 figures, Accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</p></details> |
-| **[Edit Transfer: Learning Image Editing via Vision In-Context Relations](http://arxiv.org/abs/2503.13327v2)** | 2025-07-01 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
