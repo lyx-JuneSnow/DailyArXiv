@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2025
+title: Latest 15 Papers - July 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v1)** | 2025-07-14 |  |
+| **[VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing](http://arxiv.org/abs/2411.15260v2)** | 2025-07-14 | 10 pages, 10 figures |
+| **[FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing](http://arxiv.org/abs/2408.12429v2)** | 2025-07-12 | 15 pages, 14 figures |
+| **[Making Images Real Again: A Comprehensive Survey on Deep Image Composition](http://arxiv.org/abs/2106.14490v7)** | 2025-07-12 |  |
 | **[FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields](http://arxiv.org/abs/2507.08285v1)** | 2025-07-11 | ICML 2025 Spotlight |
 | **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v1)** | 2025-07-09 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
 | **[MaSS13K: A Matting-level Semantic Segmentation Benchmark](http://arxiv.org/abs/2503.18364v2)** | 2025-07-08 | CVPR2025 |
@@ -27,14 +31,11 @@ labels: documentation
 | **[Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing](http://arxiv.org/abs/2411.01819v4)** | 2025-07-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM(2025)</p></details> |
 | **[Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](http://arxiv.org/abs/2409.02426v4)** | 2025-07-05 | <details><summary>43 pa...</summary><p>43 pages, 8 figures, 2 tables</p></details> |
 | **[Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images](http://arxiv.org/abs/2507.03402v1)** | 2025-07-04 | <details><summary>18 pa...</summary><p>18 pages, 17 figures, ICCV25</p></details> |
-| **[LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v1)** | 2025-07-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Preprint version</p></details> |
-| **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v1)** | 2025-07-02 |  |
-| **[ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation](http://arxiv.org/abs/2507.01496v1)** | 2025-07-02 | <details><summary>Publi...</summary><p>Published at ICCV 2025. Project page: https://wlaud1001.github.io/ReFlex/</p></details> |
-| **[LUSD: Localized Update Score Distillation for Text-Guided Image Editing](http://arxiv.org/abs/2503.11054v2)** | 2025-07-02 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://github.com/sincostanx/LUSD</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval](http://arxiv.org/abs/2507.10195v1)** | 2025-07-14 |  |
 | **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](http://arxiv.org/abs/2505.24466v2)** | 2025-06-26 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Under review</p></details> |
 | **[CAMeL: Cross-modality Adaptive Meta-Learning for Text-based Person Retrieval](http://arxiv.org/abs/2504.18782v1)** | 2025-04-26 |  |
 | **[TVPR: Text-to-Video Person Retrieval and a New Benchmark](http://arxiv.org/abs/2307.07184v3)** | 2025-04-20 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, Proceedings of the 32nd ACM International Conference on Multimedia</p></details> |
@@ -49,7 +50,6 @@ labels: documentation
 | **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
 | **[CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](http://arxiv.org/abs/2309.09496v2)** | 2024-01-02 | <details><summary>ICASS...</summary><p>ICASSP2024(accepted). minor typos revision compared to version 1 in arxiv</p></details> |
 | **[Prototype-Guided Text-based Person Search based on Rich Chinese Descriptions](http://arxiv.org/abs/2312.14834v1)** | 2023-12-22 | 11 pages, 5 figures |
-| **[Towards Unified Text-based Person Retrieval: A Large-scale Multi-Attribute and Language Search Benchmark](http://arxiv.org/abs/2306.02898v4)** | 2023-08-14 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
