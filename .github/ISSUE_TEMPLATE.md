@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 15, 2025
+title: Latest 15 Papers - July 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nexus-Gen: Unified Image Understanding, Generation, and Editing via Prefilled Autoregression in Shared Embedding Space](http://arxiv.org/abs/2504.21356v3)** | 2025-07-15 |  |
+| **[EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing](http://arxiv.org/abs/2507.11096v1)** | 2025-07-15 |  |
+| **[Sparse Fine-Tuning of Transformers for Generative Tasks](http://arxiv.org/abs/2507.10855v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by International Conference on Computer Vision 2025</p></details> |
+| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v3)** | 2025-07-14 |  |
 | **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v1)** | 2025-07-14 |  |
 | **[VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing](http://arxiv.org/abs/2411.15260v2)** | 2025-07-14 | 10 pages, 10 figures |
 | **[FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing](http://arxiv.org/abs/2408.12429v2)** | 2025-07-12 | 15 pages, 14 figures |
@@ -27,10 +31,6 @@ labels: documentation
 | **[Bayesian Optimization for Controlled Image Editing via LLMs](http://arxiv.org/abs/2502.18116v3)** | 2025-07-07 | <details><summary>8 fig...</summary><p>8 figures, accept at ACL2025 Findings</p></details> |
 | **[Neural-Driven Image Editing](http://arxiv.org/abs/2507.05397v1)** | 2025-07-07 | 22 pages, 14 figures |
 | **[Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing](http://arxiv.org/abs/2507.05259v1)** | 2025-07-07 | <details><summary>Proje...</summary><p>Project page: https://danielchyeh.github.io/x-planner/</p></details> |
-| **[S$^2$Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](http://arxiv.org/abs/2507.04584v1)** | 2025-07-07 |  |
-| **[Free-Mask: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing](http://arxiv.org/abs/2411.01819v4)** | 2025-07-06 | <details><summary>Accep...</summary><p>Accepted by ACM MM(2025)</p></details> |
-| **[Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](http://arxiv.org/abs/2409.02426v4)** | 2025-07-05 | <details><summary>43 pa...</summary><p>43 pages, 8 figures, 2 tables</p></details> |
-| **[Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images](http://arxiv.org/abs/2507.03402v1)** | 2025-07-04 | <details><summary>18 pa...</summary><p>18 pages, 17 figures, ICCV25</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,11 +45,6 @@ labels: documentation
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
 | **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
 | **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
-| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
-| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
-| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
-| **[CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](http://arxiv.org/abs/2309.09496v2)** | 2024-01-02 | <details><summary>ICASS...</summary><p>ICASSP2024(accepted). minor typos revision compared to version 1 in arxiv</p></details> |
-| **[Prototype-Guided Text-based Person Search based on Rich Chinese Descriptions](http://arxiv.org/abs/2312.14834v1)** | 2023-12-22 | 11 pages, 5 figures |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
