@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2025
+title: Latest 15 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining](http://arxiv.org/abs/2507.14119v1)** | 2025-07-18 |  |
+| **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
 | **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v2)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
 | **[Nexus-Gen: Unified Image Understanding, Generation, and Editing via Prefilled Autoregression in Shared Embedding Space](http://arxiv.org/abs/2504.21356v3)** | 2025-07-15 |  |
 | **[EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing](http://arxiv.org/abs/2507.11096v1)** | 2025-07-15 |  |
@@ -29,8 +31,6 @@ labels: documentation
 | **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v1)** | 2025-07-09 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
 | **[MaSS13K: A Matting-level Semantic Segmentation Benchmark](http://arxiv.org/abs/2503.18364v2)** | 2025-07-08 | CVPR2025 |
 | **[2D Instance Editing in 3D Space](http://arxiv.org/abs/2507.05819v1)** | 2025-07-08 | 8 pages, 6 figures |
-| **[Bayesian Optimization for Controlled Image Editing via LLMs](http://arxiv.org/abs/2502.18116v3)** | 2025-07-07 | <details><summary>8 fig...</summary><p>8 figures, accept at ACL2025 Findings</p></details> |
-| **[Neural-Driven Image Editing](http://arxiv.org/abs/2507.05397v1)** | 2025-07-07 | 22 pages, 14 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
