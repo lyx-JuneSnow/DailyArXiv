@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized Consistency Trajectory Models for Image Manipulation](http://arxiv.org/abs/2403.12510v4)** | 2025-07-21 | ICLR 2025 (poster) |
+| **[PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing](http://arxiv.org/abs/2306.16894v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by Neural Networks. Code is available at https://github.com/CMACH508/PFB-Diff</p></details> |
+| **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v1)** | 2025-07-20 | <details><summary>9 pag...</summary><p>9 pages including appendix, 5 tables, 8 figures, to be submitted to WACV 2026</p></details> |
+| **[R-Genie: Reasoning-Guided Generative Image Editing](http://arxiv.org/abs/2505.17768v2)** | 2025-07-20 | <details><summary>Code:...</summary><p>Code: https://dongzhang89.github.io/RGenie.github.io/</p></details> |
+| **[Fine-Tuning Diffusion Generative Models via Rich Preference Optimization](http://arxiv.org/abs/2503.11720v4)** | 2025-07-19 |  |
+| **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v2)** | 2025-07-18 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025, Project Website: https://research.nvidia.com/labs/toronto-ai/WeatherWeaver/</p></details> |
 | **[NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining](http://arxiv.org/abs/2507.14119v1)** | 2025-07-18 |  |
 | **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
 | **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v2)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
@@ -25,12 +31,6 @@ labels: documentation
 | **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v3)** | 2025-07-14 |  |
 | **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v1)** | 2025-07-14 |  |
 | **[VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing](http://arxiv.org/abs/2411.15260v2)** | 2025-07-14 | 10 pages, 10 figures |
-| **[FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing](http://arxiv.org/abs/2408.12429v2)** | 2025-07-12 | 15 pages, 14 figures |
-| **[Making Images Real Again: A Comprehensive Survey on Deep Image Composition](http://arxiv.org/abs/2106.14490v7)** | 2025-07-12 |  |
-| **[FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields](http://arxiv.org/abs/2507.08285v1)** | 2025-07-11 | ICML 2025 Spotlight |
-| **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v1)** | 2025-07-09 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
-| **[MaSS13K: A Matting-level Semantic Segmentation Benchmark](http://arxiv.org/abs/2503.18364v2)** | 2025-07-08 | CVPR2025 |
-| **[2D Instance Editing in 3D Space](http://arxiv.org/abs/2507.05819v1)** | 2025-07-08 | 8 pages, 6 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
