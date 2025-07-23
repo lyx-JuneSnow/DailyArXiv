@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2025
+title: Latest 15 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement](http://arxiv.org/abs/2507.16397v1)** | 2025-07-22 |  |
+| **[Make Me Happier: Evoking Emotions Through Image Diffusion Models](http://arxiv.org/abs/2403.08255v4)** | 2025-07-22 |  |
+| **[Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling](http://arxiv.org/abs/2507.16240v1)** | 2025-07-22 | Accept by ICCV2025 |
+| **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v1)** | 2025-07-22 |  |
 | **[Generalized Consistency Trajectory Models for Image Manipulation](http://arxiv.org/abs/2403.12510v4)** | 2025-07-21 | ICLR 2025 (poster) |
 | **[PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing](http://arxiv.org/abs/2306.16894v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by Neural Networks. Code is available at https://github.com/CMACH508/PFB-Diff</p></details> |
 | **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v1)** | 2025-07-20 | <details><summary>9 pag...</summary><p>9 pages including appendix, 5 tables, 8 figures, to be submitted to WACV 2026</p></details> |
@@ -27,10 +31,6 @@ labels: documentation
 | **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v2)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
 | **[Nexus-Gen: Unified Image Understanding, Generation, and Editing via Prefilled Autoregression in Shared Embedding Space](http://arxiv.org/abs/2504.21356v3)** | 2025-07-15 |  |
 | **[EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing](http://arxiv.org/abs/2507.11096v1)** | 2025-07-15 |  |
-| **[Sparse Fine-Tuning of Transformers for Generative Tasks](http://arxiv.org/abs/2507.10855v1)** | 2025-07-14 | <details><summary>Accep...</summary><p>Accepted by International Conference on Computer Vision 2025</p></details> |
-| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v3)** | 2025-07-14 |  |
-| **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v1)** | 2025-07-14 |  |
-| **[VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing](http://arxiv.org/abs/2411.15260v2)** | 2025-07-14 | 10 pages, 10 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
