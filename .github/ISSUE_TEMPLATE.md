@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v3)** | 2025-07-25 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
 | **[Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling](http://arxiv.org/abs/2507.17801v1)** | 2025-07-23 | <details><summary>Tech ...</summary><p>Tech Report, 23 pages, 11 figures, 7 tables</p></details> |
 | **[ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement](http://arxiv.org/abs/2507.16397v1)** | 2025-07-22 |  |
 | **[Make Me Happier: Evoking Emotions Through Image Diffusion Models](http://arxiv.org/abs/2403.08255v4)** | 2025-07-22 |  |
@@ -29,7 +30,6 @@ labels: documentation
 | **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v2)** | 2025-07-18 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025, Project Website: https://research.nvidia.com/labs/toronto-ai/WeatherWeaver/</p></details> |
 | **[NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining](http://arxiv.org/abs/2507.14119v1)** | 2025-07-18 |  |
 | **[Moodifier: MLLM-Enhanced Emotion-Driven Image Editing](http://arxiv.org/abs/2507.14024v1)** | 2025-07-18 |  |
-| **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v2)** | 2025-07-16 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
 | **[Nexus-Gen: Unified Image Understanding, Generation, and Editing via Prefilled Autoregression in Shared Embedding Space](http://arxiv.org/abs/2504.21356v3)** | 2025-07-15 |  |
 
 ## Text based person retrieval
