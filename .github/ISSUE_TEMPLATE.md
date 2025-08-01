@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training-free Geometric Image Editing on Diffusion Models](http://arxiv.org/abs/2507.23300v1)** | 2025-07-31 | <details><summary>24 pa...</summary><p>24 pages, 22 figures, ICCV</p></details> |
+| **[UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing](http://arxiv.org/abs/2507.23278v1)** | 2025-07-31 |  |
+| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v5)** | 2025-07-31 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 | **[GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset](http://arxiv.org/abs/2507.21033v1)** | 2025-07-28 |  |
 | **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v2)** | 2025-07-28 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
 | **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v4)** | 2025-07-27 |  |
@@ -28,9 +31,6 @@ labels: documentation
 | **[Generalized Consistency Trajectory Models for Image Manipulation](http://arxiv.org/abs/2403.12510v4)** | 2025-07-21 | ICLR 2025 (poster) |
 | **[PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing](http://arxiv.org/abs/2306.16894v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted by Neural Networks. Code is available at https://github.com/CMACH508/PFB-Diff</p></details> |
 | **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v1)** | 2025-07-20 | <details><summary>9 pag...</summary><p>9 pages including appendix, 5 tables, 8 figures, to be submitted to WACV 2026</p></details> |
-| **[R-Genie: Reasoning-Guided Generative Image Editing](http://arxiv.org/abs/2505.17768v2)** | 2025-07-20 | <details><summary>Code:...</summary><p>Code: https://dongzhang89.github.io/RGenie.github.io/</p></details> |
-| **[Fine-Tuning Diffusion Generative Models via Rich Preference Optimization](http://arxiv.org/abs/2503.11720v4)** | 2025-07-19 |  |
-| **[Controllable Weather Synthesis and Removal with Video Diffusion Models](http://arxiv.org/abs/2505.00704v2)** | 2025-07-18 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025, Project Website: https://research.nvidia.com/labs/toronto-ai/WeatherWeaver/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
