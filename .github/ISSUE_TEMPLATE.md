@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2025
+title: Latest 15 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transport-Guided Rectified Flow Inversion: Improved Image Editing Using Optimal Transport Theory](http://arxiv.org/abs/2508.02363v1)** | 2025-08-04 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, WACV conference</p></details> |
+| **[Qwen-Image Technical Report](http://arxiv.org/abs/2508.02324v1)** | 2025-08-04 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen-Image</p></details> |
+| **[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](http://arxiv.org/abs/2504.13490v2)** | 2025-08-02 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v2)** | 2025-08-02 | ICCV 2025 |
+| **[The Promise of RL for Autoregressive Image Editing](http://arxiv.org/abs/2508.01119v1)** | 2025-08-01 |  |
 | **[Training-free Geometric Image Editing on Diffusion Models](http://arxiv.org/abs/2507.23300v2)** | 2025-08-01 | Accepted by ICCV2025 |
 | **[Towards Robust Semantic Correspondence: A Benchmark and Insights](http://arxiv.org/abs/2508.00272v1)** | 2025-08-01 |  |
 | **[DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](http://arxiv.org/abs/2504.17894v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
@@ -26,11 +31,6 @@ labels: documentation
 | **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v4)** | 2025-07-27 |  |
 | **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v3)** | 2025-07-25 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
 | **[Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling](http://arxiv.org/abs/2507.17801v1)** | 2025-07-23 | <details><summary>Tech ...</summary><p>Tech Report, 23 pages, 11 figures, 7 tables</p></details> |
-| **[ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement](http://arxiv.org/abs/2507.16397v1)** | 2025-07-22 |  |
-| **[Make Me Happier: Evoking Emotions Through Image Diffusion Models](http://arxiv.org/abs/2403.08255v4)** | 2025-07-22 |  |
-| **[Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling](http://arxiv.org/abs/2507.16240v1)** | 2025-07-22 | Accept by ICCV2025 |
-| **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v1)** | 2025-07-22 |  |
-| **[Generalized Consistency Trajectory Models for Image Manipulation](http://arxiv.org/abs/2403.12510v4)** | 2025-07-21 | ICLR 2025 (poster) |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
