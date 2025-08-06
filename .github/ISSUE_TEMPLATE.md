@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 05, 2025
+title: Latest 15 Papers - August 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control](http://arxiv.org/abs/2410.09879v2)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation](http://arxiv.org/abs/2508.03320v1)** | 2025-08-05 |  |
+| **[Zero Shot Domain Adaptive Semantic Segmentation by Synthetic Data Generation and Progressive Adaptation](http://arxiv.org/abs/2508.03300v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
+| **[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing](http://arxiv.org/abs/2508.03144v1)** | 2025-08-05 | <details><summary>We wi...</summary><p>We will make our implementation available soon</p></details> |
+| **[UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying](http://arxiv.org/abs/2508.03142v1)** | 2025-08-05 |  |
+| **[The Promise of RL for Autoregressive Image Editing](http://arxiv.org/abs/2508.01119v2)** | 2025-08-05 |  |
 | **[Transport-Guided Rectified Flow Inversion: Improved Image Editing Using Optimal Transport Theory](http://arxiv.org/abs/2508.02363v1)** | 2025-08-04 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, WACV conference</p></details> |
 | **[Qwen-Image Technical Report](http://arxiv.org/abs/2508.02324v1)** | 2025-08-04 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen-Image</p></details> |
 | **[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](http://arxiv.org/abs/2504.13490v2)** | 2025-08-02 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v2)** | 2025-08-02 | ICCV 2025 |
-| **[The Promise of RL for Autoregressive Image Editing](http://arxiv.org/abs/2508.01119v1)** | 2025-08-01 |  |
 | **[Training-free Geometric Image Editing on Diffusion Models](http://arxiv.org/abs/2507.23300v2)** | 2025-08-01 | Accepted by ICCV2025 |
 | **[Towards Robust Semantic Correspondence: A Benchmark and Insights](http://arxiv.org/abs/2508.00272v1)** | 2025-08-01 |  |
 | **[DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](http://arxiv.org/abs/2504.17894v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing](http://arxiv.org/abs/2507.23278v1)** | 2025-07-31 |  |
 | **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v5)** | 2025-07-31 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
-| **[GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset](http://arxiv.org/abs/2507.21033v1)** | 2025-07-28 |  |
-| **[ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation](http://arxiv.org/abs/2507.07317v2)** | 2025-07-28 | <details><summary>Inter...</summary><p>International Conference on Computer Vision (ICCV) 2025</p></details> |
-| **[FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing](http://arxiv.org/abs/2505.23145v4)** | 2025-07-27 |  |
-| **[GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing](http://arxiv.org/abs/2505.11493v3)** | 2025-07-25 | <details><summary>Proje...</summary><p>Project page: https://sueqian6.github.io/GIE-Bench-web/</p></details> |
-| **[Lumina-mGPT 2.0: Stand-Alone AutoRegressive Image Modeling](http://arxiv.org/abs/2507.17801v1)** | 2025-07-23 | <details><summary>Tech ...</summary><p>Tech Report, 23 pages, 11 figures, 7 tables</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
