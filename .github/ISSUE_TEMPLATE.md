@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural-Driven Image Editing](http://arxiv.org/abs/2507.05397v2)** | 2025-08-08 | 22 pages, 14 figures |
+| **[UGD-IML: A Unified Generative Diffusion-based Framework for Constrained and Unconstrained Image Manipulation Localization](http://arxiv.org/abs/2508.06101v1)** | 2025-08-08 |  |
+| **[DreamVE: Unified Instruction-based Image and Video Editing](http://arxiv.org/abs/2508.06080v1)** | 2025-08-08 |  |
+| **[NEP: Autoregressive Image Editing via Next Editing Token Prediction](http://arxiv.org/abs/2508.06044v1)** | 2025-08-08 | <details><summary>The p...</summary><p>The project page is: https://nep-bigai.github.io/</p></details> |
+| **[InstantEdit: Text-Guided Few-Step Image Editing with Piecewise Rectified Flow](http://arxiv.org/abs/2508.06033v1)** | 2025-08-08 | ICCV 2025 |
 | **[TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control](http://arxiv.org/abs/2410.09879v2)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation](http://arxiv.org/abs/2508.03320v1)** | 2025-08-05 |  |
 | **[Zero Shot Domain Adaptive Semantic Segmentation by Synthetic Data Generation and Progressive Adaptation](http://arxiv.org/abs/2508.03300v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
@@ -26,11 +31,6 @@ labels: documentation
 | **[Qwen-Image Technical Report](http://arxiv.org/abs/2508.02324v1)** | 2025-08-04 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen-Image</p></details> |
 | **[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](http://arxiv.org/abs/2504.13490v2)** | 2025-08-02 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v2)** | 2025-08-02 | ICCV 2025 |
-| **[Training-free Geometric Image Editing on Diffusion Models](http://arxiv.org/abs/2507.23300v2)** | 2025-08-01 | Accepted by ICCV2025 |
-| **[Towards Robust Semantic Correspondence: A Benchmark and Insights](http://arxiv.org/abs/2508.00272v1)** | 2025-08-01 |  |
-| **[DCT-Shield: A Robust Frequency Domain Defense against Malicious Image Editing](http://arxiv.org/abs/2504.17894v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing](http://arxiv.org/abs/2507.23278v1)** | 2025-07-31 |  |
-| **[Step1X-Edit: A Practical Framework for General Image Editing](http://arxiv.org/abs/2504.17761v5)** | 2025-07-31 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
 | **[PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](http://arxiv.org/abs/2412.16978v2)** | 2025-08-07 | 20 pages |
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v1)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://nxnai.github.io/Voost/</p></details> |
 | **[One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](http://arxiv.org/abs/2508.04559v1)** | 2025-08-06 |  |
@@ -85,13 +86,13 @@ labels: documentation
 | **[MGT: Extending Virtual Try-Off to Multi-Garment Scenarios](http://arxiv.org/abs/2504.13078v2)** | 2025-07-11 | Accepted at ICCVW'25 |
 | **[Scalable and Realistic Virtual Try-on Application for Foundation Makeup with Kubelka-Munk Theory](http://arxiv.org/abs/2507.07333v1)** | 2025-07-09 | <details><summary>Prese...</summary><p>Presented at the workshop Three questions about virtual try-on at CVPR 2025</p></details> |
 | **[TalkFashion: Intelligent Virtual Try-On Assistant Based on Multimodal Large Language Model](http://arxiv.org/abs/2507.05790v1)** | 2025-07-08 | 6 pages, 5 figures |
-| **[MAD: Makeup All-in-One with Cross-Domain Diffusion Model](http://arxiv.org/abs/2504.02545v2)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by CVPRW2025</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
+| **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v1)** | 2025-08-08 |  |
 | **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v1)** | 2025-08-04 |  |
-| **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v3)** | 2025-08-01 |  |
 | **[SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model](http://arxiv.org/abs/2507.20186v1)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025. The first two authors contributed equally</p></details> |
 | **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](http://arxiv.org/abs/2503.13745v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This version includes an updated abstract and introduction for improved clarity and context. We also added the LPIPS metric to our evaluation results to provide a more comprehensive assessment of perceptual quality</p></details> |
 | **[Exploring Scalable Unified Modeling for General Low-Level Vision](http://arxiv.org/abs/2507.14801v1)** | 2025-07-20 |  |
@@ -104,5 +105,4 @@ labels: documentation
 | **[A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution](http://arxiv.org/abs/2506.06710v1)** | 2025-06-07 |  |
 | **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v1)** | 2025-06-07 | 23 pages, 18 figures |
 | **[Scene Structure Guidance Network: Unfolding Graph Partitioning into Pixel-Wise Feature Learning](http://arxiv.org/abs/2301.00555v2)** | 2025-06-03 | <details><summary>35 pa...</summary><p>35 pages, 14 figures, journal extension version of SSGNet (https://ojs.aaai.org/index.php/AAAI/article/view/25322)</p></details> |
-| **[RAW Image Reconstruction from RGB on Smartphones. NTIRE 2025 Challenge Report](http://arxiv.org/abs/2506.01947v1)** | 2025-06-02 | <details><summary>CVPR ...</summary><p>CVPR 2025 - New Trends in Image Restoration and Enhancement (NTIRE)</p></details> |
 
