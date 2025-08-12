@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control](http://arxiv.org/abs/2508.08134v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project webpage is available at https://follow-your-shape.github.io/</p></details> |
+| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v1)** | 2025-08-11 |  |
+| **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
+| **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v2)** | 2025-08-11 |  |
+| **[Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing](http://arxiv.org/abs/2508.07519v1)** | 2025-08-11 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project webpage: https://joonghyuk.com/exploring-mmdit-web/</p></details> |
+| **[CLUE: Leveraging Low-Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization](http://arxiv.org/abs/2508.07413v1)** | 2025-08-10 |  |
+| **[Prompt-Softbox-Prompt: A Free-Text Embedding Control for Image Editing](http://arxiv.org/abs/2408.13623v3)** | 2025-08-09 | ACM MM 2025 |
+| **[CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing](http://arxiv.org/abs/2508.06937v1)** | 2025-08-09 | <details><summary>Proje...</summary><p>Project Page: vaynexie.github.io/CannyEdit/</p></details> |
+| **[Talk2Image: A Multi-Agent System for Multi-Turn Image Generation and Editing](http://arxiv.org/abs/2508.06916v1)** | 2025-08-09 |  |
+| **[Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing](http://arxiv.org/abs/2504.10434v2)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted by ICCV2025. Code will be released in https://github.com/hutaiHang/ATM</p></details> |
+| **[X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation](http://arxiv.org/abs/2503.06134v3)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[Neural-Driven Image Editing](http://arxiv.org/abs/2507.05397v2)** | 2025-08-08 | 22 pages, 14 figures |
 | **[UGD-IML: A Unified Generative Diffusion-based Framework for Constrained and Unconstrained Image Manipulation Localization](http://arxiv.org/abs/2508.06101v1)** | 2025-08-08 |  |
 | **[DreamVE: Unified Instruction-based Image and Video Editing](http://arxiv.org/abs/2508.06080v1)** | 2025-08-08 |  |
 | **[NEP: Autoregressive Image Editing via Next Editing Token Prediction](http://arxiv.org/abs/2508.06044v1)** | 2025-08-08 | <details><summary>The p...</summary><p>The project page is: https://nep-bigai.github.io/</p></details> |
-| **[InstantEdit: Text-Guided Few-Step Image Editing with Piecewise Rectified Flow](http://arxiv.org/abs/2508.06033v1)** | 2025-08-08 | ICCV 2025 |
-| **[TextMaster: A Unified Framework for Realistic Text Editing via Glyph-Style Dual-Control](http://arxiv.org/abs/2410.09879v2)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation](http://arxiv.org/abs/2508.03320v1)** | 2025-08-05 |  |
-| **[Zero Shot Domain Adaptive Semantic Segmentation by Synthetic Data Generation and Progressive Adaptation](http://arxiv.org/abs/2508.03300v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing](http://arxiv.org/abs/2508.03144v1)** | 2025-08-05 | <details><summary>We wi...</summary><p>We will make our implementation available soon</p></details> |
-| **[UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying](http://arxiv.org/abs/2508.03142v1)** | 2025-08-05 |  |
-| **[The Promise of RL for Autoregressive Image Editing](http://arxiv.org/abs/2508.01119v2)** | 2025-08-05 |  |
-| **[Transport-Guided Rectified Flow Inversion: Improved Image Editing Using Optimal Transport Theory](http://arxiv.org/abs/2508.02363v1)** | 2025-08-04 | <details><summary>25 pa...</summary><p>25 pages, 24 figures, WACV conference</p></details> |
-| **[Qwen-Image Technical Report](http://arxiv.org/abs/2508.02324v1)** | 2025-08-04 | <details><summary>https...</summary><p>https://github.com/QwenLM/Qwen-Image</p></details> |
-| **[Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing](http://arxiv.org/abs/2504.13490v2)** | 2025-08-02 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[LACONIC: A 3D Layout Adapter for Controllable Image Creation](http://arxiv.org/abs/2507.03257v2)** | 2025-08-02 | ICCV 2025 |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,12 +71,14 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Undress to Redress: A Training-Free Framework for Virtual Try-On](http://arxiv.org/abs/2508.07680v1)** | 2025-08-11 | 13 pages, 8 figures |
 | **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
 | **[PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](http://arxiv.org/abs/2412.16978v2)** | 2025-08-07 | 20 pages |
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v1)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://nxnai.github.io/Voost/</p></details> |
 | **[One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](http://arxiv.org/abs/2508.04559v1)** | 2025-08-06 |  |
 | **[Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis](http://arxiv.org/abs/2508.04551v1)** | 2025-08-06 |  |
 | **[FFHQ-Makeup: Paired Synthetic Makeup Dataset with Facial Consistency Across Multiple Styles](http://arxiv.org/abs/2508.03241v2)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project: https://yangxingchao.github.io/FFHQ-Makeup-page, Datasets: https://huggingface.co/datasets/cyberagent/FFHQ-Makeup</p></details> |
+| **[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](http://arxiv.org/abs/2508.06555v1)** | 2025-08-06 | 24pages, 5 figures |
 | **[DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework](http://arxiv.org/abs/2508.02807v1)** | 2025-08-04 | 18 pages, 12 figures |
 | **[From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos](http://arxiv.org/abs/2507.20331v2)** | 2025-07-29 | 12 pages |
 | **[Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](http://arxiv.org/abs/2412.09822v2)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project Page: https://zhengjun-ai.github.io/dynamic-tryon-page/. Accepted by The 36th British Machine Vision Conference</p></details> |
@@ -84,8 +86,6 @@ labels: documentation
 | **[PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021v5)** | 2025-07-21 |  |
 | **[OmniVTON: Training-Free Universal Virtual Try-On](http://arxiv.org/abs/2507.15037v1)** | 2025-07-20 | Accepted by ICCV2025 |
 | **[MGT: Extending Virtual Try-Off to Multi-Garment Scenarios](http://arxiv.org/abs/2504.13078v2)** | 2025-07-11 | Accepted at ICCVW'25 |
-| **[Scalable and Realistic Virtual Try-on Application for Foundation Makeup with Kubelka-Munk Theory](http://arxiv.org/abs/2507.07333v1)** | 2025-07-09 | <details><summary>Prese...</summary><p>Presented at the workshop Three questions about virtual try-on at CVPR 2025</p></details> |
-| **[TalkFashion: Intelligent Virtual Try-On Assistant Based on Multimodal Large Language Model](http://arxiv.org/abs/2507.05790v1)** | 2025-07-08 | 6 pages, 5 figures |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
