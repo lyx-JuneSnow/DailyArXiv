@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2025
+title: Latest 15 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v1)** | 2025-08-14 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
+| **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](http://arxiv.org/abs/2508.10509v1)** | 2025-08-14 |  |
+| **[TweezeEdit: Consistent and Efficient Image Editing with Path Regularization](http://arxiv.org/abs/2508.10498v1)** | 2025-08-14 |  |
 | **[TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation](http://arxiv.org/abs/2503.07050v2)** | 2025-08-12 |  |
 | **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v2)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM ICMI 2025 Demos</p></details> |
 | **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v2)** | 2025-08-12 |  |
@@ -28,9 +31,6 @@ labels: documentation
 | **[Prompt-Softbox-Prompt: A Free-Text Embedding Control for Image Editing](http://arxiv.org/abs/2408.13623v3)** | 2025-08-09 | ACM MM 2025 |
 | **[CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing](http://arxiv.org/abs/2508.06937v1)** | 2025-08-09 | <details><summary>Proje...</summary><p>Project Page: vaynexie.github.io/CannyEdit/</p></details> |
 | **[Talk2Image: A Multi-Agent System for Multi-Turn Image Generation and Editing](http://arxiv.org/abs/2508.06916v1)** | 2025-08-09 |  |
-| **[Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing](http://arxiv.org/abs/2504.10434v2)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted by ICCV2025. Code will be released in https://github.com/hutaiHang/ATM</p></details> |
-| **[X2I: Seamless Integration of Multimodal Understanding into Diffusion Transformer via Attention Distillation](http://arxiv.org/abs/2503.06134v3)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[Neural-Driven Image Editing](http://arxiv.org/abs/2507.05397v2)** | 2025-08-08 | 22 pages, 14 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
