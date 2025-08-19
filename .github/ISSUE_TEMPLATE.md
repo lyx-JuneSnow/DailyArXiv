@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,8 +16,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation](http://arxiv.org/abs/2508.11284v1)** | 2025-08-15 |  |
-| **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v1)** | 2025-08-14 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
+| **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v2)** | 2025-08-18 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
+| **[Single-Reference Text-to-Image Manipulation with Dual Contrastive Denoising Score](http://arxiv.org/abs/2508.12718v1)** | 2025-08-18 |  |
+| **[TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation](http://arxiv.org/abs/2508.11284v2)** | 2025-08-18 |  |
+| **[ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing](http://arxiv.org/abs/2503.14482v2)** | 2025-08-17 | <details><summary>17 pa...</summary><p>17 pages. Accepted by ICCV 2025</p></details> |
+| **[PEdger++: Practical Edge Detection via Assembling Cross Information](http://arxiv.org/abs/2508.11961v1)** | 2025-08-16 |  |
+| **[Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance](http://arxiv.org/abs/2503.18238v2)** | 2025-08-15 | 48 pages, 8 figures |
 | **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](http://arxiv.org/abs/2508.10509v1)** | 2025-08-14 |  |
 | **[TweezeEdit: Consistent and Efficient Image Editing with Path Regularization](http://arxiv.org/abs/2508.10498v1)** | 2025-08-14 |  |
 | **[TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation](http://arxiv.org/abs/2503.07050v2)** | 2025-08-12 |  |
@@ -27,15 +31,11 @@ labels: documentation
 | **[SPIE: Semantic and Structural Post-Training of Image Editing Diffusion Models with AI feedback](http://arxiv.org/abs/2504.12833v2)** | 2025-08-12 |  |
 | **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
 | **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v2)** | 2025-08-11 |  |
-| **[Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing](http://arxiv.org/abs/2508.07519v1)** | 2025-08-11 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project webpage: https://joonghyuk.com/exploring-mmdit-web/</p></details> |
-| **[CLUE: Leveraging Low-Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization](http://arxiv.org/abs/2508.07413v1)** | 2025-08-10 |  |
-| **[Prompt-Softbox-Prompt: A Free-Text Embedding Control for Image Editing](http://arxiv.org/abs/2408.13623v3)** | 2025-08-09 | ACM MM 2025 |
-| **[CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing](http://arxiv.org/abs/2508.06937v1)** | 2025-08-09 | <details><summary>Proje...</summary><p>Project Page: vaynexie.github.io/CannyEdit/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CPCL: Cross-Modal Prototypical Contrastive Learning for Weakly Supervised Text-based Person Retrieval](http://arxiv.org/abs/2401.10011v2)** | 2025-08-01 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, under peer review</p></details> |
+| **[CPCL: Cross-Modal Prototypical Contrastive Learning for Weakly Supervised Text-based Person Retrieval](http://arxiv.org/abs/2401.10011v3)** | 2025-08-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, under peer review</p></details> |
 | **[Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval](http://arxiv.org/abs/2507.10195v1)** | 2025-07-14 |  |
 | **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](http://arxiv.org/abs/2505.24466v2)** | 2025-06-26 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Under review</p></details> |
 | **[CAMeL: Cross-modality Adaptive Meta-Learning for Text-based Person Retrieval](http://arxiv.org/abs/2504.18782v1)** | 2025-04-26 |  |
@@ -71,6 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
 | **[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](http://arxiv.org/abs/2508.06555v2)** | 2025-08-12 | 24pages, 5 figures |
 | **[MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization](http://arxiv.org/abs/2508.08488v1)** | 2025-08-11 |  |
 | **[Undress to Redress: A Training-Free Framework for Virtual Try-On](http://arxiv.org/abs/2508.07680v1)** | 2025-08-11 | 13 pages, 8 figures |
@@ -85,7 +86,6 @@ labels: documentation
 | **[Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](http://arxiv.org/abs/2412.09822v2)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project Page: https://zhengjun-ai.github.io/dynamic-tryon-page/. Accepted by The 36th British Machine Vision Conference</p></details> |
 | **[FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on](http://arxiv.org/abs/2507.16010v1)** | 2025-07-21 |  |
 | **[PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021v5)** | 2025-07-21 |  |
-| **[OmniVTON: Training-Free Universal Virtual Try-On](http://arxiv.org/abs/2507.15037v1)** | 2025-07-20 | Accepted by ICCV2025 |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
