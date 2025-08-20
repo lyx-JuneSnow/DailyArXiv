@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2025
+title: Latest 15 Papers - August 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing](http://arxiv.org/abs/2508.13797v1)** | 2025-08-19 | SIGGRAPH 2025 |
 | **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v2)** | 2025-08-18 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
 | **[Single-Reference Text-to-Image Manipulation with Dual Contrastive Denoising Score](http://arxiv.org/abs/2508.12718v1)** | 2025-08-18 |  |
 | **[TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation](http://arxiv.org/abs/2508.11284v2)** | 2025-08-18 |  |
@@ -25,12 +26,6 @@ labels: documentation
 | **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](http://arxiv.org/abs/2508.10509v1)** | 2025-08-14 |  |
 | **[TweezeEdit: Consistent and Efficient Image Editing with Path Regularization](http://arxiv.org/abs/2508.10498v1)** | 2025-08-14 |  |
 | **[TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation](http://arxiv.org/abs/2503.07050v2)** | 2025-08-12 |  |
-| **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v2)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM ICMI 2025 Demos</p></details> |
-| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v2)** | 2025-08-12 |  |
-| **[Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control](http://arxiv.org/abs/2508.08134v2)** | 2025-08-12 | <details><summary>Proje...</summary><p>Project webpage is available at https://follow-your-shape.github.io/</p></details> |
-| **[SPIE: Semantic and Structural Post-Training of Image Editing Diffusion Models with AI feedback](http://arxiv.org/abs/2504.12833v2)** | 2025-08-12 |  |
-| **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v1)** | 2025-08-11 | <details><summary>https...</summary><p>https://github.com/OPPO-Mente-Lab/X2Edit</p></details> |
-| **[GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles](http://arxiv.org/abs/2506.21839v2)** | 2025-08-11 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +66,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniTry: Virtual Try-On Anything without Masks](http://arxiv.org/abs/2508.13632v1)** | 2025-08-19 |  |
 | **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
 | **[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](http://arxiv.org/abs/2508.06555v2)** | 2025-08-12 | 24pages, 5 figures |
 | **[MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization](http://arxiv.org/abs/2508.08488v1)** | 2025-08-11 |  |
@@ -80,12 +76,6 @@ labels: documentation
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v1)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://nxnai.github.io/Voost/</p></details> |
 | **[One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](http://arxiv.org/abs/2508.04559v1)** | 2025-08-06 |  |
 | **[Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis](http://arxiv.org/abs/2508.04551v1)** | 2025-08-06 |  |
-| **[FFHQ-Makeup: Paired Synthetic Makeup Dataset with Facial Consistency Across Multiple Styles](http://arxiv.org/abs/2508.03241v2)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project: https://yangxingchao.github.io/FFHQ-Makeup-page, Datasets: https://huggingface.co/datasets/cyberagent/FFHQ-Makeup</p></details> |
-| **[DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework](http://arxiv.org/abs/2508.02807v1)** | 2025-08-04 | 18 pages, 12 figures |
-| **[From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos](http://arxiv.org/abs/2507.20331v2)** | 2025-07-29 | 12 pages |
-| **[Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](http://arxiv.org/abs/2412.09822v2)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project Page: https://zhengjun-ai.github.io/dynamic-tryon-page/. Accepted by The 36th British Machine Vision Conference</p></details> |
-| **[FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on](http://arxiv.org/abs/2507.16010v1)** | 2025-07-21 |  |
-| **[PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021v5)** | 2025-07-21 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
