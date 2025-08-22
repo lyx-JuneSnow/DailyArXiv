@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,11 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](http://arxiv.org/abs/2508.15772v1)** | 2025-08-21 | <details><summary>Sourc...</summary><p>Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
+| **[LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing](http://arxiv.org/abs/2508.03144v2)** | 2025-08-21 | <details><summary>Our i...</summary><p>Our implementation is available at https://github.com/oyly16/LORE</p></details> |
 | **[Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing](http://arxiv.org/abs/2508.13797v1)** | 2025-08-19 | SIGGRAPH 2025 |
 | **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v2)** | 2025-08-18 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
 | **[Single-Reference Text-to-Image Manipulation with Dual Contrastive Denoising Score](http://arxiv.org/abs/2508.12718v1)** | 2025-08-18 |  |
 | **[TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation](http://arxiv.org/abs/2508.11284v2)** | 2025-08-18 |  |
 | **[ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing](http://arxiv.org/abs/2503.14482v2)** | 2025-08-17 | <details><summary>17 pa...</summary><p>17 pages. Accepted by ICCV 2025</p></details> |
+| **[PEdger++: Practical Edge Detection via Assembling Cross Information](http://arxiv.org/abs/2508.11961v1)** | 2025-08-16 |  |
+| **[Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance](http://arxiv.org/abs/2503.18238v2)** | 2025-08-15 | 48 pages, 8 figures |
+| **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](http://arxiv.org/abs/2508.10509v1)** | 2025-08-14 |  |
+| **[TweezeEdit: Consistent and Efficient Image Editing with Path Regularization](http://arxiv.org/abs/2508.10498v1)** | 2025-08-14 |  |
+| **[TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation](http://arxiv.org/abs/2503.07050v2)** | 2025-08-12 |  |
+| **[LayLens: Improving Deepfake Understanding through Simplified Explanations](http://arxiv.org/abs/2507.10066v2)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted to ACM ICMI 2025 Demos</p></details> |
+| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v2)** | 2025-08-12 |  |
+| **[Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control](http://arxiv.org/abs/2508.08134v2)** | 2025-08-12 | <details><summary>Proje...</summary><p>Project webpage is available at https://follow-your-shape.github.io/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
