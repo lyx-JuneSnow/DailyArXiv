@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 23, 2025
+title: Latest 15 Papers - August 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -95,14 +95,4 @@ labels: documentation
 | **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
 | **[SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model](http://arxiv.org/abs/2507.20186v1)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025. The first two authors contributed equally</p></details> |
 | **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](http://arxiv.org/abs/2503.13745v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This version includes an updated abstract and introduction for improved clarity and context. We also added the LPIPS metric to our evaluation results to provide a more comprehensive assessment of perceptual quality</p></details> |
-| **[Exploring Scalable Unified Modeling for General Low-Level Vision](http://arxiv.org/abs/2507.14801v1)** | 2025-07-20 |  |
-| **[4KAgent: Agentic Any Image to 4K Super-Resolution](http://arxiv.org/abs/2507.07105v1)** | 2025-07-09 | <details><summary>Proje...</summary><p>Project page: https://4kagent.github.io</p></details> |
-| **[LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](http://arxiv.org/abs/2507.00790v2)** | 2025-07-04 |  |
-| **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v1)** | 2025-06-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](http://arxiv.org/abs/2506.22246v1)** | 2025-06-27 | ICCV 2025 |
-| **[R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision](http://arxiv.org/abs/2506.16262v2)** | 2025-06-23 | <details><summary>Pleas...</summary><p>Please visit our project page at https://github.com/CMLab-Korea/Awesome-3D-Low-Level-Vision</p></details> |
-| **[From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models](http://arxiv.org/abs/2506.07280v2)** | 2025-06-10 | <details><summary>27 pa...</summary><p>27 pages, 23 figures, 9 tables. Project page: https://pabloacuaviva.github.io/Gen2Gen/</p></details> |
-| **[A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution](http://arxiv.org/abs/2506.06710v1)** | 2025-06-07 |  |
-| **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v1)** | 2025-06-07 | 23 pages, 18 figures |
-| **[Scene Structure Guidance Network: Unfolding Graph Partitioning into Pixel-Wise Feature Learning](http://arxiv.org/abs/2301.00555v2)** | 2025-06-03 | <details><summary>35 pa...</summary><p>35 pages, 14 figures, journal extension version of SSGNet (https://ojs.aaai.org/index.php/AAAI/article/view/25322)</p></details> |
 
