@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -90,6 +90,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
 | **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
 | **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
 | **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
@@ -104,5 +105,4 @@ labels: documentation
 | **[From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models](http://arxiv.org/abs/2506.07280v2)** | 2025-06-10 | <details><summary>27 pa...</summary><p>27 pages, 23 figures, 9 tables. Project page: https://pabloacuaviva.github.io/Gen2Gen/</p></details> |
 | **[A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution](http://arxiv.org/abs/2506.06710v1)** | 2025-06-07 |  |
 | **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v1)** | 2025-06-07 | 23 pages, 18 figures |
-| **[Scene Structure Guidance Network: Unfolding Graph Partitioning into Pixel-Wise Feature Learning](http://arxiv.org/abs/2301.00555v2)** | 2025-06-03 | <details><summary>35 pa...</summary><p>35 pages, 14 figures, journal extension version of SSGNet (https://ojs.aaai.org/index.php/AAAI/article/view/25322)</p></details> |
 
