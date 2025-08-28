@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2025
+title: Latest 15 Papers - August 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models](http://arxiv.org/abs/2508.19791v1)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
 | **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v1)** | 2025-08-25 |  |
 | **[Addressing Text Embedding Leakage in Diffusion-based Image Editing](http://arxiv.org/abs/2412.04715v4)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing](http://arxiv.org/abs/2508.17435v1)** | 2025-08-24 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing](http://arxiv.org/abs/2503.14482v2)** | 2025-08-17 | <details><summary>17 pa...</summary><p>17 pages. Accepted by ICCV 2025</p></details> |
 | **[PEdger++: Practical Edge Detection via Assembling Cross Information](http://arxiv.org/abs/2508.11961v1)** | 2025-08-16 |  |
 | **[Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance](http://arxiv.org/abs/2503.18238v2)** | 2025-08-15 | 48 pages, 8 figures |
-| **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](http://arxiv.org/abs/2508.10509v1)** | 2025-08-14 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,11 +45,6 @@ labels: documentation
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
 | **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
-| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
-| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
-| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
-| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
-| **[CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](http://arxiv.org/abs/2309.09496v2)** | 2024-01-02 | <details><summary>ICASS...</summary><p>ICASSP2024(accepted). minor typos revision compared to version 1 in arxiv</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
