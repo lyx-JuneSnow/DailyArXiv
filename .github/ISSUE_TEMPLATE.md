@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation](http://arxiv.org/abs/2508.20987v1)** | 2025-08-28 |  |
+| **[Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent](http://arxiv.org/abs/2508.20505v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
+| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v2)** | 2025-08-28 | <details><summary>Camer...</summary><p>Camera-ready version for ICCV 2025. Adds GitHub link; acknowledgments; appendix. Abstract and Figure 1 updated for clarity</p></details> |
 | **[Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models](http://arxiv.org/abs/2508.19791v1)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
 | **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v1)** | 2025-08-25 |  |
 | **[Addressing Text Embedding Leakage in Diffusion-based Image Editing](http://arxiv.org/abs/2412.04715v4)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
@@ -28,9 +31,6 @@ labels: documentation
 | **[NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale](http://arxiv.org/abs/2508.10711v2)** | 2025-08-18 | <details><summary>Code:...</summary><p>Code: https://github.com/stepfun-ai/NextStep-1</p></details> |
 | **[Single-Reference Text-to-Image Manipulation with Dual Contrastive Denoising Score](http://arxiv.org/abs/2508.12718v1)** | 2025-08-18 |  |
 | **[TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation](http://arxiv.org/abs/2508.11284v2)** | 2025-08-18 |  |
-| **[ICE-Bench: A Unified and Comprehensive Benchmark for Image Creating and Editing](http://arxiv.org/abs/2503.14482v2)** | 2025-08-17 | <details><summary>17 pa...</summary><p>17 pages. Accepted by ICCV 2025</p></details> |
-| **[PEdger++: Practical Edge Detection via Assembling Cross Information](http://arxiv.org/abs/2508.11961v1)** | 2025-08-16 |  |
-| **[Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance](http://arxiv.org/abs/2503.18238v2)** | 2025-08-15 | 48 pages, 8 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
 | **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
+| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
+| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
+| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
+| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
+| **[CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](http://arxiv.org/abs/2309.09496v2)** | 2024-01-02 | <details><summary>ICASS...</summary><p>ICASSP2024(accepted). minor typos revision compared to version 1 in arxiv</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
@@ -66,6 +71,8 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
+| **[FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](http://arxiv.org/abs/2508.20586v1)** | 2025-08-28 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
 | **[JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](http://arxiv.org/abs/2508.17614v1)** | 2025-08-25 |  |
 | **[OmniTry: Virtual Try-On Anything without Masks](http://arxiv.org/abs/2508.13632v1)** | 2025-08-19 |  |
 | **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
@@ -79,12 +86,11 @@ labels: documentation
 | **[Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis](http://arxiv.org/abs/2508.04551v1)** | 2025-08-06 |  |
 | **[FFHQ-Makeup: Paired Synthetic Makeup Dataset with Facial Consistency Across Multiple Styles](http://arxiv.org/abs/2508.03241v2)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project: https://yangxingchao.github.io/FFHQ-Makeup-page, Datasets: https://huggingface.co/datasets/cyberagent/FFHQ-Makeup</p></details> |
 | **[DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework](http://arxiv.org/abs/2508.02807v1)** | 2025-08-04 | 18 pages, 12 figures |
-| **[From Gallery to Wrist: Realistic 3D Bracelet Insertion in Videos](http://arxiv.org/abs/2507.20331v2)** | 2025-07-29 | 12 pages |
-| **[Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism](http://arxiv.org/abs/2412.09822v2)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project Page: https://zhengjun-ai.github.io/dynamic-tryon-page/. Accepted by The 36th British Machine Vision Conference</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](http://arxiv.org/abs/2308.09388v2)** | 2025-08-28 | Accepted by IJCV |
 | **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
 | **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
 | **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
@@ -99,5 +105,4 @@ labels: documentation
 | **[R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision](http://arxiv.org/abs/2506.16262v2)** | 2025-06-23 | <details><summary>Pleas...</summary><p>Please visit our project page at https://github.com/CMLab-Korea/Awesome-3D-Low-Level-Vision</p></details> |
 | **[From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models](http://arxiv.org/abs/2506.07280v2)** | 2025-06-10 | <details><summary>27 pa...</summary><p>27 pages, 23 figures, 9 tables. Project page: https://pabloacuaviva.github.io/Gen2Gen/</p></details> |
 | **[A Systematic Investigation on Deep Learning-Based Omnidirectional Image and Video Super-Resolution](http://arxiv.org/abs/2506.06710v1)** | 2025-06-07 |  |
-| **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v1)** | 2025-06-07 | 23 pages, 18 figures |
 
