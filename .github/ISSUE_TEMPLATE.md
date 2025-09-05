@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2025
+title: Latest 15 Papers - September 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
+| **[Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices](http://arxiv.org/abs/2504.03155v2)** | 2025-09-03 | <details><summary>We id...</summary><p>We identified issues in the experimental results and want to withdraw the paper. We plan to submit an updated version once these issues have been resolved</p></details> |
 | **[Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing](http://arxiv.org/abs/2509.01984v2)** | 2025-09-03 | update affiliation |
 | **[Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination](http://arxiv.org/abs/2509.01986v1)** | 2025-09-02 | Tech Report |
 | **[Neural Scene Designer: Self-Styled Semantic Image Manipulation](http://arxiv.org/abs/2509.01405v1)** | 2025-09-01 |  |
@@ -29,8 +31,6 @@ labels: documentation
 | **[Addressing Text Embedding Leakage in Diffusion-based Image Editing](http://arxiv.org/abs/2412.04715v4)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing](http://arxiv.org/abs/2508.17435v1)** | 2025-08-24 |  |
 | **[Defending Deepfake via Texture Feature Perturbation](http://arxiv.org/abs/2508.17315v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted to IEEE SMC 2025</p></details> |
-| **[PosBridge: Multi-View Positional Embedding Transplant for Identity-Aware Image Editing](http://arxiv.org/abs/2508.17302v1)** | 2025-08-24 |  |
-| **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](http://arxiv.org/abs/2508.15772v1)** | 2025-08-21 | <details><summary>Sourc...</summary><p>Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,7 +71,8 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v2)** | 2025-09-03 |  |
+| **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
+| **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v3)** | 2025-09-04 |  |
 | **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v1)** | 2025-09-02 |  |
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v2)** | 2025-08-30 | <details><summary>Proje...</summary><p>Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
@@ -85,7 +86,6 @@ labels: documentation
 | **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
 | **[PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](http://arxiv.org/abs/2412.16978v2)** | 2025-08-07 | 20 pages |
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v1)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://nxnai.github.io/Voost/</p></details> |
-| **[One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose](http://arxiv.org/abs/2508.04559v1)** | 2025-08-06 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
