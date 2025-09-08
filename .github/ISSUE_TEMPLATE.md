@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping](http://arxiv.org/abs/2509.04582v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://visual-ai.github.io/inpaint4drag/</p></details> |
 | **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
+| **[Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control](http://arxiv.org/abs/2509.05285v1)** | 2025-09-04 |  |
 | **[Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices](http://arxiv.org/abs/2504.03155v2)** | 2025-09-03 | <details><summary>We id...</summary><p>We identified issues in the experimental results and want to withdraw the paper. We plan to submit an updated version once these issues have been resolved</p></details> |
 | **[Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing](http://arxiv.org/abs/2509.01984v2)** | 2025-09-03 | update affiliation |
+| **[Fidelity-preserving enhancement of ptychography with foundational text-to-image models](http://arxiv.org/abs/2509.04513v1)** | 2025-09-02 |  |
 | **[Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination](http://arxiv.org/abs/2509.01986v1)** | 2025-09-02 | Tech Report |
 | **[Neural Scene Designer: Self-Styled Semantic Image Manipulation](http://arxiv.org/abs/2509.01405v1)** | 2025-09-01 |  |
 | **[Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v4)** | 2025-08-31 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
@@ -28,9 +31,6 @@ labels: documentation
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v2)** | 2025-08-28 | <details><summary>Camer...</summary><p>Camera-ready version for ICCV 2025. Adds GitHub link; acknowledgments; appendix. Abstract and Figure 1 updated for clarity</p></details> |
 | **[Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models](http://arxiv.org/abs/2508.19791v1)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
 | **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v1)** | 2025-08-25 |  |
-| **[Addressing Text Embedding Leakage in Diffusion-based Image Editing](http://arxiv.org/abs/2412.04715v4)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
-| **[An LLM-LVLM Driven Agent for Iterative and Fine-Grained Image Editing](http://arxiv.org/abs/2508.17435v1)** | 2025-08-24 |  |
-| **[Defending Deepfake via Texture Feature Perturbation](http://arxiv.org/abs/2508.17315v1)** | 2025-08-24 | <details><summary>Accep...</summary><p>Accepted to IEEE SMC 2025</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,9 +71,10 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030v1)** | 2025-09-05 |  |
+| **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v2)** | 2025-09-04 |  |
 | **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
 | **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v3)** | 2025-09-04 |  |
-| **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v1)** | 2025-09-02 |  |
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v2)** | 2025-08-30 | <details><summary>Proje...</summary><p>Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
 | **[FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](http://arxiv.org/abs/2508.20586v1)** | 2025-08-28 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
@@ -85,7 +86,6 @@ labels: documentation
 | **[Undress to Redress: A Training-Free Framework for Virtual Try-On](http://arxiv.org/abs/2508.07680v1)** | 2025-08-11 | 13 pages, 8 figures |
 | **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
 | **[PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](http://arxiv.org/abs/2412.16978v2)** | 2025-08-07 | 20 pages |
-| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](http://arxiv.org/abs/2508.04825v1)** | 2025-08-06 | <details><summary>Proje...</summary><p>Project page: https://nxnai.github.io/Voost/</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
