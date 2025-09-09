@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v2)** | 2025-09-07 |  |
 | **[Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping](http://arxiv.org/abs/2509.04582v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://visual-ai.github.io/inpaint4drag/</p></details> |
 | **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
 | **[Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control](http://arxiv.org/abs/2509.05285v1)** | 2025-09-04 |  |
@@ -23,14 +24,13 @@ labels: documentation
 | **[Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing](http://arxiv.org/abs/2509.01984v2)** | 2025-09-03 | update affiliation |
 | **[Fidelity-preserving enhancement of ptychography with foundational text-to-image models](http://arxiv.org/abs/2509.04513v1)** | 2025-09-02 |  |
 | **[Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination](http://arxiv.org/abs/2509.01986v1)** | 2025-09-02 | Tech Report |
+| **[Delta Velocity Rectified Flow for Text-to-Image Editing](http://arxiv.org/abs/2509.05342v1)** | 2025-09-01 |  |
 | **[Neural Scene Designer: Self-Styled Semantic Image Manipulation](http://arxiv.org/abs/2509.01405v1)** | 2025-09-01 |  |
 | **[Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v4)** | 2025-08-31 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
 | **[LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](http://arxiv.org/abs/2509.00541v1)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation](http://arxiv.org/abs/2508.20987v1)** | 2025-08-28 |  |
 | **[Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent](http://arxiv.org/abs/2508.20505v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v2)** | 2025-08-28 | <details><summary>Camer...</summary><p>Camera-ready version for ICCV 2025. Adds GitHub link; acknowledgments; appendix. Abstract and Figure 1 updated for clarity</p></details> |
-| **[Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models](http://arxiv.org/abs/2508.19791v1)** | 2025-08-27 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
-| **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v1)** | 2025-08-25 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -90,7 +90,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v1)** | 2025-09-03 |  |
+| **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v2)** | 2025-09-06 |  |
 | **[LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](http://arxiv.org/abs/2507.00790v3)** | 2025-09-03 |  |
 | **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v2)** | 2025-09-02 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper</p></details> |
 | **[A Unified Low-level Foundation Model for Enhancing Pathology Image Quality](http://arxiv.org/abs/2509.01071v1)** | 2025-09-01 |  |
