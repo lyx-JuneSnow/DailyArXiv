@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 09, 2025
+title: Latest 15 Papers - September 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -81,11 +81,6 @@ labels: documentation
 | **[JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](http://arxiv.org/abs/2508.17614v1)** | 2025-08-25 |  |
 | **[OmniTry: Virtual Try-On Anything without Masks](http://arxiv.org/abs/2508.13632v1)** | 2025-08-19 |  |
 | **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
-| **[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](http://arxiv.org/abs/2508.06555v2)** | 2025-08-12 | 24pages, 5 figures |
-| **[MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization](http://arxiv.org/abs/2508.08488v1)** | 2025-08-11 |  |
-| **[Undress to Redress: A Training-Free Framework for Virtual Try-On](http://arxiv.org/abs/2508.07680v1)** | 2025-08-11 | 13 pages, 8 figures |
-| **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
-| **[PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask](http://arxiv.org/abs/2412.16978v2)** | 2025-08-07 | 20 pages |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
