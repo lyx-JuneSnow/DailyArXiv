@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 11, 2025
+title: Latest 15 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval](http://arxiv.org/abs/2509.09118v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted by EMNLP2025 Main</p></details> |
 | **[CPCL: Cross-Modal Prototypical Contrastive Learning for Weakly Supervised Text-based Person Retrieval](http://arxiv.org/abs/2401.10011v3)** | 2025-08-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, under peer review</p></details> |
 | **[Minimizing the Pretraining Gap: Domain-aligned Text-Based Person Retrieval](http://arxiv.org/abs/2507.10195v1)** | 2025-07-14 |  |
 | **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](http://arxiv.org/abs/2505.24466v2)** | 2025-06-26 | <details><summary>22 pa...</summary><p>22 pages, 7 figures. Under review</p></details> |
@@ -49,7 +50,6 @@ labels: documentation
 | **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
 | **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
 | **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
-| **[CLIP-based Synergistic Knowledge Transfer for Text-based Person Retrieval](http://arxiv.org/abs/2309.09496v2)** | 2024-01-02 | <details><summary>ICASS...</summary><p>ICASSP2024(accepted). minor typos revision compared to version 1 in arxiv</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
@@ -90,6 +90,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution](http://arxiv.org/abs/2509.09427v1)** | 2025-09-11 |  |
 | **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v2)** | 2025-09-06 |  |
 | **[LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](http://arxiv.org/abs/2507.00790v3)** | 2025-09-03 |  |
 | **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v2)** | 2025-09-02 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper</p></details> |
@@ -104,5 +105,4 @@ labels: documentation
 | **[Exploring Scalable Unified Modeling for General Low-Level Vision](http://arxiv.org/abs/2507.14801v1)** | 2025-07-20 |  |
 | **[4KAgent: Agentic Any Image to 4K Super-Resolution](http://arxiv.org/abs/2507.07105v1)** | 2025-07-09 | <details><summary>Proje...</summary><p>Project page: https://4kagent.github.io</p></details> |
 | **[EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](http://arxiv.org/abs/2506.22246v1)** | 2025-06-27 | ICCV 2025 |
-| **[R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision](http://arxiv.org/abs/2506.16262v2)** | 2025-06-23 | <details><summary>Pleas...</summary><p>Please visit our project page at https://github.com/CMLab-Korea/Awesome-3D-Low-Level-Vision</p></details> |
 
