@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 13, 2025
+title: Latest 15 Papers - September 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -45,11 +45,6 @@ labels: documentation
 | **[An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval](http://arxiv.org/abs/2503.22171v1)** | 2025-03-28 | 20 pages,13 figures |
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
-| **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
-| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
-| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
-| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
-| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
