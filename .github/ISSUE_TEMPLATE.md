@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 14, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Immunizing Images from Text to Image Editing via Adversarial Cross-Attention](http://arxiv.org/abs/2509.10359v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted as Regular Paper at ACM Multimedia 2025</p></details> |
 | **[RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts](http://arxiv.org/abs/2509.08640v1)** | 2025-09-10 | <details><summary>25 + ...</summary><p>25 + 8 pages, 4 + 7 figures</p></details> |
 | **[Delta Velocity Rectified Flow for Text-to-Image Editing](http://arxiv.org/abs/2509.05342v2)** | 2025-09-09 |  |
 | **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v2)** | 2025-09-07 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v4)** | 2025-08-31 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
 | **[LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](http://arxiv.org/abs/2509.00541v1)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation](http://arxiv.org/abs/2508.20987v1)** | 2025-08-28 |  |
-| **[Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent](http://arxiv.org/abs/2508.20505v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 | **[An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval](http://arxiv.org/abs/2503.22171v1)** | 2025-03-28 | 20 pages,13 figures |
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
+| **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
+| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
+| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
+| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
+| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
