@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](http://arxiv.org/abs/2509.12203v1)** | 2025-09-15 |  |
 | **[Immunizing Images from Text to Image Editing via Adversarial Cross-Attention](http://arxiv.org/abs/2509.10359v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted as Regular Paper at ACM Multimedia 2025</p></details> |
 | **[RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts](http://arxiv.org/abs/2509.08640v1)** | 2025-09-10 | <details><summary>25 + ...</summary><p>25 + 8 pages, 4 + 7 figures</p></details> |
 | **[Delta Velocity Rectified Flow for Text-to-Image Editing](http://arxiv.org/abs/2509.05342v2)** | 2025-09-09 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Neural Scene Designer: Self-Styled Semantic Image Manipulation](http://arxiv.org/abs/2509.01405v1)** | 2025-09-01 |  |
 | **[Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v4)** | 2025-08-31 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
 | **[LatentEdit: Adaptive Latent Control for Consistent Semantic Editing](http://arxiv.org/abs/2509.00541v1)** | 2025-08-30 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
-| **[Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation](http://arxiv.org/abs/2508.20987v1)** | 2025-08-28 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
