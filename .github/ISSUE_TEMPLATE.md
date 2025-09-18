@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2025
+title: Latest 15 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients](http://arxiv.org/abs/2503.05424v2)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted at WACV-2026, 45 pages, 39 figures, 15 tables</p></details> |
+| **[Controllable-Continuous Color Editing in Diffusion Model via Color Mapping](http://arxiv.org/abs/2509.13756v1)** | 2025-09-17 |  |
+| **[DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing](http://arxiv.org/abs/2409.01086v3)** | 2025-09-17 | 13 pages,12 figures |
+| **[LLM-I: LLMs are Naturally Interleaved Multimodal Creators](http://arxiv.org/abs/2509.13642v1)** | 2025-09-17 |  |
+| **[EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing](http://arxiv.org/abs/2509.13399v1)** | 2025-09-16 | <details><summary>Tiany...</summary><p>Tianyu Chen and Yasi Zhang contributed equally; Oscar Leong, Lijuan Wang, Ying Nian Wu, and Mingyuan Zhou advised equally</p></details> |
 | **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](http://arxiv.org/abs/2509.13214v1)** | 2025-09-16 |  |
 | **[Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder](http://arxiv.org/abs/2509.12883v1)** | 2025-09-16 |  |
 | **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v5)** | 2025-09-16 |  |
@@ -26,11 +31,6 @@ labels: documentation
 | **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v2)** | 2025-09-07 |  |
 | **[Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping](http://arxiv.org/abs/2509.04582v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://visual-ai.github.io/inpaint4drag/</p></details> |
 | **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
-| **[Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control](http://arxiv.org/abs/2509.05285v1)** | 2025-09-04 |  |
-| **[Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices](http://arxiv.org/abs/2504.03155v2)** | 2025-09-03 | <details><summary>We id...</summary><p>We identified issues in the experimental results and want to withdraw the paper. We plan to submit an updated version once these issues have been resolved</p></details> |
-| **[Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing](http://arxiv.org/abs/2509.01984v2)** | 2025-09-03 | update affiliation |
-| **[Fidelity-preserving enhancement of ptychography with foundational text-to-image models](http://arxiv.org/abs/2509.04513v1)** | 2025-09-02 |  |
-| **[Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination](http://arxiv.org/abs/2509.01986v1)** | 2025-09-02 | Tech Report |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,11 +71,21 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform](http://arxiv.org/abs/2509.13506v1)** | 2025-09-16 | <details><summary>Publi...</summary><p>Published in 2025 CVPR Workshop</p></details> |
 | **[LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030v1)** | 2025-09-05 |  |
 | **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v2)** | 2025-09-04 |  |
 | **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
 | **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v3)** | 2025-09-04 |  |
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v2)** | 2025-08-30 | <details><summary>Proje...</summary><p>Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
+| **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
+| **[FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](http://arxiv.org/abs/2508.20586v1)** | 2025-08-28 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
+| **[JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](http://arxiv.org/abs/2508.17614v1)** | 2025-08-25 |  |
+| **[OmniTry: Virtual Try-On Anything without Masks](http://arxiv.org/abs/2508.13632v1)** | 2025-08-19 |  |
+| **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
+| **[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](http://arxiv.org/abs/2508.06555v2)** | 2025-08-12 | 24pages, 5 figures |
+| **[MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization](http://arxiv.org/abs/2508.08488v1)** | 2025-08-11 |  |
+| **[Undress to Redress: A Training-Free Framework for Virtual Try-On](http://arxiv.org/abs/2508.07680v1)** | 2025-08-11 | 13 pages, 8 figures |
+| **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
