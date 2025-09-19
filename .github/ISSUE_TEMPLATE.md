@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,12 +16,14 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](http://arxiv.org/abs/2509.13214v2)** | 2025-09-18 |  |
+| **[AutoEdit: Automatic Hyperparameter Tuning for Image Editing](http://arxiv.org/abs/2509.15031v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks](http://arxiv.org/abs/2509.14638v1)** | 2025-09-18 |  |
 | **[Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients](http://arxiv.org/abs/2503.05424v2)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted at WACV-2026, 45 pages, 39 figures, 15 tables</p></details> |
 | **[Controllable-Continuous Color Editing in Diffusion Model via Color Mapping](http://arxiv.org/abs/2509.13756v1)** | 2025-09-17 |  |
 | **[DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing](http://arxiv.org/abs/2409.01086v3)** | 2025-09-17 | 13 pages,12 figures |
 | **[LLM-I: LLMs are Naturally Interleaved Multimodal Creators](http://arxiv.org/abs/2509.13642v1)** | 2025-09-17 |  |
 | **[EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing](http://arxiv.org/abs/2509.13399v1)** | 2025-09-16 | <details><summary>Tiany...</summary><p>Tianyu Chen and Yasi Zhang contributed equally; Oscar Leong, Lijuan Wang, Ying Nian Wu, and Mingyuan Zhou advised equally</p></details> |
-| **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](http://arxiv.org/abs/2509.13214v1)** | 2025-09-16 |  |
 | **[Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder](http://arxiv.org/abs/2509.12883v1)** | 2025-09-16 |  |
 | **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v5)** | 2025-09-16 |  |
 | **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](http://arxiv.org/abs/2509.12203v1)** | 2025-09-15 |  |
@@ -29,8 +31,6 @@ labels: documentation
 | **[RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts](http://arxiv.org/abs/2509.08640v1)** | 2025-09-10 | <details><summary>25 + ...</summary><p>25 + 8 pages, 4 + 7 figures</p></details> |
 | **[Delta Velocity Rectified Flow for Text-to-Image Editing](http://arxiv.org/abs/2509.05342v2)** | 2025-09-09 |  |
 | **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v2)** | 2025-09-07 |  |
-| **[Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping](http://arxiv.org/abs/2509.04582v1)** | 2025-09-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project page: https://visual-ai.github.io/inpaint4drag/</p></details> |
-| **[From Editor to Dense Geometry Estimator](http://arxiv.org/abs/2509.04338v1)** | 2025-09-04 | 20pages |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
