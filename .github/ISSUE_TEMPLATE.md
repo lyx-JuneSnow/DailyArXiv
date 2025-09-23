@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance](http://arxiv.org/abs/2509.17757v1)** | 2025-09-22 |  |
+| **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v2)** | 2025-09-21 |  |
+| **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v2)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, there will be future updates for camera ready version. Code: https://github.com/River-Zhang/ICEdit</p></details> |
+| **[Optimal Transport for Rectified Flow Image Editing: Unifying Inversion-Based and Direct Methods](http://arxiv.org/abs/2508.02363v2)** | 2025-09-20 | <details><summary>27 pa...</summary><p>27 pages, 26 figures, WACV conference</p></details> |
+| **[V-CECE: Visual Counterfactual Explanations via Conceptual Edits](http://arxiv.org/abs/2509.16567v1)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](http://arxiv.org/abs/2509.13214v2)** | 2025-09-18 |  |
 | **[AutoEdit: Automatic Hyperparameter Tuning for Image Editing](http://arxiv.org/abs/2509.15031v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks](http://arxiv.org/abs/2509.14638v1)** | 2025-09-18 |  |
@@ -26,11 +31,6 @@ labels: documentation
 | **[EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing](http://arxiv.org/abs/2509.13399v1)** | 2025-09-16 | <details><summary>Tiany...</summary><p>Tianyu Chen and Yasi Zhang contributed equally; Oscar Leong, Lijuan Wang, Ying Nian Wu, and Mingyuan Zhou advised equally</p></details> |
 | **[Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder](http://arxiv.org/abs/2509.12883v1)** | 2025-09-16 |  |
 | **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v5)** | 2025-09-16 |  |
-| **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](http://arxiv.org/abs/2509.12203v1)** | 2025-09-15 |  |
-| **[Immunizing Images from Text to Image Editing via Adversarial Cross-Attention](http://arxiv.org/abs/2509.10359v1)** | 2025-09-12 | <details><summary>Accep...</summary><p>Accepted as Regular Paper at ACM Multimedia 2025</p></details> |
-| **[RoentMod: A Synthetic Chest X-Ray Modification Model to Identify and Correct Image Interpretation Model Shortcuts](http://arxiv.org/abs/2509.08640v1)** | 2025-09-10 | <details><summary>25 + ...</summary><p>25 + 8 pages, 4 + 7 figures</p></details> |
-| **[Delta Velocity Rectified Flow for Text-to-Image Editing](http://arxiv.org/abs/2509.05342v2)** | 2025-09-09 |  |
-| **[LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs](http://arxiv.org/abs/2507.16193v2)** | 2025-09-07 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,11 +45,6 @@ labels: documentation
 | **[An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval](http://arxiv.org/abs/2503.22171v1)** | 2025-03-28 | 20 pages,13 figures |
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
-| **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
-| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
-| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
-| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
-| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
@@ -71,6 +66,8 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v1)** | 2025-09-22 |  |
+| **[SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments](http://arxiv.org/abs/2509.16960v1)** | 2025-09-21 |  |
 | **[DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform](http://arxiv.org/abs/2509.13506v1)** | 2025-09-16 | <details><summary>Publi...</summary><p>Published in 2025 CVPR Workshop</p></details> |
 | **[LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030v1)** | 2025-09-05 |  |
 | **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v2)** | 2025-09-04 |  |
@@ -84,12 +81,11 @@ labels: documentation
 | **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
 | **[StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback](http://arxiv.org/abs/2508.06555v2)** | 2025-08-12 | 24pages, 5 figures |
 | **[MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization](http://arxiv.org/abs/2508.08488v1)** | 2025-08-11 |  |
-| **[Undress to Redress: A Training-Free Framework for Virtual Try-On](http://arxiv.org/abs/2508.07680v1)** | 2025-08-11 | 13 pages, 8 figures |
-| **[TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models](http://arxiv.org/abs/2411.18350v2)** | 2025-08-07 | Accepted at BMVC'25 |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](http://arxiv.org/abs/2504.16081v2)** | 2025-09-20 | Accepted by TMLR |
 | **[FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution](http://arxiv.org/abs/2509.09427v1)** | 2025-09-11 |  |
 | **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v2)** | 2025-09-06 |  |
 | **[LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](http://arxiv.org/abs/2507.00790v3)** | 2025-09-03 |  |
@@ -104,5 +100,4 @@ labels: documentation
 | **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](http://arxiv.org/abs/2503.13745v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This version includes an updated abstract and introduction for improved clarity and context. We also added the LPIPS metric to our evaluation results to provide a more comprehensive assessment of perceptual quality</p></details> |
 | **[Exploring Scalable Unified Modeling for General Low-Level Vision](http://arxiv.org/abs/2507.14801v1)** | 2025-07-20 |  |
 | **[4KAgent: Agentic Any Image to 4K Super-Resolution](http://arxiv.org/abs/2507.07105v1)** | 2025-07-09 | <details><summary>Proje...</summary><p>Project page: https://4kagent.github.io</p></details> |
-| **[EAMamba: Efficient All-Around Vision State Space Model for Image Restoration](http://arxiv.org/abs/2506.22246v1)** | 2025-06-27 | ICCV 2025 |
 
