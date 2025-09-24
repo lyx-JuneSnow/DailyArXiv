@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 23, 2025
+title: Latest 15 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,14 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2509.19244v1)** | 2025-09-23 | 32 pages, 15 figures |
+| **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v6)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
+| **[Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation](http://arxiv.org/abs/2509.18824v1)** | 2025-09-23 | Technical Report |
+| **[Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation](http://arxiv.org/abs/2509.18639v1)** | 2025-09-23 |  |
+| **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, there will be future updates for camera ready version. Code: https://github.com/River-Zhang/ICEdit</p></details> |
+| **[GeoRemover: Removing Objects and Their Causal Visual Artifacts](http://arxiv.org/abs/2509.18538v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted as Spotlight at NeurIPS 2025</p></details> |
 | **[Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance](http://arxiv.org/abs/2509.17757v1)** | 2025-09-22 |  |
 | **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v2)** | 2025-09-21 |  |
-| **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v2)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, there will be future updates for camera ready version. Code: https://github.com/River-Zhang/ICEdit</p></details> |
 | **[Optimal Transport for Rectified Flow Image Editing: Unifying Inversion-Based and Direct Methods](http://arxiv.org/abs/2508.02363v2)** | 2025-09-20 | <details><summary>27 pa...</summary><p>27 pages, 26 figures, WACV conference</p></details> |
 | **[V-CECE: Visual Counterfactual Explanations via Conceptual Edits](http://arxiv.org/abs/2509.16567v1)** | 2025-09-20 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
 | **[End4: End-to-end Denoising Diffusion for Diffusion-Based Inpainting Detection](http://arxiv.org/abs/2509.13214v2)** | 2025-09-18 |  |
@@ -26,11 +31,6 @@ labels: documentation
 | **[MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks](http://arxiv.org/abs/2509.14638v1)** | 2025-09-18 |  |
 | **[Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients](http://arxiv.org/abs/2503.05424v2)** | 2025-09-17 | <details><summary>Accep...</summary><p>Accepted at WACV-2026, 45 pages, 39 figures, 15 tables</p></details> |
 | **[Controllable-Continuous Color Editing in Diffusion Model via Color Mapping](http://arxiv.org/abs/2509.13756v1)** | 2025-09-17 |  |
-| **[DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing](http://arxiv.org/abs/2409.01086v3)** | 2025-09-17 | 13 pages,12 figures |
-| **[LLM-I: LLMs are Naturally Interleaved Multimodal Creators](http://arxiv.org/abs/2509.13642v1)** | 2025-09-17 |  |
-| **[EdiVal-Agent: An Object-Centric Framework for Automated, Scalable, Fine-Grained Evaluation of Multi-Turn Editing](http://arxiv.org/abs/2509.13399v1)** | 2025-09-16 | <details><summary>Tiany...</summary><p>Tianyu Chen and Yasi Zhang contributed equally; Oscar Leong, Lijuan Wang, Ying Nian Wu, and Mingyuan Zhou advised equally</p></details> |
-| **[Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder](http://arxiv.org/abs/2509.12883v1)** | 2025-09-16 |  |
-| **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v5)** | 2025-09-16 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 | **[An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval](http://arxiv.org/abs/2503.22171v1)** | 2025-03-28 | 20 pages,13 figures |
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
+| **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
+| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
+| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
+| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
+| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
@@ -66,7 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v1)** | 2025-09-22 |  |
+| **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v2)** | 2025-09-23 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
 | **[SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments](http://arxiv.org/abs/2509.16960v1)** | 2025-09-21 |  |
 | **[DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform](http://arxiv.org/abs/2509.13506v1)** | 2025-09-16 | <details><summary>Publi...</summary><p>Published in 2025 CVPR Workshop</p></details> |
 | **[LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030v1)** | 2025-09-05 |  |
