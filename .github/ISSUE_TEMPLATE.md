@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,14 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UIP2P: Unsupervised Instruction-based Image Editing via Edit Reversibility Constraint](http://arxiv.org/abs/2412.15216v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to ICCV'25. Project page: https://uip2p.github.io/</p></details> |
+| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v1)** | 2025-09-26 | <details><summary>Our c...</summary><p>Our code will be made publicly available at https://github.com/JunyiWuCode/FlashEdit</p></details> |
+| **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v2)** | 2025-09-26 |  |
+| **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v5)** | 2025-09-26 |  |
+| **[Draw-In-Mind: Rebalancing Designer-Painter Roles in Unified Multimodal Models Benefits Image Editing](http://arxiv.org/abs/2509.01986v2)** | 2025-09-26 | Tech Report |
+| **[SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks](http://arxiv.org/abs/2509.21928v1)** | 2025-09-26 |  |
+| **[Taming Flow-based I2V Models for Creative Video Editing](http://arxiv.org/abs/2509.21917v1)** | 2025-09-26 |  |
+| **[TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation](http://arxiv.org/abs/2509.21905v1)** | 2025-09-26 |  |
 | **[NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining](http://arxiv.org/abs/2507.14119v2)** | 2025-09-25 |  |
 | **[Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation](http://arxiv.org/abs/2509.18639v3)** | 2025-09-25 |  |
 | **[FreeInsert: Personalized Object Insertion with Geometric and Style Control](http://arxiv.org/abs/2509.20756v1)** | 2025-09-25 |  |
@@ -23,14 +31,6 @@ labels: documentation
 | **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](http://arxiv.org/abs/2509.20427v1)** | 2025-09-24 | <details><summary>Seedr...</summary><p>Seedream 4.0 Technical Report</p></details> |
 | **[DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting](http://arxiv.org/abs/2411.17223v2)** | 2025-09-24 |  |
 | **[Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2509.19244v2)** | 2025-09-24 | 31 pages, 15 figures |
-| **[CAMILA: Context-Aware Masking for Image Editing with Language Alignment](http://arxiv.org/abs/2509.19731v1)** | 2025-09-24 |  |
-| **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v6)** | 2025-09-23 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
-| **[Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation](http://arxiv.org/abs/2509.18824v1)** | 2025-09-23 | Technical Report |
-| **[In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer](http://arxiv.org/abs/2504.20690v3)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, there will be future updates for camera ready version. Code: https://github.com/River-Zhang/ICEdit</p></details> |
-| **[GeoRemover: Removing Objects and Their Causal Visual Artifacts](http://arxiv.org/abs/2509.18538v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted as Spotlight at NeurIPS 2025</p></details> |
-| **[Multi-Agent Amodal Completion: Direct Synthesis with Fine-Grained Semantic Guidance](http://arxiv.org/abs/2509.17757v1)** | 2025-09-22 |  |
-| **[FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation](http://arxiv.org/abs/2506.16806v2)** | 2025-09-21 |  |
-| **[Optimal Transport for Rectified Flow Image Editing: Unifying Inversion-Based and Direct Methods](http://arxiv.org/abs/2508.02363v2)** | 2025-09-20 | <details><summary>27 pa...</summary><p>27 pages, 26 figures, WACV conference</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v1)** | 2025-09-25 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
 | **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](http://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](http://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v2)** | 2025-09-23 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
@@ -85,7 +86,6 @@ labels: documentation
 | **[FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](http://arxiv.org/abs/2508.20586v1)** | 2025-08-28 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
 | **[JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](http://arxiv.org/abs/2508.17614v1)** | 2025-08-25 |  |
 | **[OmniTry: Virtual Try-On Anything without Masks](http://arxiv.org/abs/2508.13632v1)** | 2025-08-19 |  |
-| **[DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis](http://arxiv.org/abs/2508.12131v1)** | 2025-08-16 | <details><summary>Retai...</summary><p>Retail Vision, ICCV 2025</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
