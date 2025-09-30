@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instruction Guided Multi Object Image Editing with Quantity and Layout Consistency](http://arxiv.org/abs/2509.24514v1)** | 2025-09-29 |  |
+| **[DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing](http://arxiv.org/abs/2410.05694v2)** | 2025-09-29 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v2)** | 2025-09-29 | <details><summary>We ne...</summary><p>We need to further improve our research</p></details> |
+| **[GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing](http://arxiv.org/abs/2412.02366v4)** | 2025-09-29 | <details><summary>https...</summary><p>https://diffusemix.github.io/</p></details> |
+| **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](http://arxiv.org/abs/2509.23909v1)** | 2025-09-28 | <details><summary>Code,...</summary><p>Code, Models and benchmark will be publicly available at https://github.com/VectorSpaceLab/EditScore</p></details> |
+| **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](http://arxiv.org/abs/2509.20427v2)** | 2025-09-28 | <details><summary>Seedr...</summary><p>Seedream 4.0 Technical Report</p></details> |
+| **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v3)** | 2025-09-27 |  |
+| **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v2)** | 2025-09-26 |  |
 | **[UIP2P: Unsupervised Instruction-based Image Editing via Edit Reversibility Constraint](http://arxiv.org/abs/2412.15216v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to ICCV'25. Project page: https://uip2p.github.io/</p></details> |
-| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v1)** | 2025-09-26 | <details><summary>Our c...</summary><p>Our code will be made publicly available at https://github.com/JunyiWuCode/FlashEdit</p></details> |
 | **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v2)** | 2025-09-26 |  |
 | **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v5)** | 2025-09-26 |  |
 | **[Draw-In-Mind: Rebalancing Designer-Painter Roles in Unified Multimodal Models Benefits Image Editing](http://arxiv.org/abs/2509.01986v2)** | 2025-09-26 | Tech Report |
 | **[SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks](http://arxiv.org/abs/2509.21928v1)** | 2025-09-26 |  |
 | **[Taming Flow-based I2V Models for Creative Video Editing](http://arxiv.org/abs/2509.21917v1)** | 2025-09-26 |  |
 | **[TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation](http://arxiv.org/abs/2509.21905v1)** | 2025-09-26 |  |
-| **[NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining](http://arxiv.org/abs/2507.14119v2)** | 2025-09-25 |  |
-| **[Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation](http://arxiv.org/abs/2509.18639v3)** | 2025-09-25 |  |
-| **[FreeInsert: Personalized Object Insertion with Geometric and Style Control](http://arxiv.org/abs/2509.20756v1)** | 2025-09-25 |  |
-| **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](http://arxiv.org/abs/2509.12203v2)** | 2025-09-25 |  |
-| **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](http://arxiv.org/abs/2509.20427v1)** | 2025-09-24 | <details><summary>Seedr...</summary><p>Seedream 4.0 Technical Report</p></details> |
-| **[DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting](http://arxiv.org/abs/2411.17223v2)** | 2025-09-24 |  |
-| **[Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2509.19244v2)** | 2025-09-24 | 31 pages, 15 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,7 +71,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v1)** | 2025-09-25 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
+| **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
+| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
+| **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
 | **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](http://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](http://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v2)** | 2025-09-23 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
@@ -84,12 +86,12 @@ labels: documentation
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v2)** | 2025-08-30 | <details><summary>Proje...</summary><p>Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
 | **[FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](http://arxiv.org/abs/2508.20586v1)** | 2025-08-28 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
-| **[JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on](http://arxiv.org/abs/2508.17614v1)** | 2025-08-25 |  |
-| **[OmniTry: Virtual Try-On Anything without Masks](http://arxiv.org/abs/2508.13632v1)** | 2025-08-19 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](http://arxiv.org/abs/2509.24022v1)** | 2025-09-28 | 9 pages |
+| **[DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](http://arxiv.org/abs/2509.23723v1)** | 2025-09-28 |  |
 | **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](http://arxiv.org/abs/2504.16081v2)** | 2025-09-20 | Accepted by TMLR |
 | **[FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution](http://arxiv.org/abs/2509.09427v1)** | 2025-09-11 |  |
 | **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v2)** | 2025-09-06 |  |
@@ -103,6 +105,4 @@ labels: documentation
 | **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
 | **[SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model](http://arxiv.org/abs/2507.20186v1)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025. The first two authors contributed equally</p></details> |
 | **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](http://arxiv.org/abs/2503.13745v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This version includes an updated abstract and introduction for improved clarity and context. We also added the LPIPS metric to our evaluation results to provide a more comprehensive assessment of perceptual quality</p></details> |
-| **[Exploring Scalable Unified Modeling for General Low-Level Vision](http://arxiv.org/abs/2507.14801v1)** | 2025-07-20 |  |
-| **[4KAgent: Agentic Any Image to 4K Super-Resolution](http://arxiv.org/abs/2507.07105v1)** | 2025-07-09 | <details><summary>Proje...</summary><p>Project page: https://4kagent.github.io</p></details> |
 
