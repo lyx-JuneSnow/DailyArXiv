@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2025
+title: Latest 15 Papers - October 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](http://arxiv.org/abs/2509.23909v2)** | 2025-09-30 | <details><summary>Code,...</summary><p>Code, Models and benchmark will be publicly available at https://github.com/VectorSpaceLab/EditScore</p></details> |
+| **[EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing](http://arxiv.org/abs/2509.26346v1)** | 2025-09-30 | <details><summary>Work ...</summary><p>Work in progress. Project Page: https://tiger-ai-lab.github.io/EditReward</p></details> |
+| **[Training-Free Reward-Guided Image Editing via Trajectory Optimal Control](http://arxiv.org/abs/2509.25845v1)** | 2025-09-30 | 18 pages, 5 figures |
+| **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v1)** | 2025-09-30 | ICML 2025 |
+| **[Dragging with Geometry: From Pixels to Geometry-Guided Image Editing](http://arxiv.org/abs/2509.25740v1)** | 2025-09-30 |  |
+| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v3)** | 2025-09-30 | <details><summary>We ne...</summary><p>We need to improve our work</p></details> |
 | **[Instruction Guided Multi Object Image Editing with Quantity and Layout Consistency](http://arxiv.org/abs/2509.24514v1)** | 2025-09-29 |  |
 | **[DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing](http://arxiv.org/abs/2410.05694v2)** | 2025-09-29 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v2)** | 2025-09-29 | <details><summary>We ne...</summary><p>We need to further improve our research</p></details> |
 | **[GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing](http://arxiv.org/abs/2412.02366v4)** | 2025-09-29 | <details><summary>https...</summary><p>https://diffusemix.github.io/</p></details> |
-| **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](http://arxiv.org/abs/2509.23909v1)** | 2025-09-28 | <details><summary>Code,...</summary><p>Code, Models and benchmark will be publicly available at https://github.com/VectorSpaceLab/EditScore</p></details> |
 | **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](http://arxiv.org/abs/2509.20427v2)** | 2025-09-28 | <details><summary>Seedr...</summary><p>Seedream 4.0 Technical Report</p></details> |
 | **[OmniGen2: Exploration to Advanced Multimodal Generation](http://arxiv.org/abs/2506.18871v3)** | 2025-09-27 |  |
 | **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v2)** | 2025-09-26 |  |
 | **[UIP2P: Unsupervised Instruction-based Image Editing via Edit Reversibility Constraint](http://arxiv.org/abs/2412.15216v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to ICCV'25. Project page: https://uip2p.github.io/</p></details> |
 | **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v2)** | 2025-09-26 |  |
 | **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v5)** | 2025-09-26 |  |
-| **[Draw-In-Mind: Rebalancing Designer-Painter Roles in Unified Multimodal Models Benefits Image Editing](http://arxiv.org/abs/2509.01986v2)** | 2025-09-26 | Tech Report |
-| **[SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks](http://arxiv.org/abs/2509.21928v1)** | 2025-09-26 |  |
-| **[Taming Flow-based I2V Models for Creative Video Editing](http://arxiv.org/abs/2509.21917v1)** | 2025-09-26 |  |
-| **[TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation](http://arxiv.org/abs/2509.21905v1)** | 2025-09-26 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v1)** | 2025-09-30 | 21 pages |
 | **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
 | **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
 | **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
@@ -85,7 +86,6 @@ labels: documentation
 | **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v3)** | 2025-09-04 |  |
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v2)** | 2025-08-30 | <details><summary>Proje...</summary><p>Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
-| **[FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models](http://arxiv.org/abs/2508.20586v1)** | 2025-08-28 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
