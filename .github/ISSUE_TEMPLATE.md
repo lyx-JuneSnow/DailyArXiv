@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BlobCtrl: Taming Controllable Blob for Element-level Image Editing](http://arxiv.org/abs/2503.13434v2)** | 2025-10-01 | <details><summary>Proje...</summary><p>Project Webpage: https://liyaowei-stu.github.io/project/BlobCtrl/ This version presents a major update with rephrased writing. Accepted to SIGGRAPH Asia 2025</p></details> |
 | **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](http://arxiv.org/abs/2509.23909v2)** | 2025-09-30 | <details><summary>Code,...</summary><p>Code, Models and benchmark will be publicly available at https://github.com/VectorSpaceLab/EditScore</p></details> |
 | **[EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing](http://arxiv.org/abs/2509.26346v1)** | 2025-09-30 | <details><summary>Work ...</summary><p>Work in progress. Project Page: https://tiger-ai-lab.github.io/EditReward</p></details> |
 | **[Training-Free Reward-Guided Image Editing via Trajectory Optimal Control](http://arxiv.org/abs/2509.25845v1)** | 2025-09-30 | 18 pages, 5 figures |
@@ -30,7 +31,6 @@ labels: documentation
 | **[SpotEdit: Evaluating Visually-Guided Image Editing Methods](http://arxiv.org/abs/2508.18159v2)** | 2025-09-26 |  |
 | **[UIP2P: Unsupervised Instruction-based Image Editing via Edit Reversibility Constraint](http://arxiv.org/abs/2412.15216v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to ICCV'25. Project page: https://uip2p.github.io/</p></details> |
 | **[Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning](http://arxiv.org/abs/2507.01908v2)** | 2025-09-26 |  |
-| **[Unforgettable Lessons from Forgettable Images: Intra-Class Memorability Matters in Computer Vision](http://arxiv.org/abs/2412.20761v5)** | 2025-09-26 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v3)** | 2025-10-01 | <details><summary>Revis...</summary><p>Revised version with improved writing. Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v1)** | 2025-09-30 | 21 pages |
 | **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
 | **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
@@ -84,7 +85,6 @@ labels: documentation
 | **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v2)** | 2025-09-04 |  |
 | **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
 | **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v3)** | 2025-09-04 |  |
-| **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v2)** | 2025-08-30 | <details><summary>Proje...</summary><p>Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Dress&Dance: Dress up and Dance as You Like It - Technical Preview](http://arxiv.org/abs/2508.21070v1)** | 2025-08-28 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/DressAndDance/</p></details> |
 
 ## low level vision
