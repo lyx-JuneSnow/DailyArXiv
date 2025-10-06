@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OTR: Synthesizing Overlay Text Dataset for Text Removal](http://arxiv.org/abs/2510.02787v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27-31, 2025, Dublin, Ireland, https://doi.org/10.1145/3746027.3758297</p></details> |
 | **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v1)** | 2025-10-02 | Preprint |
 | **[Towards Better Optimization For Listwise Preference in Diffusion Models](http://arxiv.org/abs/2510.01540v1)** | 2025-10-02 |  |
 | **[CAMILA: Context-Aware Masking for Image Editing with Language Alignment](http://arxiv.org/abs/2509.19731v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v3)** | 2025-09-30 | <details><summary>We ne...</summary><p>We need to improve our work</p></details> |
 | **[Instruction Guided Multi Object Image Editing with Quantity and Layout Consistency](http://arxiv.org/abs/2509.24514v1)** | 2025-09-29 |  |
 | **[DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing](http://arxiv.org/abs/2410.05694v2)** | 2025-09-29 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[GenMix: Effective Data Augmentation with Generative Diffusion Model Image Editing](http://arxiv.org/abs/2412.02366v4)** | 2025-09-29 | <details><summary>https...</summary><p>https://diffusemix.github.io/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
