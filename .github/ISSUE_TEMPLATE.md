@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder](http://arxiv.org/abs/2510.05081v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page at: https://ronen94.github.io/SAEdit/</p></details> |
+| **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v1)** | 2025-10-06 |  |
+| **[ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation](http://arxiv.org/abs/2510.04290v1)** | 2025-10-05 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/chronoedit</p></details> |
+| **[Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers](http://arxiv.org/abs/2510.04188v1)** | 2025-10-05 |  |
+| **[Prompt-to-Prompt: Text-Based Image Editing Via Cross-Attention Mechanisms -- The Research of Hyperparameters and Novel Mechanisms to Enhance Existing Frameworks](http://arxiv.org/abs/2510.04034v1)** | 2025-10-05 |  |
+| **[From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance](http://arxiv.org/abs/2510.03906v1)** | 2025-10-04 |  |
+| **[Rare Text Semantics Were Always There in Your Diffusion Transformer](http://arxiv.org/abs/2510.03886v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v7)** | 2025-10-04 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
+| **[RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](http://arxiv.org/abs/2506.08632v2)** | 2025-10-04 |  |
+| **[Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control](http://arxiv.org/abs/2508.08134v3)** | 2025-10-04 | <details><summary>Proje...</summary><p>Project webpage is available at https://follow-your-shape.github.io/</p></details> |
+| **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](http://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[OTR: Synthesizing Overlay Text Dataset for Text Removal](http://arxiv.org/abs/2510.02787v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27-31, 2025, Dublin, Ireland, https://doi.org/10.1145/3746027.3758297</p></details> |
 | **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v1)** | 2025-10-02 | Preprint |
 | **[Towards Better Optimization For Listwise Preference in Diffusion Models](http://arxiv.org/abs/2510.01540v1)** | 2025-10-02 |  |
 | **[CAMILA: Context-Aware Masking for Image Editing with Language Alignment](http://arxiv.org/abs/2509.19731v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[EditTrack: Detecting and Attributing AI-assisted Image Editing](http://arxiv.org/abs/2510.01173v1)** | 2025-10-01 |  |
-| **[BlobCtrl: Taming Controllable Blob for Element-level Image Editing](http://arxiv.org/abs/2503.13434v2)** | 2025-10-01 | <details><summary>Proje...</summary><p>Project Webpage: https://liyaowei-stu.github.io/project/BlobCtrl/ This version presents a major update with rephrased writing. Accepted to SIGGRAPH Asia 2025</p></details> |
-| **[DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models](http://arxiv.org/abs/2510.00778v1)** | 2025-10-01 | ICCV2025 |
-| **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](http://arxiv.org/abs/2509.23909v2)** | 2025-09-30 | <details><summary>Code,...</summary><p>Code, Models and benchmark will be publicly available at https://github.com/VectorSpaceLab/EditScore</p></details> |
-| **[EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing](http://arxiv.org/abs/2509.26346v1)** | 2025-09-30 | <details><summary>Work ...</summary><p>Work in progress. Project Page: https://tiger-ai-lab.github.io/EditReward</p></details> |
-| **[Training-Free Reward-Guided Image Editing via Trajectory Optimal Control](http://arxiv.org/abs/2509.25845v1)** | 2025-09-30 | 18 pages, 5 figures |
-| **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v1)** | 2025-09-30 | ICML 2025 |
-| **[Dragging with Geometry: From Pixels to Geometry-Guided Image Editing](http://arxiv.org/abs/2509.25740v1)** | 2025-09-30 |  |
-| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](http://arxiv.org/abs/2509.22244v3)** | 2025-09-30 | <details><summary>We ne...</summary><p>We need to improve our work</p></details> |
-| **[Instruction Guided Multi Object Image Editing with Quantity and Layout Consistency](http://arxiv.org/abs/2509.24514v1)** | 2025-09-29 |  |
-| **[DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing](http://arxiv.org/abs/2410.05694v2)** | 2025-09-29 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AvatarVTON: 4D Virtual Try-On for Animatable Avatars](http://arxiv.org/abs/2510.04822v1)** | 2025-10-06 |  |
+| **[DS-VTON: An Enhanced Dual-Scale Coarse-to-Fine Framework for Virtual Try-On](http://arxiv.org/abs/2506.00908v2)** | 2025-10-05 |  |
+| **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](http://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v3)** | 2025-10-01 | <details><summary>Revis...</summary><p>Revised version with improved writing. Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Virtual Fashion Photo-Shoots: Building a Large-Scale Garment-Lookbook Dataset](http://arxiv.org/abs/2510.00633v1)** | 2025-10-01 |  |
 | **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v1)** | 2025-09-30 | 21 pages |
@@ -83,20 +86,17 @@ labels: documentation
 | **[SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments](http://arxiv.org/abs/2509.16960v1)** | 2025-09-21 |  |
 | **[DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform](http://arxiv.org/abs/2509.13506v1)** | 2025-09-16 | <details><summary>Publi...</summary><p>Published in 2025 CVPR Workshop</p></details> |
 | **[LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030v1)** | 2025-09-05 |  |
-| **[Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation](http://arxiv.org/abs/2509.02445v2)** | 2025-09-04 |  |
-| **[Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview](http://arxiv.org/abs/2509.04450v1)** | 2025-09-04 | <details><summary>Proje...</summary><p>Project Page: https://immortalco.github.io/VirtualFittingRoom/</p></details> |
-| **[Real-Time Per-Garment Virtual Try-On with Temporal Consistency for Loose-Fitting Garments](http://arxiv.org/abs/2506.12348v3)** | 2025-09-04 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v3)** | 2025-10-04 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper (3rd version)</p></details> |
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](http://arxiv.org/abs/2509.24022v1)** | 2025-09-28 | 9 pages |
 | **[DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](http://arxiv.org/abs/2509.23723v1)** | 2025-09-28 |  |
 | **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](http://arxiv.org/abs/2504.16081v2)** | 2025-09-20 | Accepted by TMLR |
 | **[FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution](http://arxiv.org/abs/2509.09427v1)** | 2025-09-11 |  |
 | **[Parameter-Efficient Adaptation of mPLUG-Owl2 via Pixel-Level Visual Prompts for NR-IQA](http://arxiv.org/abs/2509.03494v2)** | 2025-09-06 |  |
 | **[LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling](http://arxiv.org/abs/2507.00790v3)** | 2025-09-03 |  |
-| **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v2)** | 2025-09-02 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper</p></details> |
 | **[A Unified Low-level Foundation Model for Enhancing Pathology Image Quality](http://arxiv.org/abs/2509.01071v1)** | 2025-09-01 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](http://arxiv.org/abs/2308.09388v2)** | 2025-08-28 | Accepted by IJCV |
 | **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
