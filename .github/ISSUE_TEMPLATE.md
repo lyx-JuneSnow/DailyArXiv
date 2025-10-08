@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2025
+title: Latest 15 Papers - October 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoEdit: Automatic Hyperparameter Tuning for Image Editing](http://arxiv.org/abs/2509.15031v2)** | 2025-10-07 | Provided code link |
+| **[Diffusion-Based Image Editing for Breaking Robust Watermarks](http://arxiv.org/abs/2510.05978v1)** | 2025-10-07 | Preprint |
+| **[GeoRemover: Removing Objects and Their Causal Visual Artifacts](http://arxiv.org/abs/2509.18538v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted as Spotlight at NeurIPS 2025</p></details> |
 | **[SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder](http://arxiv.org/abs/2510.05081v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page at: https://ronen94.github.io/SAEdit/</p></details> |
 | **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v1)** | 2025-10-06 |  |
 | **[ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation](http://arxiv.org/abs/2510.04290v1)** | 2025-10-05 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/chronoedit</p></details> |
@@ -28,9 +31,6 @@ labels: documentation
 | **[Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control](http://arxiv.org/abs/2508.08134v3)** | 2025-10-04 | <details><summary>Proje...</summary><p>Project webpage is available at https://follow-your-shape.github.io/</p></details> |
 | **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](http://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[OTR: Synthesizing Overlay Text Dataset for Text Removal](http://arxiv.org/abs/2510.02787v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27-31, 2025, Dublin, Ireland, https://doi.org/10.1145/3746027.3758297</p></details> |
-| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v1)** | 2025-10-02 | Preprint |
-| **[Towards Better Optimization For Listwise Preference in Diffusion Models](http://arxiv.org/abs/2510.01540v1)** | 2025-10-02 |  |
-| **[CAMILA: Context-Aware Masking for Image Editing with Language Alignment](http://arxiv.org/abs/2509.19731v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -81,11 +81,6 @@ labels: documentation
 | **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
 | **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
 | **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](http://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](http://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v2)** | 2025-09-23 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
-| **[SemanticGarment: Semantic-Controlled Generation and Editing of 3D Gaussian Garments](http://arxiv.org/abs/2509.16960v1)** | 2025-09-21 |  |
-| **[DEFT-VTON: Efficient Virtual Try-On with Consistent Generalised H-Transform](http://arxiv.org/abs/2509.13506v1)** | 2025-09-16 | <details><summary>Publi...</summary><p>Published in 2025 CVPR Workshop</p></details> |
-| **[LUIVITON: Learned Universal Interoperable VIrtual Try-ON](http://arxiv.org/abs/2509.05030v1)** | 2025-09-05 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
