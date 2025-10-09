@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,8 +16,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Color Bind: Exploring Color Perception in Text-to-Image Models](http://arxiv.org/abs/2508.19791v2)** | 2025-10-08 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
+| **[DreamOmni2: Multimodal Instruction-based Editing and Generation](http://arxiv.org/abs/2510.06679v1)** | 2025-10-08 |  |
+| **[Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](http://arxiv.org/abs/2510.06308v1)** | 2025-10-07 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 10 tables</p></details> |
 | **[AutoEdit: Automatic Hyperparameter Tuning for Image Editing](http://arxiv.org/abs/2509.15031v2)** | 2025-10-07 | Provided code link |
 | **[Diffusion-Based Image Editing for Breaking Robust Watermarks](http://arxiv.org/abs/2510.05978v1)** | 2025-10-07 | Preprint |
+| **[Efficient High-Resolution Image Editing with Hallucination-Aware Loss and Adaptive Tiling](http://arxiv.org/abs/2510.06295v1)** | 2025-10-07 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[GeoRemover: Removing Objects and Their Causal Visual Artifacts](http://arxiv.org/abs/2509.18538v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted as Spotlight at NeurIPS 2025</p></details> |
 | **[SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder](http://arxiv.org/abs/2510.05081v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page at: https://ronen94.github.io/SAEdit/</p></details> |
 | **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v1)** | 2025-10-06 |  |
@@ -27,10 +31,6 @@ labels: documentation
 | **[From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance](http://arxiv.org/abs/2510.03906v1)** | 2025-10-04 |  |
 | **[Rare Text Semantics Were Always There in Your Diffusion Transformer](http://arxiv.org/abs/2510.03886v1)** | 2025-10-04 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 | **[MedEBench: Diagnosing Reliability in Text-Guided Medical Image Editing](http://arxiv.org/abs/2506.01921v7)** | 2025-10-04 | <details><summary>Proje...</summary><p>Project website: https://mliuby.github.io/MedEBench_Website/</p></details> |
-| **[RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping](http://arxiv.org/abs/2506.08632v2)** | 2025-10-04 |  |
-| **[Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control](http://arxiv.org/abs/2508.08134v3)** | 2025-10-04 | <details><summary>Proje...</summary><p>Project webpage is available at https://follow-your-shape.github.io/</p></details> |
-| **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](http://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[OTR: Synthesizing Overlay Text Dataset for Text Removal](http://arxiv.org/abs/2510.02787v1)** | 2025-10-03 | <details><summary>This ...</summary><p>This is the author's version of the work. It is posted here for your personal use. Not for redistribution. The definitive Version of Record was published in Proceedings of the 33rd ACM International Conference on Multimedia (MM '25), October 27-31, 2025, Dublin, Ireland, https://doi.org/10.1145/3746027.3758297</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -72,15 +72,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[AvatarVTON: 4D Virtual Try-On for Animatable Avatars](http://arxiv.org/abs/2510.04822v1)** | 2025-10-06 |  |
-| **[DS-VTON: An Enhanced Dual-Scale Coarse-to-Fine Framework for Virtual Try-On](http://arxiv.org/abs/2506.00908v2)** | 2025-10-05 |  |
-| **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](http://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v3)** | 2025-10-01 | <details><summary>Revis...</summary><p>Revised version with improved writing. Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
-| **[Virtual Fashion Photo-Shoots: Building a Large-Scale Garment-Lookbook Dataset](http://arxiv.org/abs/2510.00633v1)** | 2025-10-01 |  |
-| **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v1)** | 2025-09-30 | 21 pages |
-| **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
-| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
-| **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
-| **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](http://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
