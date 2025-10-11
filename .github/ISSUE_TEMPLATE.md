@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 10, 2025
+title: Latest 15 Papers - October 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -100,9 +100,4 @@ labels: documentation
 | **[A Unified Low-level Foundation Model for Enhancing Pathology Image Quality](http://arxiv.org/abs/2509.01071v1)** | 2025-09-01 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](http://arxiv.org/abs/2308.09388v2)** | 2025-08-28 | Accepted by IJCV |
 | **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
-| **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
-| **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
-| **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
-| **[SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model](http://arxiv.org/abs/2507.20186v1)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025. The first two authors contributed equally</p></details> |
-| **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](http://arxiv.org/abs/2503.13745v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This version includes an updated abstract and introduction for improved clarity and context. We also added the LPIPS metric to our evaluation results to provide a more comprehensive assessment of perceptual quality</p></details> |
 
