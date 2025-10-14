@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zero-shot Face Editing via ID-Attribute Decoupled Inversion](http://arxiv.org/abs/2510.11050v1)** | 2025-10-13 | Accepted by ICME2025 |
+| **[GeoVLMath: Enhancing Geometry Reasoning in Vision-Language Models via Cross-Modal Reward for Auxiliary Line Creation](http://arxiv.org/abs/2510.11020v1)** | 2025-10-13 | 22 pages |
+| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v3)** | 2025-10-13 |  |
+| **[DreamMakeup: Face Makeup Customization using Latent Diffusion Models](http://arxiv.org/abs/2510.10918v1)** | 2025-10-13 |  |
+| **[Streamlining Image Editing with Layered Diffusion Brushes](http://arxiv.org/abs/2405.00313v2)** | 2025-10-12 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2306.00219</p></details> |
+| **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v2)** | 2025-10-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
+| **[ReMix: Towards a Unified View of Consistent Character Generation and Editing](http://arxiv.org/abs/2510.10156v1)** | 2025-10-11 |  |
+| **[NEP: Autoregressive Image Editing via Next Editing Token Prediction](http://arxiv.org/abs/2508.06044v2)** | 2025-10-11 | <details><summary>The p...</summary><p>The project page is: https://nep-bigai.github.io/</p></details> |
+| **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v2)** | 2025-10-10 | ICML 2025 |
+| **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v2)** | 2025-10-10 |  |
 | **[IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout](http://arxiv.org/abs/2506.01949v2)** | 2025-10-09 |  |
 | **[Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing](http://arxiv.org/abs/2510.08532v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/kontinuouskontext/</p></details> |
+| **[FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching](http://arxiv.org/abs/2510.08669v1)** | 2025-10-09 | 15 pages, 11 figures |
 | **[UniVideo: Unified Understanding, Generation, and Editing for Videos](http://arxiv.org/abs/2510.08377v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
 | **[InstructUDrag: Joint Text Instructions and Object Dragging for Interactive Image Editing](http://arxiv.org/abs/2510.08181v1)** | 2025-10-09 |  |
-| **[Beyond Textual CoT: Interleaved Text-Image Chains with Deep Confidence Reasoning for Image Editing](http://arxiv.org/abs/2510.08157v1)** | 2025-10-09 | 25pages,20figures |
-| **[Color Bind: Exploring Color Perception in Text-to-Image Models](http://arxiv.org/abs/2508.19791v2)** | 2025-10-08 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
-| **[DreamOmni2: Multimodal Instruction-based Editing and Generation](http://arxiv.org/abs/2510.06679v1)** | 2025-10-08 |  |
-| **[Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](http://arxiv.org/abs/2510.06308v1)** | 2025-10-07 | <details><summary>33 pa...</summary><p>33 pages, 13 figures, 10 tables</p></details> |
-| **[AutoEdit: Automatic Hyperparameter Tuning for Image Editing](http://arxiv.org/abs/2509.15031v2)** | 2025-10-07 | Provided code link |
-| **[Diffusion-Based Image Editing for Breaking Robust Watermarks](http://arxiv.org/abs/2510.05978v1)** | 2025-10-07 | Preprint |
-| **[Efficient High-Resolution Image Editing with Hallucination-Aware Loss and Adaptive Tiling](http://arxiv.org/abs/2510.06295v1)** | 2025-10-07 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[GeoRemover: Removing Objects and Their Causal Visual Artifacts](http://arxiv.org/abs/2509.18538v2)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted as Spotlight at NeurIPS 2025</p></details> |
-| **[SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder](http://arxiv.org/abs/2510.05081v1)** | 2025-10-06 | <details><summary>Proje...</summary><p>Project page at: https://ronen94.github.io/SAEdit/</p></details> |
-| **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v1)** | 2025-10-06 |  |
-| **[ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation](http://arxiv.org/abs/2510.04290v1)** | 2025-10-05 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/chronoedit</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -90,6 +90,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Blind Video Super-Resolution based on Implicit Kernels](http://arxiv.org/abs/2503.07856v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v3)** | 2025-10-04 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper (3rd version)</p></details> |
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](http://arxiv.org/abs/2509.24022v1)** | 2025-09-28 | 9 pages |
 | **[DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](http://arxiv.org/abs/2509.23723v1)** | 2025-09-28 |  |
@@ -104,5 +105,4 @@ labels: documentation
 | **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
 | **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
 | **[SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model](http://arxiv.org/abs/2507.20186v1)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025. The first two authors contributed equally</p></details> |
-| **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](http://arxiv.org/abs/2503.13745v2)** | 2025-07-24 | <details><summary>This ...</summary><p>This version includes an updated abstract and introduction for improved clarity and context. We also added the LPIPS metric to our evaluation results to provide a more comprehensive assessment of perceptual quality</p></details> |
 
