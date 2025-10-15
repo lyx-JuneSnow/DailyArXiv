@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 14, 2025
+title: Latest 15 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniFusion: Vision-Language Model as Unified Encoder in Image Generation](http://arxiv.org/abs/2510.12789v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page at https://thekevinli.github.io/unifusion/</p></details> |
 | **[Zero-shot Face Editing via ID-Attribute Decoupled Inversion](http://arxiv.org/abs/2510.11050v1)** | 2025-10-13 | Accepted by ICME2025 |
 | **[GeoVLMath: Enhancing Geometry Reasoning in Vision-Language Models via Cross-Modal Reward for Auxiliary Line Creation](http://arxiv.org/abs/2510.11020v1)** | 2025-10-13 | 22 pages |
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v3)** | 2025-10-13 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing](http://arxiv.org/abs/2510.08532v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/kontinuouskontext/</p></details> |
 | **[FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching](http://arxiv.org/abs/2510.08669v1)** | 2025-10-09 | 15 pages, 11 figures |
 | **[UniVideo: Unified Understanding, Generation, and Editing for Videos](http://arxiv.org/abs/2510.08377v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
-| **[InstructUDrag: Joint Text Instructions and Object Dragging for Interactive Image Editing](http://arxiv.org/abs/2510.08181v1)** | 2025-10-09 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
