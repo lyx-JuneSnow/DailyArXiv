@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v3)** | 2025-10-15 |  |
 | **[UniFusion: Vision-Language Model as Unified Encoder in Image Generation](http://arxiv.org/abs/2510.12789v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page at https://thekevinli.github.io/unifusion/</p></details> |
 | **[Zero-shot Face Editing via ID-Attribute Decoupled Inversion](http://arxiv.org/abs/2510.11050v1)** | 2025-10-13 | Accepted by ICME2025 |
 | **[GeoVLMath: Enhancing Geometry Reasoning in Vision-Language Models via Cross-Modal Reward for Auxiliary Line Creation](http://arxiv.org/abs/2510.11020v1)** | 2025-10-13 | 22 pages |
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v3)** | 2025-10-13 |  |
 | **[DreamMakeup: Face Makeup Customization using Latent Diffusion Models](http://arxiv.org/abs/2510.10918v1)** | 2025-10-13 |  |
 | **[Streamlining Image Editing with Layered Diffusion Brushes](http://arxiv.org/abs/2405.00313v2)** | 2025-10-12 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2306.00219</p></details> |
+| **[EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](http://arxiv.org/abs/2510.13652v1)** | 2025-10-11 |  |
 | **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v2)** | 2025-10-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
 | **[ReMix: Towards a Unified View of Consistent Character Generation and Editing](http://arxiv.org/abs/2510.10156v1)** | 2025-10-11 |  |
 | **[NEP: Autoregressive Image Editing via Next Editing Token Prediction](http://arxiv.org/abs/2508.06044v2)** | 2025-10-11 | <details><summary>The p...</summary><p>The project page is: https://nep-bigai.github.io/</p></details> |
 | **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v2)** | 2025-10-10 | ICML 2025 |
-| **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v2)** | 2025-10-10 |  |
 | **[IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout](http://arxiv.org/abs/2506.01949v2)** | 2025-10-09 |  |
 | **[Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing](http://arxiv.org/abs/2510.08532v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/kontinuouskontext/</p></details> |
 | **[FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching](http://arxiv.org/abs/2510.08669v1)** | 2025-10-09 | 15 pages, 11 figures |
-| **[UniVideo: Unified Understanding, Generation, and Editing for Videos](http://arxiv.org/abs/2510.08377v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
