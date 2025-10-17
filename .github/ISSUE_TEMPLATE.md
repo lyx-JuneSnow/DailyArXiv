@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2025
+title: Latest 15 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project page: https://coupled-diffusion.github.io</p></details> |
+| **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
+| **[In-Context Learning with Unpaired Clips for Instruction-based Video Editing](http://arxiv.org/abs/2510.14648v1)** | 2025-10-16 |  |
+| **[MIO: A Foundation Model on Multimodal Tokens](http://arxiv.org/abs/2409.17692v4)** | 2025-10-16 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Oral). Codes and models are available in https://github.com/MIO-Team/MIO</p></details> |
+| **[SphereDrag: Spherical Geometry-Aware Panoramic Image Editing](http://arxiv.org/abs/2506.11863v2)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
+| **[EdiVal-Agent: An Object-Centric Framework for Automated, Fine-Grained Evaluation of Multi-Turn Editing](http://arxiv.org/abs/2509.13399v2)** | 2025-10-16 | <details><summary>Tiany...</summary><p>Tianyu Chen and Yasi Zhang contributed equally; Oscar Leong, Lijuan Wang, Ying Nian Wu, and Mingyuan Zhou advised equally</p></details> |
 | **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v3)** | 2025-10-15 |  |
 | **[UniFusion: Vision-Language Model as Unified Encoder in Image Generation](http://arxiv.org/abs/2510.12789v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page at https://thekevinli.github.io/unifusion/</p></details> |
 | **[Zero-shot Face Editing via ID-Attribute Decoupled Inversion](http://arxiv.org/abs/2510.11050v1)** | 2025-10-13 | Accepted by ICME2025 |
@@ -25,12 +31,6 @@ labels: documentation
 | **[Streamlining Image Editing with Layered Diffusion Brushes](http://arxiv.org/abs/2405.00313v2)** | 2025-10-12 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2306.00219</p></details> |
 | **[EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](http://arxiv.org/abs/2510.13652v1)** | 2025-10-11 |  |
 | **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v2)** | 2025-10-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
-| **[ReMix: Towards a Unified View of Consistent Character Generation and Editing](http://arxiv.org/abs/2510.10156v1)** | 2025-10-11 |  |
-| **[NEP: Autoregressive Image Editing via Next Editing Token Prediction](http://arxiv.org/abs/2508.06044v2)** | 2025-10-11 | <details><summary>The p...</summary><p>The project page is: https://nep-bigai.github.io/</p></details> |
-| **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v2)** | 2025-10-10 | ICML 2025 |
-| **[IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout](http://arxiv.org/abs/2506.01949v2)** | 2025-10-09 |  |
-| **[Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing](http://arxiv.org/abs/2510.08532v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/kontinuouskontext/</p></details> |
-| **[FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching](http://arxiv.org/abs/2510.08669v1)** | 2025-10-09 | 15 pages, 11 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,13 +71,13 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v2)** | 2025-10-16 | 21 pages |
 | **[Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection](http://arxiv.org/abs/2510.07654v1)** | 2025-10-09 | <details><summary>5 pag...</summary><p>5 pages (including references), 4 figures. Code and models will be released upon publication</p></details> |
 | **[AvatarVTON: 4D Virtual Try-On for Animatable Avatars](http://arxiv.org/abs/2510.04822v1)** | 2025-10-06 |  |
 | **[DS-VTON: An Enhanced Dual-Scale Coarse-to-Fine Framework for Virtual Try-On](http://arxiv.org/abs/2506.00908v2)** | 2025-10-05 |  |
 | **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](http://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v3)** | 2025-10-01 | <details><summary>Revis...</summary><p>Revised version with improved writing. Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Virtual Fashion Photo-Shoots: Building a Large-Scale Garment-Lookbook Dataset](http://arxiv.org/abs/2510.00633v1)** | 2025-10-01 |  |
-| **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v1)** | 2025-09-30 | 21 pages |
 | **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
 | **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
 | **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
