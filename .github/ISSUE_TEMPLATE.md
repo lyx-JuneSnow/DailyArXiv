@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 19, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PICABench: How Far Are We from Physically Realistic Image Editing?](http://arxiv.org/abs/2510.17681v1)** | 2025-10-20 |  |
+| **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v1)** | 2025-10-19 |  |
+| **[Region in Context: Text-condition Image editing with Human-like semantic reasoning](http://arxiv.org/abs/2510.16772v1)** | 2025-10-19 |  |
+| **[BLIP3o-NEXT: Next Frontier of Native Image Generation](http://arxiv.org/abs/2510.15857v1)** | 2025-10-17 |  |
+| **[LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration](http://arxiv.org/abs/2504.00010v3)** | 2025-10-17 | 26 pages |
+| **[SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow](http://arxiv.org/abs/2504.09697v2)** | 2025-10-16 | <details><summary>The p...</summary><p>The paper has been accepted to NeurIPS Creative AI Track 2025. Figure 4(c) has been accepted to CVPR AI Art Gallery 2025</p></details> |
+| **[ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation](http://arxiv.org/abs/2510.04290v2)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/chronoedit</p></details> |
 | **[Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project page: https://coupled-diffusion.github.io</p></details> |
 | **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
 | **[In-Context Learning with Unpaired Clips for Instruction-based Video Editing](http://arxiv.org/abs/2510.14648v1)** | 2025-10-16 |  |
@@ -24,13 +31,6 @@ labels: documentation
 | **[EdiVal-Agent: An Object-Centric Framework for Automated, Fine-Grained Evaluation of Multi-Turn Editing](http://arxiv.org/abs/2509.13399v2)** | 2025-10-16 | <details><summary>Tiany...</summary><p>Tianyu Chen and Yasi Zhang contributed equally; Oscar Leong, Lijuan Wang, Ying Nian Wu, and Mingyuan Zhou advised equally</p></details> |
 | **[TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement](http://arxiv.org/abs/2510.04483v3)** | 2025-10-15 |  |
 | **[UniFusion: Vision-Language Model as Unified Encoder in Image Generation](http://arxiv.org/abs/2510.12789v1)** | 2025-10-14 | <details><summary>Proje...</summary><p>Project page at https://thekevinli.github.io/unifusion/</p></details> |
-| **[Zero-shot Face Editing via ID-Attribute Decoupled Inversion](http://arxiv.org/abs/2510.11050v1)** | 2025-10-13 | Accepted by ICME2025 |
-| **[GeoVLMath: Enhancing Geometry Reasoning in Vision-Language Models via Cross-Modal Reward for Auxiliary Line Creation](http://arxiv.org/abs/2510.11020v1)** | 2025-10-13 | 22 pages |
-| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](http://arxiv.org/abs/2506.23484v3)** | 2025-10-13 |  |
-| **[DreamMakeup: Face Makeup Customization using Latent Diffusion Models](http://arxiv.org/abs/2510.10918v1)** | 2025-10-13 |  |
-| **[Streamlining Image Editing with Layered Diffusion Brushes](http://arxiv.org/abs/2405.00313v2)** | 2025-10-12 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2306.00219</p></details> |
-| **[EditCast3D: Single-Frame-Guided 3D Editing with Video Propagation and View Selection](http://arxiv.org/abs/2510.13652v1)** | 2025-10-11 |  |
-| **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](http://arxiv.org/abs/2506.23361v2)** | 2025-10-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -90,6 +90,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement](http://arxiv.org/abs/2510.17105v1)** | 2025-10-20 |  |
 | **[Blind Video Super-Resolution based on Implicit Kernels](http://arxiv.org/abs/2503.07856v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](http://arxiv.org/abs/2506.22762v3)** | 2025-10-04 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper (3rd version)</p></details> |
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](http://arxiv.org/abs/2509.24022v1)** | 2025-09-28 | 9 pages |
@@ -104,5 +105,4 @@ labels: documentation
 | **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
 | **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
 | **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
-| **[SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model](http://arxiv.org/abs/2507.20186v1)** | 2025-07-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025. The first two authors contributed equally</p></details> |
 
