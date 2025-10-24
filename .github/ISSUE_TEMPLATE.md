@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas](http://arxiv.org/abs/2510.20820v1)** | 2025-10-23 | 9 pages, preprint |
+| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v2)** | 2025-10-23 | Preprint |
+| **[Positional Encoding Field](http://arxiv.org/abs/2510.20385v1)** | 2025-10-23 | 8 pages, 9 figures |
+| **[EditInfinity: Image Editing with Binary-Quantized Generative Models](http://arxiv.org/abs/2510.20217v1)** | 2025-10-23 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, accepted by The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing](http://arxiv.org/abs/2510.20212v1)** | 2025-10-23 |  |
 | **[Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing](http://arxiv.org/abs/2510.19808v1)** | 2025-10-22 |  |
 | **[UniVideo: Unified Understanding, Generation, and Editing for Videos](http://arxiv.org/abs/2510.08377v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
 | **[Janus-Pro-R1: Advancing Collaborative Visual Comprehension and Generation via Reinforcement Learning](http://arxiv.org/abs/2506.01480v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -26,11 +31,6 @@ labels: documentation
 | **[LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration](http://arxiv.org/abs/2504.00010v3)** | 2025-10-17 | 26 pages |
 | **[SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow](http://arxiv.org/abs/2504.09697v2)** | 2025-10-16 | <details><summary>The p...</summary><p>The paper has been accepted to NeurIPS Creative AI Track 2025. Figure 4(c) has been accepted to CVPR AI Art Gallery 2025</p></details> |
 | **[ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation](http://arxiv.org/abs/2510.04290v2)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/chronoedit</p></details> |
-| **[Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project page: https://coupled-diffusion.github.io</p></details> |
-| **[Learning an Image Editing Model without Image Editing Pairs](http://arxiv.org/abs/2510.14978v1)** | 2025-10-16 | <details><summary>proje...</summary><p>project page: https://nupurkmr9.github.io/npedit/</p></details> |
-| **[In-Context Learning with Unpaired Clips for Instruction-based Video Editing](http://arxiv.org/abs/2510.14648v1)** | 2025-10-16 |  |
-| **[MIO: A Foundation Model on Multimodal Tokens](http://arxiv.org/abs/2409.17692v4)** | 2025-10-16 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Oral). Codes and models are available in https://github.com/MIO-Team/MIO</p></details> |
-| **[SphereDrag: Spherical Geometry-Aware Panoramic Image Editing](http://arxiv.org/abs/2506.11863v2)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -103,4 +103,6 @@ labels: documentation
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](http://arxiv.org/abs/2308.09388v2)** | 2025-08-28 | Accepted by IJCV |
 | **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
 | **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
+| **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
+| **[ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal](http://arxiv.org/abs/2411.03260v4)** | 2025-08-08 |  |
 
