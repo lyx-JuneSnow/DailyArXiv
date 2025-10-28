@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas](http://arxiv.org/abs/2510.20820v1)** | 2025-10-23 | 9 pages, preprint |
+| **[LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas](http://arxiv.org/abs/2510.20820v2)** | 2025-10-27 | <details><summary>9 pag...</summary><p>9 pages, preprint. Project page: https://snap-research.github.io/layercomposer/</p></details> |
+| **[Autoregressive Styled Text Image Generation, but Make it Reliable](http://arxiv.org/abs/2510.23240v1)** | 2025-10-27 |  |
+| **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v3)** | 2025-10-27 | ICML 2025 |
+| **[UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization](http://arxiv.org/abs/2510.23023v1)** | 2025-10-27 |  |
+| **[LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2510.22946v1)** | 2025-10-27 | <details><summary>Prepr...</summary><p>Preprint. Project page: https://ucsc-vlaa.github.io/LightBagel/</p></details> |
+| **[CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing](http://arxiv.org/abs/2508.06937v2)** | 2025-10-26 | <details><summary>Proje...</summary><p>Project Page: vaynexie.github.io/CannyEdit/; MindSpore Code: github.com/mindspore-lab/mindone/tree/master/examples/canny_edit; PyTorch Code: github.com/vaynexie/CannyEdit</p></details> |
+| **[GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation](http://arxiv.org/abs/2510.22337v1)** | 2025-10-25 |  |
+| **[VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation](http://arxiv.org/abs/2503.14350v3)** | 2025-10-25 | <details><summary>ICCV ...</summary><p>ICCV 2025; First three authors contributed equally. Project page: https://veggie-gen.github.io/</p></details> |
+| **[EEdit: Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing](http://arxiv.org/abs/2503.10270v3)** | 2025-10-25 | accepted by ICCV2025 |
+| **[FlowOpt: Fast Optimization Through Whole Flow Processes for Training-Free Editing](http://arxiv.org/abs/2510.22010v1)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project's webpage at https://orronai.github.io/FlowOpt/</p></details> |
+| **[EditInfinity: Image Editing with Binary-Quantized Generative Models](http://arxiv.org/abs/2510.20217v2)** | 2025-10-24 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, accepted by The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[SafetyPairs: Isolating Safety Critical Image Features with Counterfactual Image Generation](http://arxiv.org/abs/2510.21120v1)** | 2025-10-24 |  |
 | **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v2)** | 2025-10-23 | Preprint |
 | **[Positional Encoding Field](http://arxiv.org/abs/2510.20385v1)** | 2025-10-23 | 8 pages, 9 figures |
-| **[EditInfinity: Image Editing with Binary-Quantized Generative Models](http://arxiv.org/abs/2510.20217v1)** | 2025-10-23 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, accepted by The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing](http://arxiv.org/abs/2510.20212v1)** | 2025-10-23 |  |
-| **[Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing](http://arxiv.org/abs/2510.19808v1)** | 2025-10-22 |  |
-| **[UniVideo: Unified Understanding, Generation, and Editing for Videos](http://arxiv.org/abs/2510.08377v2)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
-| **[Janus-Pro-R1: Advancing Collaborative Visual Comprehension and Generation via Reinforcement Learning](http://arxiv.org/abs/2506.01480v2)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[PICABench: How Far Are We from Physically Realistic Image Editing?](http://arxiv.org/abs/2510.17681v2)** | 2025-10-21 |  |
-| **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v2)** | 2025-10-21 |  |
-| **[Region in Context: Text-condition Image editing with Human-like semantic reasoning](http://arxiv.org/abs/2510.16772v1)** | 2025-10-19 |  |
-| **[BLIP3o-NEXT: Next Frontier of Native Image Generation](http://arxiv.org/abs/2510.15857v1)** | 2025-10-17 |  |
-| **[LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration](http://arxiv.org/abs/2504.00010v3)** | 2025-10-17 | 26 pages |
-| **[SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow](http://arxiv.org/abs/2504.09697v2)** | 2025-10-16 | <details><summary>The p...</summary><p>The paper has been accepted to NeurIPS Creative AI Track 2025. Figure 4(c) has been accepted to CVPR AI Art Gallery 2025</p></details> |
-| **[ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation](http://arxiv.org/abs/2510.04290v2)** | 2025-10-16 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/toronto-ai/chronoedit</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
