@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2025
+title: Latest 15 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Group Relative Attention Guidance for Image Editing](http://arxiv.org/abs/2510.24657v1)** | 2025-10-28 |  |
+| **[Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models](http://arxiv.org/abs/2510.23974v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v5)** | 2025-10-27 |  |
 | **[LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas](http://arxiv.org/abs/2510.20820v2)** | 2025-10-27 | <details><summary>9 pag...</summary><p>9 pages, preprint. Project page: https://snap-research.github.io/layercomposer/</p></details> |
 | **[Autoregressive Styled Text Image Generation, but Make it Reliable](http://arxiv.org/abs/2510.23240v1)** | 2025-10-27 |  |
 | **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v3)** | 2025-10-27 | ICML 2025 |
@@ -28,9 +31,6 @@ labels: documentation
 | **[FlowOpt: Fast Optimization Through Whole Flow Processes for Training-Free Editing](http://arxiv.org/abs/2510.22010v1)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project's webpage at https://orronai.github.io/FlowOpt/</p></details> |
 | **[EditInfinity: Image Editing with Binary-Quantized Generative Models](http://arxiv.org/abs/2510.20217v2)** | 2025-10-24 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, accepted by The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[SafetyPairs: Isolating Safety Critical Image Features with Counterfactual Image Generation](http://arxiv.org/abs/2510.21120v1)** | 2025-10-24 |  |
-| **[DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing](http://arxiv.org/abs/2510.02253v2)** | 2025-10-23 | Preprint |
-| **[Positional Encoding Field](http://arxiv.org/abs/2510.20385v1)** | 2025-10-23 | 8 pages, 9 figures |
-| **[FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing](http://arxiv.org/abs/2510.20212v1)** | 2025-10-23 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
