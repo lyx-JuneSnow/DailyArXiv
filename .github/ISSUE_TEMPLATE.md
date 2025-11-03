@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 02, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing](http://arxiv.org/abs/2510.27335v1)** | 2025-10-31 |  |
 | **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v3)** | 2025-10-30 |  |
 | **[Security Risk of Misalignment between Text and Image in Multi-modal Model](http://arxiv.org/abs/2510.26105v1)** | 2025-10-30 |  |
 | **[SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing](http://arxiv.org/abs/2510.25970v1)** | 2025-10-29 | <details><summary>Camer...</summary><p>Camera-ready version for NeurIPS 2025, 10 pages (main paper)</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v3)** | 2025-10-27 | ICML 2025 |
 | **[UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization](http://arxiv.org/abs/2510.23023v1)** | 2025-10-27 |  |
 | **[CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing](http://arxiv.org/abs/2508.06937v2)** | 2025-10-26 | <details><summary>Proje...</summary><p>Project Page: vaynexie.github.io/CannyEdit/; MindSpore Code: github.com/mindspore-lab/mindone/tree/master/examples/canny_edit; PyTorch Code: github.com/vaynexie/CannyEdit</p></details> |
-| **[GeoDiffusion: A Training-Free Framework for Accurate 3D Geometric Conditioning in Image Generation](http://arxiv.org/abs/2510.22337v1)** | 2025-10-25 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,11 @@ labels: documentation
 | **[An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval](http://arxiv.org/abs/2503.22171v1)** | 2025-03-28 | 20 pages,13 figures |
 | **[DM-Adapter: Domain-Aware Mixture-of-Adapters for Text-Based Person Retrieval](http://arxiv.org/abs/2503.04144v1)** | 2025-03-06 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted by AAAI 2025</p></details> |
 | **[Multi-path Exploration and Feedback Adjustment for Text-to-Image Person Retrieval](http://arxiv.org/abs/2410.21318v1)** | 2024-10-26 |  |
+| **[Beat: Bi-directional One-to-Many Embedding Alignment for Text-based Person Retrieval](http://arxiv.org/abs/2406.05620v1)** | 2024-06-09 | ACM MM2023 |
+| **[UFineBench: Towards Text-based Person Retrieval with Ultra-fine Granularity](http://arxiv.org/abs/2312.03441v6)** | 2024-06-06 |  |
+| **[PGDS: Pose-Guidance Deep Supervision for Mitigating Clothes-Changing in Person Re-Identification](http://arxiv.org/abs/2312.05634v3)** | 2024-06-01 | <details><summary>Accep...</summary><p>Accepted at AVSS 2024</p></details> |
+| **[Data Augmentation for Text-based Person Retrieval Using Large Language Models](http://arxiv.org/abs/2405.11971v1)** | 2024-05-20 |  |
+| **[Text-based Person Search in Full Images via Semantic-Driven Proposal Generation](http://arxiv.org/abs/2109.12965v3)** | 2024-02-25 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
