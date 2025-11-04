@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding](http://arxiv.org/abs/2504.12704v2)** | 2025-11-03 |  |
 | **[Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing](http://arxiv.org/abs/2510.27335v1)** | 2025-10-31 |  |
 | **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v3)** | 2025-10-30 |  |
 | **[Security Risk of Misalignment between Text and Image in Multi-modal Model](http://arxiv.org/abs/2510.26105v1)** | 2025-10-30 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Autoregressive Styled Text Image Generation, but Make it Reliable](http://arxiv.org/abs/2510.23240v1)** | 2025-10-27 |  |
 | **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v3)** | 2025-10-27 | ICML 2025 |
 | **[UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization](http://arxiv.org/abs/2510.23023v1)** | 2025-10-27 |  |
-| **[CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing](http://arxiv.org/abs/2508.06937v2)** | 2025-10-26 | <details><summary>Proje...</summary><p>Project Page: vaynexie.github.io/CannyEdit/; MindSpore Code: github.com/mindspore-lab/mindone/tree/master/examples/canny_edit; PyTorch Code: github.com/vaynexie/CannyEdit</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -81,15 +81,11 @@ labels: documentation
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v3)** | 2025-10-01 | <details><summary>Revis...</summary><p>Revised version with improved writing. Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Virtual Fashion Photo-Shoots: Building a Large-Scale Garment-Lookbook Dataset](http://arxiv.org/abs/2510.00633v1)** | 2025-10-01 |  |
 | **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
-| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
-| **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
-| **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](http://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](http://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[Clothing agnostic Pre-inpainting Virtual Try-ON](http://arxiv.org/abs/2509.17654v2)** | 2025-09-23 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FIPER: Factorized Features for Robust Image Super-Resolution and Compression](http://arxiv.org/abs/2410.18083v4)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://jayisaking.github.io/FIPER/</p></details> |
 | **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v2)** | 2025-10-29 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, Accepted by NeurIPS 2025</p></details> |
 | **[Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement](http://arxiv.org/abs/2510.17105v1)** | 2025-10-20 |  |
 | **[Blind Video Super-Resolution based on Implicit Kernels](http://arxiv.org/abs/2503.07856v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
@@ -104,5 +100,4 @@ labels: documentation
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](http://arxiv.org/abs/2308.09388v2)** | 2025-08-28 | Accepted by IJCV |
 | **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
 | **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
-| **[Refine-IQA: Multi-Stage Reinforcement Finetuning for Perceptual Image Quality Assessment](http://arxiv.org/abs/2508.03763v2)** | 2025-08-15 |  |
 
