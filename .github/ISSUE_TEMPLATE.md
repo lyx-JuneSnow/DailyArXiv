@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,21 +16,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v3)** | 2025-11-04 |  |
+| **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v2)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages including appendix, 4 tables, 8 figures, to be submitted to WACV 2026</p></details> |
+| **[UniREditBench: A Unified Reasoning-based Image Editing Benchmark](http://arxiv.org/abs/2511.01295v1)** | 2025-11-03 | <details><summary>Proje...</summary><p>Project page: https://maplebb.github.io/UniREditBench</p></details> |
 | **[SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding](http://arxiv.org/abs/2504.12704v2)** | 2025-11-03 |  |
+| **[Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing](http://arxiv.org/abs/2511.00801v1)** | 2025-11-02 |  |
+| **[BlurGuard: A Simple Approach for Robustifying Image Protection Against AI-Powered Editing](http://arxiv.org/abs/2511.00143v1)** | 2025-10-31 | <details><summary>36 pa...</summary><p>36 pages; NeurIPS 2025; Code is available at https://github.com/jsu-kim/BlurGuard</p></details> |
 | **[Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing](http://arxiv.org/abs/2510.27335v1)** | 2025-10-31 |  |
 | **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v3)** | 2025-10-30 |  |
 | **[Security Risk of Misalignment between Text and Image in Multi-modal Model](http://arxiv.org/abs/2510.26105v1)** | 2025-10-30 |  |
 | **[SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing](http://arxiv.org/abs/2510.25970v1)** | 2025-10-29 | <details><summary>Camer...</summary><p>Camera-ready version for NeurIPS 2025, 10 pages (main paper)</p></details> |
 | **[RegionE: Adaptive Region-Aware Generation for Efficient Image Editing](http://arxiv.org/abs/2510.25590v1)** | 2025-10-29 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 18 tables</p></details> |
+| **[LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency](http://arxiv.org/abs/2511.01894v1)** | 2025-10-29 |  |
 | **[LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2510.22946v2)** | 2025-10-29 | <details><summary>Withd...</summary><p>Withdrawn because the submission was premature and not agreed by all parties in collaboration</p></details> |
 | **[Group Relative Attention Guidance for Image Editing](http://arxiv.org/abs/2510.24657v1)** | 2025-10-28 |  |
 | **[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](http://arxiv.org/abs/2510.24821v1)** | 2025-10-28 | 18 pages, 5 figures |
-| **[Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models](http://arxiv.org/abs/2510.23974v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[One-Step is Enough: Sparse Autoencoders for Text-to-Image Diffusion Models](http://arxiv.org/abs/2410.22366v5)** | 2025-10-27 |  |
-| **[LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas](http://arxiv.org/abs/2510.20820v2)** | 2025-10-27 | <details><summary>9 pag...</summary><p>9 pages, preprint. Project page: https://snap-research.github.io/layercomposer/</p></details> |
-| **[Autoregressive Styled Text Image Generation, but Make it Reliable](http://arxiv.org/abs/2510.23240v1)** | 2025-10-27 |  |
-| **[Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation](http://arxiv.org/abs/2509.25776v3)** | 2025-10-27 | ICML 2025 |
-| **[UniAIDet: A Unified and Universal Benchmark for AI-Generated Image Content Detection and Localization](http://arxiv.org/abs/2510.23023v1)** | 2025-10-27 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -71,6 +71,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EVTAR: End-to-End Try on with Additional Unpaired Visual Reference](http://arxiv.org/abs/2511.00956v1)** | 2025-11-02 |  |
 | **[HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment](http://arxiv.org/abs/2505.19638v3)** | 2025-10-29 | <details><summary>After...</summary><p>After the publication of the paper, we discovered some significant errors/omissions that need to be corrected and improved</p></details> |
 | **[ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text](http://arxiv.org/abs/2501.16757v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](http://arxiv.org/abs/2509.25749v2)** | 2025-10-16 | 21 pages |
@@ -81,6 +82,10 @@ labels: documentation
 | **[IC-Custom: Diverse Image Customization via In-Context Learning](http://arxiv.org/abs/2507.01926v3)** | 2025-10-01 | <details><summary>Revis...</summary><p>Revised version with improved writing. Project page: https://liyaowei-stu.github.io/project/IC_Custom</p></details> |
 | **[Virtual Fashion Photo-Shoots: Building a Large-Scale Garment-Lookbook Dataset](http://arxiv.org/abs/2510.00633v1)** | 2025-10-01 |  |
 | **[UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](http://arxiv.org/abs/2509.24817v1)** | 2025-09-29 | <details><summary>Page:...</summary><p>Page: https://zcai0612.github.io/UP2You</p></details> |
+| **[ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering](http://arxiv.org/abs/2509.21541v2)** | 2025-09-29 | <details><summary>9 pag...</summary><p>9 pages,Project website: https://ctrlhair-arxiv.netlify.app/</p></details> |
+| **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](http://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
+| **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](http://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
+| **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](http://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
