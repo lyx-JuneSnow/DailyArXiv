@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,6 +16,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CREA: A Collaborative Multi-Agent Framework for Creative Image Editing and Generation](http://arxiv.org/abs/2504.05306v2)** | 2025-11-06 | <details><summary>Publi...</summary><p>Published at NeurIPS'25 Main Conference</p></details> |
+| **[What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images](http://arxiv.org/abs/2503.17899v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025</p></details> |
 | **[Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing](http://arxiv.org/abs/2511.00801v2)** | 2025-11-05 |  |
 | **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v3)** | 2025-11-04 |  |
 | **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v2)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages including appendix, 4 tables, 8 figures, to be submitted to WACV 2026</p></details> |
@@ -29,8 +31,6 @@ labels: documentation
 | **[RegionE: Adaptive Region-Aware Generation for Efficient Image Editing](http://arxiv.org/abs/2510.25590v1)** | 2025-10-29 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 18 tables</p></details> |
 | **[LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency](http://arxiv.org/abs/2511.01894v1)** | 2025-10-29 |  |
 | **[LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2510.22946v2)** | 2025-10-29 | <details><summary>Withd...</summary><p>Withdrawn because the submission was premature and not agreed by all parties in collaboration</p></details> |
-| **[Group Relative Attention Guidance for Image Editing](http://arxiv.org/abs/2510.24657v1)** | 2025-10-28 |  |
-| **[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](http://arxiv.org/abs/2510.24821v1)** | 2025-10-28 | 18 pages, 5 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
