@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,9 +16,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing](http://arxiv.org/abs/2511.00801v3)** | 2025-11-07 |  |
+| **[EditInfinity: Image Editing with Binary-Quantized Generative Models](http://arxiv.org/abs/2510.20217v3)** | 2025-11-07 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, accepted by The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[CREA: A Collaborative Multi-Agent Framework for Creative Image Editing and Generation](http://arxiv.org/abs/2504.05306v2)** | 2025-11-06 | <details><summary>Publi...</summary><p>Published at NeurIPS'25 Main Conference</p></details> |
 | **[What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images](http://arxiv.org/abs/2503.17899v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025</p></details> |
-| **[Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing](http://arxiv.org/abs/2511.00801v2)** | 2025-11-05 |  |
 | **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v3)** | 2025-11-04 |  |
 | **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v2)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages including appendix, 4 tables, 8 figures, to be submitted to WACV 2026</p></details> |
 | **[UniREditBench: A Unified Reasoning-based Image Editing Benchmark](http://arxiv.org/abs/2511.01295v1)** | 2025-11-03 | <details><summary>Proje...</summary><p>Project page: https://maplebb.github.io/UniREditBench</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing](http://arxiv.org/abs/2510.25970v1)** | 2025-10-29 | <details><summary>Camer...</summary><p>Camera-ready version for NeurIPS 2025, 10 pages (main paper)</p></details> |
 | **[RegionE: Adaptive Region-Aware Generation for Efficient Image Editing](http://arxiv.org/abs/2510.25590v1)** | 2025-10-29 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 18 tables</p></details> |
 | **[LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency](http://arxiv.org/abs/2511.01894v1)** | 2025-10-29 |  |
-| **[LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](http://arxiv.org/abs/2510.22946v2)** | 2025-10-29 | <details><summary>Withd...</summary><p>Withdrawn because the submission was premature and not agreed by all parties in collaboration</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
