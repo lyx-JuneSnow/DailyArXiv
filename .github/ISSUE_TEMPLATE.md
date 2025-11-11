@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -16,10 +16,14 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning](http://arxiv.org/abs/2508.07607v2)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Making Images Real Again: A Comprehensive Survey on Deep Image Composition](http://arxiv.org/abs/2106.14490v8)** | 2025-11-08 |  |
 | **[Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing](http://arxiv.org/abs/2511.00801v3)** | 2025-11-07 |  |
 | **[EditInfinity: Image Editing with Binary-Quantized Generative Models](http://arxiv.org/abs/2510.20217v3)** | 2025-11-07 | <details><summary>28 pa...</summary><p>28 pages, 13 figures, accepted by The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization](http://arxiv.org/abs/2511.05616v1)** | 2025-11-06 | <details><summary>Publi...</summary><p>Published at NeurIPS'25 Main Conference</p></details> |
 | **[CREA: A Collaborative Multi-Agent Framework for Creative Image Editing and Generation](http://arxiv.org/abs/2504.05306v2)** | 2025-11-06 | <details><summary>Publi...</summary><p>Published at NeurIPS'25 Main Conference</p></details> |
 | **[What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images](http://arxiv.org/abs/2503.17899v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025</p></details> |
+| **[Diffusion-Based Image Editing: An Unforeseen Adversary to Robust Invisible Watermarks](http://arxiv.org/abs/2511.05598v1)** | 2025-11-05 | Preprint |
 | **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v3)** | 2025-11-04 |  |
 | **[Light Future: Multimodal Action Frame Prediction via InstructPix2Pix](http://arxiv.org/abs/2507.14809v2)** | 2025-11-04 | <details><summary>9 pag...</summary><p>9 pages including appendix, 4 tables, 8 figures, to be submitted to WACV 2026</p></details> |
 | **[UniREditBench: A Unified Reasoning-based Image Editing Benchmark](http://arxiv.org/abs/2511.01295v1)** | 2025-11-03 | <details><summary>Proje...</summary><p>Project page: https://maplebb.github.io/UniREditBench</p></details> |
@@ -27,10 +31,6 @@ labels: documentation
 | **[BlurGuard: A Simple Approach for Robustifying Image Protection Against AI-Powered Editing](http://arxiv.org/abs/2511.00143v1)** | 2025-10-31 | <details><summary>36 pa...</summary><p>36 pages; NeurIPS 2025; Code is available at https://github.com/jsu-kim/BlurGuard</p></details> |
 | **[Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing](http://arxiv.org/abs/2510.27335v1)** | 2025-10-31 |  |
 | **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](http://arxiv.org/abs/2508.07981v3)** | 2025-10-30 |  |
-| **[Security Risk of Misalignment between Text and Image in Multi-modal Model](http://arxiv.org/abs/2510.26105v1)** | 2025-10-30 |  |
-| **[SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing](http://arxiv.org/abs/2510.25970v1)** | 2025-10-29 | <details><summary>Camer...</summary><p>Camera-ready version for NeurIPS 2025, 10 pages (main paper)</p></details> |
-| **[RegionE: Adaptive Region-Aware Generation for Efficient Image Editing](http://arxiv.org/abs/2510.25590v1)** | 2025-10-29 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, 18 tables</p></details> |
-| **[LGCC: Enhancing Flow Matching Based Text-Guided Image Editing with Local Gaussian Coupling and Context Consistency](http://arxiv.org/abs/2511.01894v1)** | 2025-10-29 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -90,6 +90,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](http://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
 | **[FIPER: Factorized Features for Robust Image Super-Resolution and Compression](http://arxiv.org/abs/2410.18083v4)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://jayisaking.github.io/FIPER/</p></details> |
 | **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](http://arxiv.org/abs/2506.06677v2)** | 2025-10-29 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, Accepted by NeurIPS 2025</p></details> |
 | **[Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement](http://arxiv.org/abs/2510.17105v1)** | 2025-10-20 |  |
@@ -104,5 +105,4 @@ labels: documentation
 | **[A Unified Low-level Foundation Model for Enhancing Pathology Image Quality](http://arxiv.org/abs/2509.01071v1)** | 2025-09-01 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](http://arxiv.org/abs/2308.09388v2)** | 2025-08-28 | Accepted by IJCV |
 | **[Memory augment is All You Need for image restoration](http://arxiv.org/abs/2309.01377v2)** | 2025-08-26 | <details><summary>We ne...</summary><p>We need to make major changes and re-upload</p></details> |
-| **[DSConv: Dynamic Splitting Convolution for Pansharpening](http://arxiv.org/abs/2508.06147v2)** | 2025-08-15 | <details><summary>The c...</summary><p>The content of the paper is not yet fully developed, and the proposed approach requires further optimization. Additionally, the experimental results are incomplete and need to be supplemented. Therefore, I request the withdrawal of this submission for further revision and improvements</p></details> |
 
