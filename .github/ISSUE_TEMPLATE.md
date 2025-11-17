@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation](https://arxiv.org/abs/2511.11483v1)** | 2025-11-14 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 6 figures</p></details> |
+| **[WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation](https://arxiv.org/abs/2511.11434v1)** | 2025-11-14 |  |
+| **[SimuFreeMark: A Noise-Simulation-Free Robust Watermarking Against Image Editing](https://arxiv.org/abs/2511.11295v1)** | 2025-11-14 |  |
+| **[Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing](https://arxiv.org/abs/2511.11236v1)** | 2025-11-14 |  |
+| **[Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110v2)** | 2025-11-14 | <details><summary>Proje...</summary><p>Project website: https://github.com/weikaih04/Synthetic-Detection-Segmentation-Grounding-Data</p></details> |
+| **[On the Information-Theoretic Fragility of Robust Watermarking under Diffusion Editing](https://arxiv.org/abs/2511.10933v1)** | 2025-11-14 |  |
+| **[STELLAR: Scene Text Editor for Low-Resource Languages and Real-World Data](https://arxiv.org/abs/2511.09977v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop (Artificial Intelligence with Biased or Scarce Data)</p></details> |
 | **[LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740v3)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://layerpeeler.github.io/</p></details> |
 | **[ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory](https://arxiv.org/abs/2509.05314v2)** | 2025-11-13 | <details><summary>7page...</summary><p>7pages; 7figures; 3 tables</p></details> |
-| **[STELLAR: Scene Text Editor for Low-Resource Languages and Real-World Data](https://arxiv.org/abs/2511.09977v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI Workshop (Artificial Intelligence with Biased or Scarce Data)</p></details> |
 | **[MCM: Multi-layer Concept Map for Efficient Concept Learning from Masked Images](https://arxiv.org/abs/2502.00266v2)** | 2025-11-13 |  |
 | **[IPCD: Intrinsic Point-Cloud Decomposition](https://arxiv.org/abs/2511.09866v1)** | 2025-11-13 | Accepted in WACV2026 |
 | **[SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](https://arxiv.org/abs/2511.09715v1)** | 2025-11-12 |  |
 | **[DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models](https://arxiv.org/abs/2410.08207v3)** | 2025-11-12 | <details><summary>Proje...</summary><p>Project webpage: https://hexiaoxiao-cs.github.io/DICE/. This paper was accepted to CVPR 2025 but later desk-rejected post camera-ready, due to a withdrawal from ICLR made 14 days before reviewer assignment</p></details> |
 | **[Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/abs/2506.09018v3)** | 2025-11-12 |  |
 | **[Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602v2)** | 2025-11-12 | <details><summary>Proje...</summary><p>Project Page: https://chat2svg.github.io/</p></details> |
-| **[RePose-NeRF: Robust Radiance Fields for Mesh Reconstruction under Noisy Camera Poses](https://arxiv.org/abs/2511.08545v1)** | 2025-11-11 | <details><summary>Sever...</summary><p>Several figures are included to illustrate the reconstruction and rendering quality of the proposed method, which is why the submission exceeds the 50MB file size limit. > Several figures are included to illustrate the reconstruction and rendering quality of the proposed method, which is why the submission exceeds the 50,000 KB file size limit (Now this has been resolved)</p></details> |
-| **[UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist](https://arxiv.org/abs/2511.08521v1)** | 2025-11-11 | <details><summary>Techn...</summary><p>Technical Report. 24 figures, 37 pages. Website: https://univa.online/</p></details> |
-| **[HardFlow: Hard-Constrained Sampling for Flow-Matching Models via Trajectory Optimization](https://arxiv.org/abs/2511.08425v1)** | 2025-11-11 |  |
-| **[LayerEdit: Disentangled Multi-Object Editing via Conflict-Aware Multi-Layer Learning](https://arxiv.org/abs/2511.08251v1)** | 2025-11-11 | <details><summary>The 4...</summary><p>The 40th Annual AAAI Conference on Artificial Intelligence</p></details> |
-| **[VectorSynth: Fine-Grained Satellite Image Synthesis with Structured Semantics](https://arxiv.org/abs/2511.07744v1)** | 2025-11-11 |  |
-| **[Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising](https://arxiv.org/abs/2511.08633v1)** | 2025-11-09 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -102,6 +102,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Discovering Meaningful Units with Visually Grounded Semantics from Image Captions](https://arxiv.org/abs/2511.11262v1)** | 2025-11-14 |  |
+| **[Power Ensemble Aggregation for Improved Extreme Event AI Prediction](https://arxiv.org/abs/2511.11170v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted for the NeurIPS 2025 ML4PS workshop</p></details> |
+| **[Optimal Welfare in Noncooperative Network Formation under Attack](https://arxiv.org/abs/2511.10845v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 -- full version</p></details> |
 | **[Improving Nonpreemptive Multiserver Job Scheduling with Quickswap](https://arxiv.org/abs/2509.01893v2)** | 2025-11-12 |  |
 | **[Food as Soft Power: Taiwanese Gastrodiplomacy on Social Media and Algorithmic Suppression](https://arxiv.org/abs/2511.05729v2)** | 2025-11-12 | <details><summary>13 pa...</summary><p>13 pages and 10 figures</p></details> |
 | **[Efficiently Transforming Neural Networks into Decision Trees: A Path to Ground Truth Explanations with RENTT](https://arxiv.org/abs/2511.09299v1)** | 2025-11-12 |  |
@@ -114,13 +117,14 @@ labels: documentation
 | **[Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts](https://arxiv.org/abs/2511.04655v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://cambrian-mllm.github.io</p></details> |
 | **[IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://arxiv.org/abs/2511.04528v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for the 40th Annual AAAI Conference on Artificial Intelligence (2026) - Demonstration Track</p></details> |
 | **[The truth is no diaper: Human and AI-generated associations to emotional words](https://arxiv.org/abs/2511.04077v1)** | 2025-11-06 | <details><summary>6 pag...</summary><p>6 pages, 1 figure. Presented at ICCC'25, Campinas, Brazil</p></details> |
-| **[What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images](https://arxiv.org/abs/2503.17899v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted by TMLR 2025</p></details> |
-| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
-| **[How does training shape the Riemannian geometry of neural network representations?](https://arxiv.org/abs/2301.11375v4)** | 2025-11-05 | 92 pages, 48 figures |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping](https://arxiv.org/abs/2511.11437v1)** | 2025-11-14 |  |
+| **[OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting](https://arxiv.org/abs/2508.01727v2)** | 2025-11-14 |  |
+| **[Φeat: Physically-Grounded Feature Representation](https://arxiv.org/abs/2511.11270v1)** | 2025-11-14 |  |
+| **[AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation](https://arxiv.org/abs/2511.11052v1)** | 2025-11-14 |  |
 | **[VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation](https://arxiv.org/abs/2509.20322v2)** | 2025-11-13 | <details><summary>Websi...</summary><p>Website: https://visualmimic.github.io</p></details> |
 | **[Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding](https://arxiv.org/abs/2511.08978v1)** | 2025-11-12 |  |
 | **[Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors](https://arxiv.org/abs/2508.08896v4)** | 2025-11-11 | AAAI 2026 |
@@ -132,8 +136,4 @@ labels: documentation
 | **[ML-EcoLyzer: Quantifying the Environmental Cost of Machine Learning Inference Across Frameworks and Hardware](https://arxiv.org/abs/2511.06694v1)** | 2025-11-10 |  |
 | **[A Low-Rank Method for Vision Language Model Hallucination Mitigation in Autonomous Driving](https://arxiv.org/abs/2511.06496v1)** | 2025-11-09 |  |
 | **[Zooming into Comics: Region-Aware RL Improves Fine-Grained Comic Understanding in Vision-Language Models](https://arxiv.org/abs/2511.06490v1)** | 2025-11-09 |  |
-| **[ALIGN: A Vision-Language Framework for High-Accuracy Accident Location Inference through Geo-Spatial Neural Reasoning](https://arxiv.org/abs/2511.06316v1)** | 2025-11-09 |  |
-| **[ImitDiff: Transferring Foundation-Model Priors for Distraction Robust Visuomotor Policy](https://arxiv.org/abs/2502.09649v2)** | 2025-11-08 |  |
-| **[iFlyBot-VLM Technical Report](https://arxiv.org/abs/2511.04976v1)** | 2025-11-07 |  |
-| **[Transport of Event Equation: Phase Retrieval from Defocus Events](https://arxiv.org/abs/2510.02989v3)** | 2025-11-07 |  |
 
