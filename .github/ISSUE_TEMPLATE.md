@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2025
+title: Latest 15 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,25 +26,26 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation](https://arxiv.org/abs/2511.11483v1)** | 2025-11-14 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 6 figures</p></details> |
-| **[WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation](https://arxiv.org/abs/2511.11434v1)** | 2025-11-14 |  |
-| **[SimuFreeMark: A Noise-Simulation-Free Robust Watermarking Against Image Editing](https://arxiv.org/abs/2511.11295v1)** | 2025-11-14 |  |
-| **[Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing](https://arxiv.org/abs/2511.11236v1)** | 2025-11-14 |  |
-| **[Synthetic Object Compositions for Scalable and Accurate Learning in Detection, Segmentation, and Grounding](https://arxiv.org/abs/2510.09110v2)** | 2025-11-14 | <details><summary>Proje...</summary><p>Project website: https://github.com/weikaih04/Synthetic-Detection-Segmentation-Grounding-Data</p></details> |
-| **[On the Information-Theoretic Fragility of Robust Watermarking under Diffusion Editing](https://arxiv.org/abs/2511.10933v1)** | 2025-11-14 |  |
-| **[STELLAR: Scene Text Editor for Low-Resource Languages and Real-World Data](https://arxiv.org/abs/2511.09977v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 Workshop (Artificial Intelligence with Biased or Scarce Data)</p></details> |
-| **[LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization](https://arxiv.org/abs/2505.23740v3)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://layerpeeler.github.io/</p></details> |
-| **[ManipDreamer3D : Synthesizing Plausible Robotic Manipulation Video with Occupancy-aware 3D Trajectory](https://arxiv.org/abs/2509.05314v2)** | 2025-11-13 | <details><summary>7page...</summary><p>7pages; 7figures; 3 tables</p></details> |
-| **[MCM: Multi-layer Concept Map for Efficient Concept Learning from Masked Images](https://arxiv.org/abs/2502.00266v2)** | 2025-11-13 |  |
-| **[IPCD: Intrinsic Point-Cloud Decomposition](https://arxiv.org/abs/2511.09866v1)** | 2025-11-13 | Accepted in WACV2026 |
-| **[SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control](https://arxiv.org/abs/2511.09715v1)** | 2025-11-12 |  |
-| **[DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models](https://arxiv.org/abs/2410.08207v3)** | 2025-11-12 | <details><summary>Proje...</summary><p>Project webpage: https://hexiaoxiao-cs.github.io/DICE/. This paper was accepted to CVPR 2025 but later desk-rejected post camera-ready, due to a withdrawal from ICLR made 14 days before reviewer assignment</p></details> |
-| **[Edit Flows: Flow Matching with Edit Operations](https://arxiv.org/abs/2506.09018v3)** | 2025-11-12 |  |
-| **[Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models](https://arxiv.org/abs/2411.16602v2)** | 2025-11-12 | <details><summary>Proje...</summary><p>Project Page: https://chat2svg.github.io/</p></details> |
+| **[Free-Form Scene Editor: Enabling Multi-Round Object Manipulation like in a 3D Engine](https://arxiv.org/abs/2511.13713v1)** | 2025-11-17 | <details><summary>AAAI ...</summary><p>AAAI 2026, Project Page: https://henghuiding.com/FFSE/</p></details> |
+| **[LightFusion: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2510.22946v3)** | 2025-11-17 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Training-Free Multi-View Extension of IC-Light for Textual Position-Aware Scene Relighting](https://arxiv.org/abs/2511.13684v1)** | 2025-11-17 | <details><summary>Submi...</summary><p>Submitting for Neurocomputing</p></details> |
+| **[Language-Guided Invariance Probing of Vision-Language Models](https://arxiv.org/abs/2511.13494v1)** | 2025-11-17 |  |
+| **[Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling](https://arxiv.org/abs/2511.13478v1)** | 2025-11-17 |  |
+| **[Unlocking the Forgery Detection Potential of Vanilla MLLMs: A Novel Training-Free Pipeline](https://arxiv.org/abs/2511.13442v1)** | 2025-11-17 |  |
+| **[TripleFDS: Triple Feature Disentanglement and Synthesis for Scene Text Editing](https://arxiv.org/abs/2511.13399v1)** | 2025-11-17 | Accepted by AAAI2026 |
+| **[Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars](https://arxiv.org/abs/2507.15979v2)** | 2025-11-17 | Accepted to 3DV 2026 |
+| **[SkyReels-Text: Fine-grained Font-Controllable Text Editing for Poster Design](https://arxiv.org/abs/2511.13285v1)** | 2025-11-17 |  |
+| **[Uncovering and Mitigating Transient Blindness in Multimodal Model Editing](https://arxiv.org/abs/2511.13243v1)** | 2025-11-17 | Accepted at AAAI'26 |
+| **[MedGEN-Bench: Contextually entangled benchmark for open-ended multimodal medical generation](https://arxiv.org/abs/2511.13135v1)** | 2025-11-17 | <details><summary>CVPR ...</summary><p>CVPR 2026 Under Review</p></details> |
+| **[Semantic Prioritization in Visual Counterfactual Explanations with Weighted Segmentation and Auto-Adaptive Region Selection](https://arxiv.org/abs/2511.12992v1)** | 2025-11-17 | 31page, 7 figures |
+| **[Text2Traffic: A Text-to-Image Generation and Editing Method for Traffic Scenes](https://arxiv.org/abs/2511.12932v1)** | 2025-11-17 |  |
+| **[Catastrophic Forgetting in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.12828v1)** | 2025-11-16 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, accepted in the main technical track of AAAI 2026</p></details> |
+| **[Toward Real-world Text Image Forgery Localization: Structured and Interpretable Data Synthesis](https://arxiv.org/abs/2511.12658v1)** | 2025-11-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 D&B Track</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Exercise Recommendation](https://arxiv.org/abs/2507.00032v2)** | 2025-11-17 |  |
 | **[GEA: Generation-Enhanced Alignment for Text-to-Image Person Retrieval](https://arxiv.org/abs/2511.10154v1)** | 2025-11-13 | 8pages,3figures |
 | **[Text-based Aerial-Ground Person Retrieval](https://arxiv.org/abs/2511.08369v1)** | 2025-11-11 |  |
 | **[Inclusion of Role into Named Entity Recognition and Ranking](https://arxiv.org/abs/2511.06886v1)** | 2025-11-10 | MTP Paper |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Unified Multi-Modal Interactive & Reactive 3D Motion Generation via Rectified Flow](https://arxiv.org/abs/2509.24099v2)** | 2025-10-13 | <details><summary>Under...</summary><p>Under review at ICLR 2026</p></details> |
 | **[Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework](https://arxiv.org/abs/2509.11645v2)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 MLLMCP Workshop</p></details> |
 | **[Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval](https://arxiv.org/abs/2510.08935v1)** | 2025-10-10 |  |
-| **[Visual Lifelog Retrieval through Captioning-Enhanced Interpretation](https://arxiv.org/abs/2510.04010v1)** | 2025-10-05 |  |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
@@ -83,8 +83,9 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos](https://arxiv.org/abs/2511.12935v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[RefVTON: person-to-person Try on with Additional Unpaired Visual Reference](https://arxiv.org/abs/2511.00956v2)** | 2025-11-16 |  |
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
-| **[EVTAR: End-to-End Try on with Additional Unpaired Visual Reference](https://arxiv.org/abs/2511.00956v1)** | 2025-11-02 |  |
 | **[HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment](https://arxiv.org/abs/2505.19638v3)** | 2025-10-29 | <details><summary>After...</summary><p>After the publication of the paper, we discovered some significant errors/omissions that need to be corrected and improved</p></details> |
 | **[ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text](https://arxiv.org/abs/2501.16757v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](https://arxiv.org/abs/2509.25749v2)** | 2025-10-16 | 21 pages |
@@ -97,43 +98,42 @@ labels: documentation
 | **[MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on](https://arxiv.org/abs/2505.21325v3)** | 2025-09-27 |  |
 | **[InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On](https://arxiv.org/abs/2509.20524v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 | **[Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On](https://arxiv.org/abs/2509.20343v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
-| **[Clothing agnostic Pre-inpainting Virtual Try-ON](https://arxiv.org/abs/2509.17654v2)** | 2025-09-23 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Objective Statistical Model Checking using Lightweight Strategy Sampling (extended version)](https://arxiv.org/abs/2511.13460v1)** | 2025-11-17 |  |
+| **[Convergence of Regret Matching in Potential Games and Constrained Optimization](https://arxiv.org/abs/2510.17067v2)** | 2025-11-17 | <details><summary>V2 ex...</summary><p>V2 extends the convergence bounds to simultaneous RM+</p></details> |
+| **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v3)** | 2025-11-17 |  |
+| **[Analysis of Multiple-try Metropolis via Poincaré inequalities](https://arxiv.org/abs/2504.18409v2)** | 2025-11-17 |  |
+| **[PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos](https://arxiv.org/abs/2511.12935v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[RefVTON: person-to-person Try on with Additional Unpaired Visual Reference](https://arxiv.org/abs/2511.00956v2)** | 2025-11-16 |  |
+| **[Statistical Deficiency for Task Inclusion Estimation](https://arxiv.org/abs/2503.05491v3)** | 2025-11-14 | 34 pages |
 | **[Discovering Meaningful Units with Visually Grounded Semantics from Image Captions](https://arxiv.org/abs/2511.11262v1)** | 2025-11-14 |  |
 | **[Power Ensemble Aggregation for Improved Extreme Event AI Prediction](https://arxiv.org/abs/2511.11170v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted for the NeurIPS 2025 ML4PS workshop</p></details> |
+| **[Learning Fair Representations with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2511.11767v1)** | 2025-11-14 |  |
 | **[Optimal Welfare in Noncooperative Network Formation under Attack](https://arxiv.org/abs/2511.10845v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 -- full version</p></details> |
 | **[Improving Nonpreemptive Multiserver Job Scheduling with Quickswap](https://arxiv.org/abs/2509.01893v2)** | 2025-11-12 |  |
 | **[Food as Soft Power: Taiwanese Gastrodiplomacy on Social Media and Algorithmic Suppression](https://arxiv.org/abs/2511.05729v2)** | 2025-11-12 | <details><summary>13 pa...</summary><p>13 pages and 10 figures</p></details> |
 | **[Efficiently Transforming Neural Networks into Decision Trees: A Path to Ground Truth Explanations with RENTT](https://arxiv.org/abs/2511.09299v1)** | 2025-11-12 |  |
 | **[Search versus Search for Collapsing Electoral Control Types](https://arxiv.org/abs/2207.03049v7)** | 2025-11-11 | <details><summary>The m...</summary><p>The metadata's abstract is abridged due to arXiv.org's abstract-length limit. The paper itself has the unabridged (i.e., full) abstract</p></details> |
-| **[Explaining the Unexplainable: A Systematic Review of Explainable AI in Finance](https://arxiv.org/abs/2503.05966v3)** | 2025-11-11 | 2 tables, 11 figures |
-| **[Revisiting Stochastic Approximation and Stochastic Gradient Descent](https://arxiv.org/abs/2505.11343v3)** | 2025-11-10 | 31 pages |
-| **[Meta SecAlign: A Secure Foundation LLM Against Prompt Injection Attacks](https://arxiv.org/abs/2507.02735v2)** | 2025-11-10 |  |
-| **[Detecting Suicidal Ideation in Text with Interpretable Deep Learning: A CNN-BiGRU with Attention Mechanism](https://arxiv.org/abs/2511.08636v1)** | 2025-11-10 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 2025 IEEE 9th International Conference on Software Engineering & Computer Systems</p></details> |
-| **[X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real](https://arxiv.org/abs/2505.07096v5)** | 2025-11-09 |  |
-| **[Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts](https://arxiv.org/abs/2511.04655v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://cambrian-mllm.github.io</p></details> |
-| **[IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://arxiv.org/abs/2511.04528v1)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for the 40th Annual AAAI Conference on Artificial Intelligence (2026) - Demonstration Track</p></details> |
-| **[The truth is no diaper: Human and AI-generated associations to emotional words](https://arxiv.org/abs/2511.04077v1)** | 2025-11-06 | <details><summary>6 pag...</summary><p>6 pages, 1 figure. Presented at ICCC'25, Campinas, Brazil</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI](https://arxiv.org/abs/2511.13524v1)** | 2025-11-17 | 9 pages, 4 figures |
+| **[Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling](https://arxiv.org/abs/2511.13478v1)** | 2025-11-17 |  |
+| **[JAFAR: Jack up Any Feature at Any Resolution](https://arxiv.org/abs/2506.11136v2)** | 2025-11-17 | <details><summary>Code ...</summary><p>Code available at https://github.com/PaulCouairon/JAFAR</p></details> |
+| **[Scalable Vision-Guided Crop Yield Estimation](https://arxiv.org/abs/2511.12999v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted as a conference paper at AAAI 2026 (oral presentation). This is the extended version, including the technical appendix</p></details> |
+| **[LAYA: Layer-wise Attention Aggregation for Interpretable Depth-Aware Neural Networks](https://arxiv.org/abs/2511.12723v1)** | 2025-11-16 |  |
+| **[Scaffolding Dexterous Manipulation with Vision-Language Models](https://arxiv.org/abs/2506.19212v2)** | 2025-11-16 |  |
+| **[X-VMamba: Explainable Vision Mamba](https://arxiv.org/abs/2511.12694v1)** | 2025-11-16 |  |
+| **[Seg-VAR: Image Segmentation with Visual Autoregressive Modeling](https://arxiv.org/abs/2511.12594v1)** | 2025-11-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025, 22 pages</p></details> |
+| **[DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping](https://arxiv.org/abs/2502.20900v5)** | 2025-11-15 | 18 pages, 11 figures |
 | **[Hi-DREAM: Brain Inspired Hierarchical Diffusion for fMRI Reconstruction via ROI Encoder and visuAl Mapping](https://arxiv.org/abs/2511.11437v1)** | 2025-11-14 |  |
 | **[OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting](https://arxiv.org/abs/2508.01727v2)** | 2025-11-14 |  |
 | **[Φeat: Physically-Grounded Feature Representation](https://arxiv.org/abs/2511.11270v1)** | 2025-11-14 |  |
 | **[AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation](https://arxiv.org/abs/2511.11052v1)** | 2025-11-14 |  |
 | **[VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation](https://arxiv.org/abs/2509.20322v2)** | 2025-11-13 | <details><summary>Websi...</summary><p>Website: https://visualmimic.github.io</p></details> |
 | **[Spatio-Temporal Data Enhanced Vision-Language Model for Traffic Scene Understanding](https://arxiv.org/abs/2511.08978v1)** | 2025-11-12 |  |
-| **[Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors](https://arxiv.org/abs/2508.08896v4)** | 2025-11-11 | AAAI 2026 |
-| **[LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models](https://arxiv.org/abs/2511.07727v1)** | 2025-11-11 |  |
-| **[FlowFeat: Pixel-Dense Embedding of Motion Profiles](https://arxiv.org/abs/2511.07696v1)** | 2025-11-10 | <details><summary>Proje...</summary><p>Project website: https://tum-vision.github.io/flowfeat</p></details> |
-| **[Inference-Time Scaling of Diffusion Models for Infrared Data Generation](https://arxiv.org/abs/2511.07362v1)** | 2025-11-10 | <details><summary>Peer-...</summary><p>Peer-reviewed workshop paper</p></details> |
-| **[Visual Structures Helps Visual Reasoning: Addressing the Binding Problem in VLMs](https://arxiv.org/abs/2506.22146v4)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 (Thirty-ninth Conference on Neural Information Processing Systems)</p></details> |
-| **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](https://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
-| **[ML-EcoLyzer: Quantifying the Environmental Cost of Machine Learning Inference Across Frameworks and Hardware](https://arxiv.org/abs/2511.06694v1)** | 2025-11-10 |  |
-| **[A Low-Rank Method for Vision Language Model Hallucination Mitigation in Autonomous Driving](https://arxiv.org/abs/2511.06496v1)** | 2025-11-09 |  |
-| **[Zooming into Comics: Region-Aware RL Improves Fine-Grained Comic Understanding in Vision-Language Models](https://arxiv.org/abs/2511.06490v1)** | 2025-11-09 |  |
 
