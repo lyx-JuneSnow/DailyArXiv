@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2025
+title: Latest 15 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)](https://arxiv.org/abs/2507.17640v2)** | 2025-11-25 |  |
 | **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v1)** | 2025-11-24 |  |
 | **[Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification](https://arxiv.org/abs/2310.17218v2)** | 2025-11-24 |  |
 | **[Find Them All: Unveiling MLLMs for Versatile Person Re-identification](https://arxiv.org/abs/2508.06908v2)** | 2025-11-23 |  |
@@ -21,30 +22,30 @@ labels: documentation
 | **[Attribute Guidance With Inherent Pseudo-label For Occluded Person Re-identification](https://arxiv.org/abs/2508.04998v1)** | 2025-08-07 | <details><summary>8 pag...</summary><p>8 pages, 2 supplement pages, 3 figures, ECAI2025</p></details> |
 | **[CLIPVehicle: A Unified Framework for Vision-based Vehicle Search](https://arxiv.org/abs/2508.04120v1)** | 2025-08-06 |  |
 | **[AG-VPReID.VIR: Bridging Aerial and Ground Platforms for Video-based Visible-Infrared Person Re-ID](https://arxiv.org/abs/2507.17995v1)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted atIEEE International Joint Conference on Biometrics (IJCB) 2025</p></details> |
-| **[The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)](https://arxiv.org/abs/2507.17640v1)** | 2025-07-23 |  |
 
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Are Image-to-Video Models Good Zero-Shot Image Editors?](https://arxiv.org/abs/2511.19435v1)** | 2025-11-24 | technical report |
-| **[Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction](https://arxiv.org/abs/2511.19426v1)** | 2025-11-24 | <details><summary>Code:...</summary><p>Code: https://github.com/FudanCVL/Ref-SAM3D</p></details> |
-| **[SketchDeco: Training-Free Latent Composition for Precise Sketch Colourisation](https://arxiv.org/abs/2405.18716v2)** | 2025-11-24 | <details><summary>Proje...</summary><p>Project Page: \url{https://chaitron.github.io/SketchDeco/}</p></details> |
-| **[InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior](https://arxiv.org/abs/2511.14208v2)** | 2025-11-24 |  |
-| **[DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection](https://arxiv.org/abs/2511.19111v1)** | 2025-11-24 | 16 pages, 10 figures |
-| **[NI-Tex: Non-isometric Image-based Garment Texture Generation](https://arxiv.org/abs/2511.18765v1)** | 2025-11-24 |  |
-| **[DriveFlow: Rectified Flow Adaptation for Robust 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2511.18713v1)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation](https://arxiv.org/abs/2511.11483v2)** | 2025-11-24 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 6 figures</p></details> |
-| **[Now You See It, Now You Don't - Instant Concept Erasure for Safe Text-to-Image and Video Generation](https://arxiv.org/abs/2511.18684v1)** | 2025-11-24 |  |
-| **[Edit2Perceive: Image Editing Diffusion Models Are Strong Dense Perceivers](https://arxiv.org/abs/2511.18673v1)** | 2025-11-24 |  |
-| **[FreeInv: Free Lunch for Improving DDIM Inversion](https://arxiv.org/abs/2503.23035v2)** | 2025-11-23 |  |
-| **[MammothModa2: A Unified AR-Diffusion Framework for Multimodal Understanding and Generation](https://arxiv.org/abs/2511.18262v1)** | 2025-11-23 |  |
-| **[LivePyxel: Accelerating image annotations with a Python-integrated webcam live streaming](https://arxiv.org/abs/2509.13504v2)** | 2025-11-22 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, SM, 5 pages, 5 figures, 1 Table</p></details> |
-| **[Video4Edit: Viewing Image Editing as a Degenerate Temporal Process](https://arxiv.org/abs/2511.18131v1)** | 2025-11-22 | 10 pages, 5 figures |
-| **[IE-Critic-R1: Advancing the Explanatory Measurement of Text-Driven Image Editing for Human Perception Alignment](https://arxiv.org/abs/2511.18055v1)** | 2025-11-22 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 8 tables</p></details> |
+| **[MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640v1)** | 2025-11-25 |  |
+| **[iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation](https://arxiv.org/abs/2511.20635v1)** | 2025-11-25 |  |
+| **[The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment](https://arxiv.org/abs/2511.20614v1)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project page: https://ouyangziheng.github.io/ImageCritic-Page/</p></details> |
+| **[PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding](https://arxiv.org/abs/2511.20562v1)** | 2025-11-25 |  |
+| **[Target-aware Image Editing via Cycle-consistent Constraints](https://arxiv.org/abs/2510.20212v2)** | 2025-11-25 |  |
+| **[Controllable Layer Decomposition for Reversible Multi-Layer Image Generation](https://arxiv.org/abs/2511.16249v2)** | 2025-11-25 | 19 pages, 14 figures |
+| **[Are Image-to-Video Models Good Zero-Shot Image Editors?](https://arxiv.org/abs/2511.19435v2)** | 2025-11-25 | technical report |
+| **[WeatherDiffusion: Controllable Weather Editing in Intrinsic Space](https://arxiv.org/abs/2508.06982v2)** | 2025-11-25 |  |
+| **[OmniAlpha: A Sequence-to-Sequence Framework for Unified Multi-Task RGBA Generation](https://arxiv.org/abs/2511.20211v1)** | 2025-11-25 |  |
+| **[UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers](https://arxiv.org/abs/2511.20123v1)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project page: https://thu-ml.github.io/UltraViCo.github.io/</p></details> |
+| **[Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation](https://arxiv.org/abs/2510.24821v2)** | 2025-11-25 | 18 pages, 5 figures |
+| **[Clair Obscur: an Illumination-Aware Method for Real-World Image Vectorization](https://arxiv.org/abs/2511.20034v1)** | 2025-11-25 |  |
+| **[LayerComposer: Multi-Human Personalized Generation via Layered Canvas](https://arxiv.org/abs/2510.20820v3)** | 2025-11-25 | <details><summary>17 pa...</summary><p>17 pages including appendix, preprint. Project page: https://snap-research.github.io/layercomposer/</p></details> |
+| **[OmniRefiner: Reinforcement-Guided Local Diffusion Refinement](https://arxiv.org/abs/2511.19990v1)** | 2025-11-25 |  |
+| **[LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction](https://arxiv.org/abs/2412.15447v3)** | 2025-11-25 | RA-L 2025 |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LEANN: A Low-Storage Vector Index](https://arxiv.org/abs/2506.08276v2)** | 2025-11-25 |  |
 | **[SA-Person: Text-Based Person Retrieval with Scene-aware Re-ranking](https://arxiv.org/abs/2505.24466v3)** | 2025-11-22 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. Under review</p></details> |
 | **[Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Exercise Recommendation](https://arxiv.org/abs/2507.00032v2)** | 2025-11-17 |  |
 | **[GEA: Generation-Enhanced Alignment for Text-to-Image Person Retrieval](https://arxiv.org/abs/2511.10154v1)** | 2025-11-13 | 8pages,3figures |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation](https://arxiv.org/abs/2510.12316v1)** | 2025-10-14 |  |
 | **[Embedding the Teacher: Distilling vLLM Preferences for Scalable Image Retrieval](https://arxiv.org/abs/2510.12014v1)** | 2025-10-13 |  |
 | **[Unified Multi-Modal Interactive & Reactive 3D Motion Generation via Rectified Flow](https://arxiv.org/abs/2509.24099v2)** | 2025-10-13 | <details><summary>Under...</summary><p>Under review at ICLR 2026</p></details> |
-| **[Adapting and Evaluating Multimodal Large Language Models for Adolescent Idiopathic Scoliosis Self-Management: A Divide and Conquer Framework](https://arxiv.org/abs/2509.11645v2)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025 MLLMCP Workshop</p></details> |
 
 ## Clothes Changing Person ReID
 | **Title** | **Date** | **Comment** |
@@ -121,6 +121,12 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fighting AI with AI: Leveraging Foundation Models for Assuring AI-Enabled Safety-Critical Systems](https://arxiv.org/abs/2511.20627v1)** | 2025-11-25 |  |
+| **[ArtiBench and ArtiBrain: Benchmarking Generalizable Vision-Language Articulated Object Manipulation](https://arxiv.org/abs/2511.20330v1)** | 2025-11-25 |  |
+| **[FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/abs/2509.13733v3)** | 2025-11-25 | <details><summary>Demo ...</summary><p>Demo video are available at https://horizonrobotics.github.io/robot_lab/fsr-vln/</p></details> |
+| **[Cross-Contrastive Clustering for Multimodal Attributed Graphs with Dual Graph Filtering](https://arxiv.org/abs/2511.20030v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2026. The code is available at https://github.com/HaoranZ99/DGF</p></details> |
+| **[Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation](https://arxiv.org/abs/2511.19859v1)** | 2025-11-25 |  |
+| **[CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization](https://arxiv.org/abs/2511.19661v1)** | 2025-11-24 |  |
 | **[SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation](https://arxiv.org/abs/2511.19425v1)** | 2025-11-24 |  |
 | **[The Geometry of Cortical Computation: Manifold Disentanglement and Predictive Dynamics in VCNet](https://arxiv.org/abs/2508.02995v3)** | 2025-11-24 | <details><summary>Publi...</summary><p>Published in the proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Symmetry and Geometry in Neural Representations (NeurReps). Additionally accepted for presentation in NeurIPS 2025 Workshop: Interpreting Cognition in Deep Learning Models (CogInterp)</p></details> |
 | **[EEG-VLM: A Hierarchical Vision-Language Model with Multi-Level Feature Alignment and Visually Enhanced Language-Guided Reasoning for EEG Image-Based Sleep Stage Prediction](https://arxiv.org/abs/2511.19155v1)** | 2025-11-24 |  |
@@ -130,10 +136,4 @@ labels: documentation
 | **[Hybrid Event Frame Sensors: Modeling, Calibration, and Simulation](https://arxiv.org/abs/2511.18037v1)** | 2025-11-22 |  |
 | **[GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model](https://arxiv.org/abs/2406.18572v4)** | 2025-11-22 |  |
 | **[MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://arxiv.org/abs/2511.17889v1)** | 2025-11-22 |  |
-| **[Learning to Upscale 3D Segmentations in Neuroimaging](https://arxiv.org/abs/2505.21697v2)** | 2025-11-22 | 13 pages, 4 figures |
-| **[Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition](https://arxiv.org/abs/2511.17183v1)** | 2025-11-21 |  |
-| **[VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2511.16449v2)** | 2025-11-21 |  |
-| **[Do Vision-Language Models Understand Visual Persuasiveness?](https://arxiv.org/abs/2511.17036v1)** | 2025-11-21 | <details><summary>8 pag...</summary><p>8 pages (except for reference and appendix), 5 figures, 7 tables, to be published in NeurIPS 2025 Workshop: VLM4RWD</p></details> |
-| **[DReX: Pure Vision Fusion of Self-Supervised and Convolutional Representations for Image Complexity Prediction](https://arxiv.org/abs/2511.16991v1)** | 2025-11-21 | 8 pages |
-| **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v1)** | 2025-11-20 |  |
 
