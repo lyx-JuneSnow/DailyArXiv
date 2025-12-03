@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniPerson: Unified Identity-Preserving Pedestrian Generation](https://arxiv.org/abs/2512.02554v1)** | 2025-12-02 |  |
 | **[The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)](https://arxiv.org/abs/2507.17640v2)** | 2025-11-25 |  |
 | **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v1)** | 2025-11-24 |  |
 | **[Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification](https://arxiv.org/abs/2310.17218v2)** | 2025-11-24 |  |
@@ -21,26 +22,25 @@ labels: documentation
 | **[FedKLPR: Personalized Federated Learning for Person Re-Identification with Adaptive Pruning](https://arxiv.org/abs/2508.17431v1)** | 2025-08-24 |  |
 | **[Attribute Guidance With Inherent Pseudo-label For Occluded Person Re-identification](https://arxiv.org/abs/2508.04998v1)** | 2025-08-07 | <details><summary>8 pag...</summary><p>8 pages, 2 supplement pages, 3 figures, ECAI2025</p></details> |
 | **[CLIPVehicle: A Unified Framework for Vision-based Vehicle Search](https://arxiv.org/abs/2508.04120v1)** | 2025-08-06 |  |
-| **[AG-VPReID.VIR: Bridging Aerial and Ground Platforms for Video-based Visible-Infrared Person Re-ID](https://arxiv.org/abs/2507.17995v1)** | 2025-07-24 | <details><summary>Accep...</summary><p>Accepted atIEEE International Joint Conference on Biometrics (IJCB) 2025</p></details> |
 
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues](https://arxiv.org/abs/2512.03046v1)** | 2025-12-02 | <details><summary>Code ...</summary><p>Code and demo available at https://magicquill.art/v2/</p></details> |
+| **[PPTArena: A Benchmark for Agentic PowerPoint Editing](https://arxiv.org/abs/2512.03042v1)** | 2025-12-02 | 25 pages, 26 figures |
+| **[In-Context Sync-LoRA for Portrait Video Editing](https://arxiv.org/abs/2512.03013v1)** | 2025-12-02 | <details><summary>Proje...</summary><p>Project page: https://sagipolaczek.github.io/Sync-LoRA/</p></details> |
+| **[LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization](https://arxiv.org/abs/2512.02933v1)** | 2025-12-02 |  |
+| **[Are Detectors Fair to Indian IP-AIGC? A Cross-Generator Study](https://arxiv.org/abs/2512.02850v1)** | 2025-12-02 |  |
+| **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://arxiv.org/abs/2511.22699v2)** | 2025-12-02 |  |
+| **[Rainbow Noise: Stress-Testing Multimodal Harmful-Meme Detectors on LGBTQ Content](https://arxiv.org/abs/2507.19551v3)** | 2025-12-02 | 14 pages, 1 figure |
+| **[DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction](https://arxiv.org/abs/2512.02263v1)** | 2025-12-01 |  |
+| **[Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code](https://arxiv.org/abs/2512.02170v1)** | 2025-12-01 | <details><summary>Submi...</summary><p>Submitted to EACL 2026 Demo Track</p></details> |
+| **[CoatFusion: Controllable Material Coating in Images](https://arxiv.org/abs/2512.02143v1)** | 2025-12-01 |  |
 | **[Generative Video Motion Editing with 3D Point Tracks](https://arxiv.org/abs/2512.02015v1)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project page: https://edit-by-track.github.io</p></details> |
 | **[TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models](https://arxiv.org/abs/2512.02014v1)** | 2025-12-01 | <details><summary>Proje...</summary><p>Project page: https://tuna-ai.org/</p></details> |
+| **[UnicEdit-10M: A Dataset and Benchmark Breaking the Scale-Quality Barrier via Unified Verification for Reasoning-Enriched Edits](https://arxiv.org/abs/2512.02790v1)** | 2025-12-01 | <details><summary>31 pa...</summary><p>31 pages, 15 figures, 12 tables</p></details> |
 | **[OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263v3)** | 2025-12-01 | <details><summary>20 pa...</summary><p>20 pages; Project Page: https://omnisvg.github.io/</p></details> |
 | **[FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing](https://arxiv.org/abs/2512.01755v1)** | 2025-12-01 |  |
-| **[ReasonEdit: Towards Reasoning-Enhanced Image Editing Models](https://arxiv.org/abs/2511.22625v2)** | 2025-12-01 | <details><summary>code:...</summary><p>code: https://github.com/stepfun-ai/Step1X-Edit</p></details> |
-| **[Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2512.01636v1)** | 2025-12-01 |  |
-| **[iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation](https://arxiv.org/abs/2511.20635v2)** | 2025-12-01 | <details><summary>Our h...</summary><p>Our homepage: https://kr1sjfu.github.io/iMontage-web/</p></details> |
-| **[Reversible Inversion for Training-Free Exemplar-guided Image Editing](https://arxiv.org/abs/2512.01382v1)** | 2025-12-01 |  |
-| **[Face-MakeUpV2: Facial Consistency Learning for Controllable Text-to-Image Generation](https://arxiv.org/abs/2510.21775v2)** | 2025-12-01 | <details><summary>Some ...</summary><p>Some errors in the critical data presented in Table 1 and Table 2</p></details> |
-| **[Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Charts Are Not Images: On the Challenges of Scientific Chart Editing](https://arxiv.org/abs/2512.00752v1)** | 2025-11-30 |  |
-| **[NeuroVolve: Evolving Visual Stimuli toward Programmable Neural Objectives](https://arxiv.org/abs/2512.00557v1)** | 2025-11-29 |  |
-| **[Recognizing Pneumonia in Real-World Chest X-rays with a Classifier Trained with Images Synthetically Generated by Nano Banana](https://arxiv.org/abs/2512.00428v1)** | 2025-11-29 | 9 pages |
-| **[WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](https://arxiv.org/abs/2512.00387v1)** | 2025-11-29 | <details><summary>32 pa...</summary><p>32 pages, 20 figures. Project Page: https://qnancy.github.io/wiseedit_project_page/</p></details> |
-| **[POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models](https://arxiv.org/abs/2512.00369v1)** | 2025-11-29 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -121,8 +121,11 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v2)** | 2025-12-02 |  |
+| **[Near-Memory Architecture for Threshold-Ordinal Surface-Based Corner Detection of Event Cameras](https://arxiv.org/abs/2512.02346v1)** | 2025-12-02 |  |
+| **[Exploring the Potentials of Spiking Neural Networks for Image Deraining](https://arxiv.org/abs/2512.02258v1)** | 2025-12-01 | Accepted By AAAI2026 |
+| **[Tiny but Mighty: A Software-Hardware Co-Design Approach for Efficient Multimodal Inference on Battery-Powered Small Devices](https://arxiv.org/abs/2510.05109v3)** | 2025-12-01 |  |
 | **[Disentangling Progress in Medical Image Registration: Beyond Trend-Driven Architectures towards Domain-Specific Strategies](https://arxiv.org/abs/2512.01913v1)** | 2025-12-01 | <details><summary>Submi...</summary><p>Submitted to Medical Image Analysis. Journal Extension of arXiv:2407.19274</p></details> |
-| **[OpenREAD: Reinforced Open-Ended Reasoing for End-to-End Autonomous Driving with LLM-as-Critic](https://arxiv.org/abs/2512.01830v1)** | 2025-12-01 |  |
 | **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v1)** | 2025-12-01 | 8 pages, 8 figures |
 | **[OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263v3)** | 2025-12-01 | <details><summary>20 pa...</summary><p>20 pages; Project Page: https://omnisvg.github.io/</p></details> |
 | **[Handwritten Text Recognition for Low Resource Languages](https://arxiv.org/abs/2512.01348v1)** | 2025-12-01 | 21 Pages |
@@ -133,7 +136,4 @@ labels: documentation
 | **[Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models](https://arxiv.org/abs/2509.24365v2)** | 2025-11-29 |  |
 | **[NeuroVolve: Evolving Visual Stimuli toward Programmable Neural Objectives](https://arxiv.org/abs/2512.00557v1)** | 2025-11-29 |  |
 | **[Modeling Rapid Contextual Learning in the Visual Cortex with Fast-Weight Deep Autoencoder Networks](https://arxiv.org/abs/2508.04988v2)** | 2025-11-29 |  |
-| **[S^2-KD: Semantic-Spectral Knowledge Distillation Spatiotemporal Forecasting](https://arxiv.org/abs/2512.00366v1)** | 2025-11-29 |  |
-| **[VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](https://arxiv.org/abs/2511.23386v1)** | 2025-11-28 | 19 pages, 10 figures |
-| **[Transformer-Driven Triple Fusion Framework for Enhanced Multimodal Author Intent Classification in Low-Resource Bangla](https://arxiv.org/abs/2511.23287v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted at the 28th International Conference on Computer and Information Technology (ICCIT 2025). To be published in IEEE proceedings</p></details> |
 
