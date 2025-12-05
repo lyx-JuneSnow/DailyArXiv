@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](https://arxiv.org/abs/2511.23002v2)** | 2025-12-04 | 31 pages, 18 figures |
+| **[EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture](https://arxiv.org/abs/2512.04810v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://emma-umm.github.io/emma/</p></details> |
+| **[I2I-Bench: A Comprehensive Benchmark Suite for Image-to-Image Editing Models](https://arxiv.org/abs/2512.04660v1)** | 2025-12-04 |  |
+| **[Multimodal Markup Document Models for Graphic Design Completion](https://arxiv.org/abs/2409.19051v2)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025, Project page: https://cyberagentailab.github.io/MarkupDM/</p></details> |
+| **[Refaçade: Editing Object with Given Reference Texture](https://arxiv.org/abs/2512.04534v1)** | 2025-12-04 |  |
+| **[ViDiC: Video Difference Captioning](https://arxiv.org/abs/2512.03405v2)** | 2025-12-04 |  |
 | **[DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment](https://arxiv.org/abs/2512.03981v1)** | 2025-12-03 |  |
 | **[Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence](https://arxiv.org/abs/2512.03905v1)** | 2025-12-03 | <details><summary>Code:...</summary><p>Code: https://github.com/Sunnycookies/FRESCO-v2, Project: https://williamyang1991.github.io/projects/FRESCOv2/</p></details> |
 | **[Flowchart2Mermaid: A Vision-Language Model Powered System for Converting Flowcharts into Editable Diagram Code](https://arxiv.org/abs/2512.02170v2)** | 2025-12-03 | <details><summary>Submi...</summary><p>Submitted to EACL 2026 Demo Track</p></details> |
@@ -34,19 +40,13 @@ labels: documentation
 | **[Global-Local Aware Scene Text Editing](https://arxiv.org/abs/2512.03574v1)** | 2025-12-03 |  |
 | **[Text-Printed Image: Bridging the Image-Text Modality Gap for Text-centric Training of Large Vision-Language Models](https://arxiv.org/abs/2512.03463v1)** | 2025-12-03 |  |
 | **[LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization](https://arxiv.org/abs/2512.02933v2)** | 2025-12-03 |  |
-| **[ViDiC: Video Difference Captioning](https://arxiv.org/abs/2512.03405v1)** | 2025-12-03 |  |
 | **[FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation](https://arxiv.org/abs/2512.03350v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://yuyuanspace.com/SeeU/</p></details> |
-| **[PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement](https://arxiv.org/abs/2512.03247v1)** | 2025-12-02 | <details><summary>Publi...</summary><p>Published in the Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying](https://arxiv.org/abs/2508.03142v2)** | 2025-12-02 |  |
-| **[MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues](https://arxiv.org/abs/2512.03046v1)** | 2025-12-02 | <details><summary>Code ...</summary><p>Code and demo available at https://magicquill.art/v2/</p></details> |
-| **[PPTArena: A Benchmark for Agentic PowerPoint Editing](https://arxiv.org/abs/2512.03042v1)** | 2025-12-02 | 25 pages, 26 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMAG: Mixed Memory-Augmented Generation for Large Language Models Applications](https://arxiv.org/abs/2512.01710v2)** | 2025-12-04 |  |
 | **[MemOS: A Memory OS for AI System](https://arxiv.org/abs/2507.03724v4)** | 2025-12-03 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 5 tables</p></details> |
-| **[MMAG: Mixed Memory-Augmented Generation for Large Language Models Applications](https://arxiv.org/abs/2512.01710v1)** | 2025-12-01 |  |
 | **[IVCR-200K: A Large-Scale Multi-turn Dialogue Benchmark for Interactive Video Corpus Retrieval](https://arxiv.org/abs/2512.01312v1)** | 2025-12-01 | <details><summary>Accep...</summary><p>Accepted by SIGIR2025</p></details> |
 | **[Hybrid, Unified and Iterative: A Novel Framework for Text-based Person Anomaly Retrieval](https://arxiv.org/abs/2511.22470v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted on World Wide Web 2025 Workshop</p></details> |
 | **[LEANN: A Low-Storage Vector Index](https://arxiv.org/abs/2506.08276v2)** | 2025-11-25 |  |
@@ -83,6 +83,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
 | **[Eevee: Towards Close-up High-resolution Video-based Virtual Try-on](https://arxiv.org/abs/2511.18957v1)** | 2025-11-24 |  |
 | **[Rethinking Garment Conditioning in Diffusion-based Virtual Try-On](https://arxiv.org/abs/2511.18775v1)** | 2025-11-24 | <details><summary>15 pa...</summary><p>15 pages (including references and supplementary material), 10 figures, 7 tables. Code and pretrained models will be released</p></details> |
 | **[RefVTON: person-to-person Try on with Additional Unpaired Visual Reference](https://arxiv.org/abs/2511.00956v3)** | 2025-11-22 |  |
@@ -97,11 +98,11 @@ labels: documentation
 | **[Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection](https://arxiv.org/abs/2510.07654v1)** | 2025-10-09 | <details><summary>5 pag...</summary><p>5 pages (including references), 4 figures. Code and models will be released upon publication</p></details> |
 | **[AvatarVTON: 4D Virtual Try-On for Animatable Avatars](https://arxiv.org/abs/2510.04822v1)** | 2025-10-06 |  |
 | **[DS-VTON: An Enhanced Dual-Scale Coarse-to-Fine Framework for Virtual Try-On](https://arxiv.org/abs/2506.00908v2)** | 2025-10-05 |  |
-| **[DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing](https://arxiv.org/abs/2510.04797v1)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to CVPR 2025 and Published at CVPR 2025 AI for Content Creation workshop</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
 | **[Tuning for TraceTarnish: Techniques, Trends, and Testing Tangible Traits](https://arxiv.org/abs/2512.03465v1)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 2 tables</p></details> |
 | **[A Formalization of the Ionescu-Tulcea Theorem in Mathlib](https://arxiv.org/abs/2506.18616v4)** | 2025-12-01 |  |
 | **[A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning](https://arxiv.org/abs/2501.01774v4)** | 2025-11-30 | <details><summary>This ...</summary><p>This work has been accepted for spotlight presentation (top 3% of papers) at NeurIPS 2025</p></details> |
@@ -116,11 +117,12 @@ labels: documentation
 | **[Safeguarding Privacy of Retrieval Data against Membership Inference Attacks: Is This Query Too Close to Home?](https://arxiv.org/abs/2505.22061v3)** | 2025-11-24 | <details><summary>Accep...</summary><p>Accepted for EMNLP findings 2025</p></details> |
 | **[Rethinking Garment Conditioning in Diffusion-based Virtual Try-On](https://arxiv.org/abs/2511.18775v1)** | 2025-11-24 | <details><summary>15 pa...</summary><p>15 pages (including references and supplementary material), 10 figures, 7 tables. Code and pretrained models will be released</p></details> |
 | **[Towards a General Framework for HTN Modeling with LLMs](https://arxiv.org/abs/2511.18165v1)** | 2025-11-22 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, to be published in the Workshop on Planning in the Era of LLMs ( LM4Plan - https://llmforplanning.github.io ) and the Workshop on Hierarchical Planning ( HPlan - https://icaps25.icaps-conference.org/program/workshops/hplan/ ), both in the International Conference on Automated Planning and Scheduling (ICAPS) 2025</p></details> |
-| **[Active Learning with Selective Time-Step Acquisition for PDEs](https://arxiv.org/abs/2511.18107v1)** | 2025-11-22 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[dVLM-AD: Enhance Diffusion Vision-Language-Model for Driving via Controllable Reasoning](https://arxiv.org/abs/2512.04459v1)** | 2025-12-04 |  |
+| **[ReasonX: MLLM-Guided Intrinsic Image Decomposition](https://arxiv.org/abs/2512.04222v1)** | 2025-12-03 |  |
 | **[PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation](https://arxiv.org/abs/2512.04025v1)** | 2025-12-03 | Tech report |
 | **[Hierarchical Vision Language Action Model Using Success and Failure Demonstrations](https://arxiv.org/abs/2512.03913v1)** | 2025-12-03 | <details><summary>https...</summary><p>https://vine-vla.github.io/</p></details> |
 | **[Exploring the Potentials of Spiking Neural Networks for Image Deraining](https://arxiv.org/abs/2512.02258v2)** | 2025-12-03 | Accepted By AAAI2026 |
@@ -134,6 +136,4 @@ labels: documentation
 | **[Disentangling Progress in Medical Image Registration: Beyond Trend-Driven Architectures towards Domain-Specific Strategies](https://arxiv.org/abs/2512.01913v1)** | 2025-12-01 | <details><summary>Submi...</summary><p>Submitted to Medical Image Analysis. Journal Extension of arXiv:2407.19274</p></details> |
 | **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v1)** | 2025-12-01 | 8 pages, 8 figures |
 | **[OmniSVG: A Unified Scalable Vector Graphics Generation Model](https://arxiv.org/abs/2504.06263v3)** | 2025-12-01 | <details><summary>20 pa...</summary><p>20 pages; Project Page: https://omnisvg.github.io/</p></details> |
-| **[Handwritten Text Recognition for Low Resource Languages](https://arxiv.org/abs/2512.01348v1)** | 2025-12-01 | 21 Pages |
-| **[Lost in Distortion: Uncovering the Domain Gap Between Computer Vision and Brain Imaging - A Study on Pretraining for Age Prediction](https://arxiv.org/abs/2512.01310v1)** | 2025-12-01 |  |
 
