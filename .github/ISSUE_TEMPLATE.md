@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v1)** | 2025-12-11 |  |
+| **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v1)** | 2025-12-11 |  |
+| **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/abs/2509.20427v3)** | 2025-12-10 | <details><summary>Seedr...</summary><p>Seedream 4.0/4.5 Technical Report</p></details> |
+| **[IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663v1)** | 2025-12-10 |  |
+| **[Aligning Text to Image in Diffusion Models is Easier Than You Think](https://arxiv.org/abs/2503.08250v5)** | 2025-12-10 | NeurIPS 2025 |
+| **[INRetouch: Context Aware Implicit Neural Representation for Photography Retouching](https://arxiv.org/abs/2412.03848v4)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted by WACV 2026</p></details> |
 | **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/adagorgun/PCI-Prompt-Controlled-Interventions</p></details> |
 | **[ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Consistent Attention](https://arxiv.org/abs/2512.08477v1)** | 2025-12-09 |  |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
@@ -35,12 +41,6 @@ labels: documentation
 | **[WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](https://arxiv.org/abs/2512.00387v2)** | 2025-12-08 | <details><summary>32 pa...</summary><p>32 pages, 20 figures. Project Page: https://qnancy.github.io/wiseedit_project_page/. Benchmark: https://huggingface.co/datasets/123123chen/WiseEdit-Benchmark/</p></details> |
 | **[LongCat-Image Technical Report](https://arxiv.org/abs/2512.07584v1)** | 2025-12-08 |  |
 | **[MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition](https://arxiv.org/abs/2512.07348v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Page: https://MICo-150K.github.io/</p></details> |
-| **[AdLift: Lifting Adversarial Perturbations to Safeguard 3D Gaussian Splatting Assets Against Instruction-Driven Editing](https://arxiv.org/abs/2512.07247v1)** | 2025-12-08 | <details><summary>40 pa...</summary><p>40 pages, 34 figures, 18 tables</p></details> |
-| **[EditThinker: Unlocking Iterative Reasoning for Any Image Editor](https://arxiv.org/abs/2512.05965v1)** | 2025-12-05 | <details><summary>Proje...</summary><p>Project page: https://appletea233.github.io/think-while-edit</p></details> |
-| **[2K-Characters-10K-Stories: A Quality-Gated Stylized Narrative Dataset with Disentangled Control and Sequence Consistency](https://arxiv.org/abs/2512.05557v1)** | 2025-12-05 |  |
-| **[V-CECE: Visual Counterfactual Explanations via Conceptual Edits](https://arxiv.org/abs/2509.16567v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2025</p></details> |
-| **[JarvisEvo: Towards a Self-Evolving Photo Editing Agent with Synergistic Editor-Evaluator Optimization](https://arxiv.org/abs/2511.23002v2)** | 2025-12-04 | 31 pages, 18 figures |
-| **[I2I-Bench: A Comprehensive Benchmark Suite for Image-to-Image Editing Models](https://arxiv.org/abs/2512.04660v1)** | 2025-12-04 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,8 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model](https://arxiv.org/abs/2512.09441v1)** | 2025-12-10 |  |
+| **[GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://arxiv.org/abs/2512.09396v1)** | 2025-12-10 |  |
 | **[An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features](https://arxiv.org/abs/2512.08782v1)** | 2025-12-09 |  |
 | **[VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack](https://arxiv.org/abs/2512.05853v2)** | 2025-12-08 |  |
 | **[Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection](https://arxiv.org/abs/2409.14985v4)** | 2025-12-08 | WACV 2026 |
@@ -107,8 +109,6 @@ labels: documentation
 | **[Password-Activated Shutdown Protocols for Misaligned Frontier Agents](https://arxiv.org/abs/2512.03089v1)** | 2025-11-29 |  |
 | **[Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union](https://arxiv.org/abs/2512.00312v1)** | 2025-11-29 | <details><summary>20 pa...</summary><p>20 pages; 9 figures, 8 tables. Submitted to the Journal of Quantitative Analysis in Sports (JQAS). Code & replication package: https://github.com/WhartonSABI/rugby-ep (data from a public source; mirrored in the repo with attribution). Preprint licensed CC BY 4.0</p></details> |
 | **[Natural Strategic Ability in Stochastic Multi-Agent Systems](https://arxiv.org/abs/2401.12170v2)** | 2025-11-26 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at AAAI 2024</p></details> |
-| **[Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals](https://arxiv.org/abs/2505.19386v2)** | 2025-11-26 | <details><summary>Camer...</summary><p>Camera ready version (NeurIPS 2025). Code and interactive demos at https://force-prompting.github.io/</p></details> |
-| **[A Remeshing Method via Adaptive Multiple Original-Facet-Clipping and Centroidal Voronoi Tessellation](https://arxiv.org/abs/2505.14306v2)** | 2025-11-26 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
