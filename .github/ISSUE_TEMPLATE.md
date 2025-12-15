@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 14, 2025
+title: Latest 15 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](https://arxiv.org/abs/2512.11715v1)** | 2025-12-12 |  |
+| **[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2512.11395v1)** | 2025-12-12 |  |
 | **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v1)** | 2025-12-11 |  |
 | **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v1)** | 2025-12-11 |  |
 | **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/abs/2509.20427v3)** | 2025-12-10 | <details><summary>Seedr...</summary><p>Seedream 4.0/4.5 Technical Report</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v1)** | 2025-12-08 | 38 pages |
 | **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://arxiv.org/abs/2511.22699v3)** | 2025-12-08 |  |
 | **[WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](https://arxiv.org/abs/2512.00387v2)** | 2025-12-08 | <details><summary>32 pa...</summary><p>32 pages, 20 figures. Project Page: https://qnancy.github.io/wiseedit_project_page/. Benchmark: https://huggingface.co/datasets/123123chen/WiseEdit-Benchmark/</p></details> |
-| **[LongCat-Image Technical Report](https://arxiv.org/abs/2512.07584v1)** | 2025-12-08 |  |
-| **[MICo-150K: A Comprehensive Dataset Advancing Multi-Image Composition](https://arxiv.org/abs/2512.07348v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project Page: https://MICo-150K.github.io/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
