@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,10 +26,14 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CogniEdit: Dense Gradient Flow Optimization for Fine-Grained Image Editing](https://arxiv.org/abs/2512.13276v1)** | 2025-12-15 |  |
+| **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v2)** | 2025-12-14 | <details><summary>Techn...</summary><p>Technical Report. We propose MotionEdit, a dataset and benchmark for motion-centric image editing. We also introduce MotionNFT, a reward training framework to improve existing models with motion-aware guidance. Github: https://github.com/elainew728/motion-edit/</p></details> |
+| **[BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation](https://arxiv.org/abs/2512.12425v1)** | 2025-12-13 |  |
+| **[Color Bind: Exploring Color Perception in Text-to-Image Models](https://arxiv.org/abs/2508.19791v3)** | 2025-12-13 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
+| **[RealDrag: The First Dragging Benchmark with Real Target Image](https://arxiv.org/abs/2512.12287v1)** | 2025-12-13 |  |
 | **[EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](https://arxiv.org/abs/2512.11715v1)** | 2025-12-12 |  |
 | **[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2512.11395v1)** | 2025-12-12 |  |
 | **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v1)** | 2025-12-11 |  |
-| **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v1)** | 2025-12-11 |  |
 | **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/abs/2509.20427v3)** | 2025-12-10 | <details><summary>Seedr...</summary><p>Seedream 4.0/4.5 Technical Report</p></details> |
 | **[IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663v1)** | 2025-12-10 |  |
 | **[Aligning Text to Image in Diffusion Models is Easier Than You Think](https://arxiv.org/abs/2503.08250v5)** | 2025-12-10 | NeurIPS 2025 |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/adagorgun/PCI-Prompt-Controlled-Interventions</p></details> |
 | **[ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Consistent Attention](https://arxiv.org/abs/2512.08477v1)** | 2025-12-09 |  |
 | **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
-| **[Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality](https://arxiv.org/abs/2512.07951v1)** | 2025-12-08 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/LivingSwap</p></details> |
-| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v1)** | 2025-12-08 | 38 pages |
-| **[Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer](https://arxiv.org/abs/2511.22699v3)** | 2025-12-08 |  |
-| **[WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing](https://arxiv.org/abs/2512.00387v2)** | 2025-12-08 | <details><summary>32 pa...</summary><p>32 pages, 20 figures. Project Page: https://qnancy.github.io/wiseedit_project_page/. Benchmark: https://huggingface.co/datasets/123123chen/WiseEdit-Benchmark/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LikeBench: Evaluating Subjective Likability in LLMs for Personalization](https://arxiv.org/abs/2512.13077v1)** | 2025-12-15 |  |
+| **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v4)** | 2025-12-13 |  |
+| **[Shortest Paths in a Weighted Simplicial Complex](https://arxiv.org/abs/2506.12921v2)** | 2025-12-13 | <details><summary>Comme...</summary><p>Comments are welcome. 17 pages, 5 figures, added Bellman-Ford for Abstract Simplicial Complexes and Discovery Algorithms</p></details> |
 | **[Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model](https://arxiv.org/abs/2512.09441v1)** | 2025-12-10 |  |
 | **[GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://arxiv.org/abs/2512.09396v1)** | 2025-12-10 |  |
 | **[An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features](https://arxiv.org/abs/2512.08782v1)** | 2025-12-09 |  |
@@ -106,9 +109,6 @@ labels: documentation
 | **[Tuning for TraceTarnish: Techniques, Trends, and Testing Tangible Traits](https://arxiv.org/abs/2512.03465v1)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 2 tables</p></details> |
 | **[A Formalization of the Ionescu-Tulcea Theorem in Mathlib](https://arxiv.org/abs/2506.18616v4)** | 2025-12-01 |  |
 | **[A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning](https://arxiv.org/abs/2501.01774v4)** | 2025-11-30 | <details><summary>This ...</summary><p>This work has been accepted for spotlight presentation (top 3% of papers) at NeurIPS 2025</p></details> |
-| **[Password-Activated Shutdown Protocols for Misaligned Frontier Agents](https://arxiv.org/abs/2512.03089v1)** | 2025-11-29 |  |
-| **[Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union](https://arxiv.org/abs/2512.00312v1)** | 2025-11-29 | <details><summary>20 pa...</summary><p>20 pages; 9 figures, 8 tables. Submitted to the Journal of Quantitative Analysis in Sports (JQAS). Code & replication package: https://github.com/WhartonSABI/rugby-ep (data from a public source; mirrored in the repo with attribution). Preprint licensed CC BY 4.0</p></details> |
-| **[Natural Strategic Ability in Stochastic Multi-Agent Systems](https://arxiv.org/abs/2401.12170v2)** | 2025-11-26 | <details><summary>Exten...</summary><p>Extended version of the paper accepted at AAAI 2024</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
