@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v2)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://lewandofskee.github.io/projects/OpenVE</p></details> |
+| **[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](https://arxiv.org/abs/2512.14423v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page:https://synps26.github.io/</p></details> |
+| **[Towards Transferable Defense Against Malicious Image Edits](https://arxiv.org/abs/2512.14341v1)** | 2025-12-16 | 14 pages, 5 figures |
+| **[Dual Attention Guided Defense Against Malicious Edits](https://arxiv.org/abs/2512.14333v1)** | 2025-12-16 | 11 pages, 7 figures |
+| **[Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity](https://arxiv.org/abs/2512.14320v1)** | 2025-12-16 | 11 pages, 4 figures |
+| **[SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing](https://arxiv.org/abs/2512.14140v1)** | 2025-12-16 |  |
+| **[Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](https://arxiv.org/abs/2512.14008v1)** | 2025-12-16 | <details><summary>18 pa...</summary><p>18 pages (12 pages for the main paper and 6 pages for the appendix), 9 figures</p></details> |
 | **[CogniEdit: Dense Gradient Flow Optimization for Fine-Grained Image Editing](https://arxiv.org/abs/2512.13276v1)** | 2025-12-15 |  |
 | **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v2)** | 2025-12-14 | <details><summary>Techn...</summary><p>Technical Report. We propose MotionEdit, a dataset and benchmark for motion-centric image editing. We also introduce MotionNFT, a reward training framework to improve existing models with motion-aware guidance. Github: https://github.com/elainew728/motion-edit/</p></details> |
 | **[BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation](https://arxiv.org/abs/2512.12425v1)** | 2025-12-13 |  |
@@ -34,13 +41,6 @@ labels: documentation
 | **[EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](https://arxiv.org/abs/2512.11715v1)** | 2025-12-12 |  |
 | **[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2512.11395v1)** | 2025-12-12 |  |
 | **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v1)** | 2025-12-11 |  |
-| **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/abs/2509.20427v3)** | 2025-12-10 | <details><summary>Seedr...</summary><p>Seedream 4.0/4.5 Technical Report</p></details> |
-| **[IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting](https://arxiv.org/abs/2512.09663v1)** | 2025-12-10 |  |
-| **[Aligning Text to Image in Diffusion Models is Easier Than You Think](https://arxiv.org/abs/2503.08250v5)** | 2025-12-10 | NeurIPS 2025 |
-| **[INRetouch: Context Aware Implicit Neural Representation for Photography Retouching](https://arxiv.org/abs/2412.03848v4)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted by WACV 2026</p></details> |
-| **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v1)** | 2025-12-09 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/adagorgun/PCI-Prompt-Controlled-Interventions</p></details> |
-| **[ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Consistent Attention](https://arxiv.org/abs/2512.08477v1)** | 2025-12-09 |  |
-| **[Towards Explainable Bilingual Multimodal Misinformation Detection and Localization](https://arxiv.org/abs/2506.22930v3)** | 2025-12-09 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data](https://arxiv.org/abs/2512.14425v1)** | 2025-12-16 |  |
 | **[LikeBench: Evaluating Subjective Likability in LLMs for Personalization](https://arxiv.org/abs/2512.13077v1)** | 2025-12-15 |  |
 | **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v4)** | 2025-12-13 |  |
 | **[Shortest Paths in a Weighted Simplicial Complex](https://arxiv.org/abs/2506.12921v2)** | 2025-12-13 | <details><summary>Comme...</summary><p>Comments are welcome. 17 pages, 5 figures, added Bellman-Ford for Abstract Simplicial Complexes and Discovery Algorithms</p></details> |
@@ -108,7 +109,6 @@ labels: documentation
 | **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
 | **[Tuning for TraceTarnish: Techniques, Trends, and Testing Tangible Traits](https://arxiv.org/abs/2512.03465v1)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 2 tables</p></details> |
 | **[A Formalization of the Ionescu-Tulcea Theorem in Mathlib](https://arxiv.org/abs/2506.18616v4)** | 2025-12-01 |  |
-| **[A Unifying View of Linear Function Approximation in Off-Policy RL Through Matrix Splitting and Preconditioning](https://arxiv.org/abs/2501.01774v4)** | 2025-11-30 | <details><summary>This ...</summary><p>This work has been accepted for spotlight presentation (top 3% of papers) at NeurIPS 2025</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
