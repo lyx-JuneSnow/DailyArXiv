@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 17, 2025
+title: Latest 15 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
+| **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
+| **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864v1)** | 2025-12-18 | <details><summary>Preci...</summary><p>Precise region control and planning for instruction-based image editing. Our project page: https://replan-iv-edit.github.io</p></details> |
+| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v1)** | 2025-12-18 | 17 pages, 11 figures |
+| **[TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering](https://arxiv.org/abs/2512.16270v1)** | 2025-12-18 |  |
+| **[Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://arxiv.org/abs/2512.15603v1)** | 2025-12-17 | 12 pages, 8 figures |
+| **[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](https://arxiv.org/abs/2512.14423v2)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page:https://synps26.github.io/</p></details> |
+| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v4)** | 2025-12-17 | Accepted to AAAI2026 |
+| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v2)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://lewandofskee.github.io/projects/OpenVE</p></details> |
-| **[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](https://arxiv.org/abs/2512.14423v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page:https://synps26.github.io/</p></details> |
 | **[Towards Transferable Defense Against Malicious Image Edits](https://arxiv.org/abs/2512.14341v1)** | 2025-12-16 | 14 pages, 5 figures |
 | **[Dual Attention Guided Defense Against Malicious Edits](https://arxiv.org/abs/2512.14333v1)** | 2025-12-16 | 11 pages, 7 figures |
 | **[Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity](https://arxiv.org/abs/2512.14320v1)** | 2025-12-16 | 11 pages, 4 figures |
 | **[SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing](https://arxiv.org/abs/2512.14140v1)** | 2025-12-16 |  |
 | **[Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](https://arxiv.org/abs/2512.14008v1)** | 2025-12-16 | <details><summary>18 pa...</summary><p>18 pages (12 pages for the main paper and 6 pages for the appendix), 9 figures</p></details> |
-| **[CogniEdit: Dense Gradient Flow Optimization for Fine-Grained Image Editing](https://arxiv.org/abs/2512.13276v1)** | 2025-12-15 |  |
-| **[MotionEdit: Benchmarking and Learning Motion-Centric Image Editing](https://arxiv.org/abs/2512.10284v2)** | 2025-12-14 | <details><summary>Techn...</summary><p>Technical Report. We propose MotionEdit, a dataset and benchmark for motion-centric image editing. We also introduce MotionNFT, a reward training framework to improve existing models with motion-aware guidance. Github: https://github.com/elainew728/motion-edit/</p></details> |
-| **[BokehDepth: Enhancing Monocular Depth Estimation through Bokeh Generation](https://arxiv.org/abs/2512.12425v1)** | 2025-12-13 |  |
-| **[Color Bind: Exploring Color Perception in Text-to-Image Models](https://arxiv.org/abs/2508.19791v3)** | 2025-12-13 | <details><summary>Proje...</summary><p>Project webpage: https://tau-vailab.github.io/color-edit/</p></details> |
-| **[RealDrag: The First Dragging Benchmark with Real Target Image](https://arxiv.org/abs/2512.12287v1)** | 2025-12-13 |  |
-| **[EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing](https://arxiv.org/abs/2512.11715v1)** | 2025-12-12 |  |
-| **[FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing](https://arxiv.org/abs/2512.11395v1)** | 2025-12-12 |  |
-| **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v1)** | 2025-12-11 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
 | **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
 | **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
@@ -89,11 +90,12 @@ labels: documentation
 | **[HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment](https://arxiv.org/abs/2505.19638v3)** | 2025-10-29 | <details><summary>After...</summary><p>After the publication of the paper, we discovered some significant errors/omissions that need to be corrected and improved</p></details> |
 | **[ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text](https://arxiv.org/abs/2501.16757v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 | **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](https://arxiv.org/abs/2509.25749v2)** | 2025-10-16 | 21 pages |
-| **[Once Is Enough: Lightweight DiT-Based Video Virtual Try-On via One-Time Garment Appearance Injection](https://arxiv.org/abs/2510.07654v1)** | 2025-10-09 | <details><summary>5 pag...</summary><p>5 pages (including references), 4 figures. Code and models will be released upon publication</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nested subspace learning with flags](https://arxiv.org/abs/2502.06022v2)** | 2025-12-18 |  |
+| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data](https://arxiv.org/abs/2512.14425v1)** | 2025-12-16 |  |
 | **[LikeBench: Evaluating Subjective Likability in LLMs for Personalization](https://arxiv.org/abs/2512.13077v1)** | 2025-12-15 |  |
 | **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v4)** | 2025-12-13 |  |
@@ -107,12 +109,12 @@ labels: documentation
 | **[Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots](https://arxiv.org/abs/2512.06207v1)** | 2025-12-05 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
 | **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
 | **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
-| **[Tuning for TraceTarnish: Techniques, Trends, and Testing Tangible Traits](https://arxiv.org/abs/2512.03465v1)** | 2025-12-03 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 2 tables</p></details> |
-| **[A Formalization of the Ionescu-Tulcea Theorem in Mathlib](https://arxiv.org/abs/2506.18616v4)** | 2025-12-01 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
+| **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v1)** | 2025-12-17 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
 | **[UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement](https://arxiv.org/abs/2512.06750v1)** | 2025-12-07 |  |
@@ -126,6 +128,4 @@ labels: documentation
 | **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](https://arxiv.org/abs/2506.22762v3)** | 2025-10-04 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper (3rd version)</p></details> |
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](https://arxiv.org/abs/2509.24022v1)** | 2025-09-28 | 9 pages |
 | **[DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](https://arxiv.org/abs/2509.23723v1)** | 2025-09-28 |  |
-| **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081v2)** | 2025-09-20 | Accepted by TMLR |
-| **[FS-Diff: Semantic guidance and clarity-aware simultaneous multimodal image fusion and super-resolution](https://arxiv.org/abs/2509.09427v1)** | 2025-09-11 |  |
 
