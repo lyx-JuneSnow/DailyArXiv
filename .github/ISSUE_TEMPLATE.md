@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 21, 2025
+title: Latest 15 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,10 +26,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
+| **[Region-Constraint In-Context Generation for Instructional Video Editing](https://arxiv.org/abs/2512.17650v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project page: https://zhw-zhang.github.io/ReCo-page/</p></details> |
+| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v2)** | 2025-12-19 | 17 pages, 11 figures |
+| **[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://arxiv.org/abs/2512.17459v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://3dregen.jdihlmann.com/</p></details> |
 | **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864v1)** | 2025-12-18 | <details><summary>Preci...</summary><p>Precise region control and planning for instruction-based image editing. Our project page: https://replan-iv-edit.github.io</p></details> |
-| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v1)** | 2025-12-18 | 17 pages, 11 figures |
 | **[TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering](https://arxiv.org/abs/2512.16270v1)** | 2025-12-18 |  |
 | **[Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://arxiv.org/abs/2512.15603v1)** | 2025-12-17 | 12 pages, 8 figures |
 | **[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](https://arxiv.org/abs/2512.14423v2)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page:https://synps26.github.io/</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v2)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://lewandofskee.github.io/projects/OpenVE</p></details> |
 | **[Towards Transferable Defense Against Malicious Image Edits](https://arxiv.org/abs/2512.14341v1)** | 2025-12-16 | 14 pages, 5 figures |
 | **[Dual Attention Guided Defense Against Malicious Edits](https://arxiv.org/abs/2512.14333v1)** | 2025-12-16 | 11 pages, 7 figures |
-| **[Semantic Mismatch and Perceptual Degradation: A New Perspective on Image Editing Immunity](https://arxiv.org/abs/2512.14320v1)** | 2025-12-16 | 11 pages, 4 figures |
-| **[SketchAssist: A Practical Assistant for Semantic Edits and Precise Local Redrawing](https://arxiv.org/abs/2512.14140v1)** | 2025-12-16 |  |
-| **[Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models](https://arxiv.org/abs/2512.14008v1)** | 2025-12-16 | <details><summary>18 pa...</summary><p>18 pages (12 pages for the main paper and 6 pages for the appendix), 9 figures</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian Optimisation: Which Constraints Matter?](https://arxiv.org/abs/2512.17569v1)** | 2025-12-19 |  |
 | **[Nested subspace learning with flags](https://arxiv.org/abs/2502.06022v2)** | 2025-12-18 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data](https://arxiv.org/abs/2512.14425v1)** | 2025-12-16 |  |
@@ -108,13 +109,12 @@ labels: documentation
 | **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
 | **[Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots](https://arxiv.org/abs/2512.06207v1)** | 2025-12-05 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
 | **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
-| **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v2)** | 2025-12-19 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
-| **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v1)** | 2025-12-17 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
 | **[UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement](https://arxiv.org/abs/2512.06750v1)** | 2025-12-07 |  |
