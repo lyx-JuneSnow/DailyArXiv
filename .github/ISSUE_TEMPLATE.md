@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
+| **[VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference](https://arxiv.org/abs/2512.18853v1)** | 2025-12-21 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis'26 TVCG Track)</p></details> |
+| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](https://arxiv.org/abs/2506.23484v4)** | 2025-12-21 |  |
+| **[Uni-Neur2Img: Unified Neural Signal-Guided Image Generation, Editing, and Stylization via Diffusion Transformers](https://arxiv.org/abs/2512.18635v1)** | 2025-12-21 |  |
+| **[Efficient Zero-Shot Inpainting with Decoupled Diffusion Guidance](https://arxiv.org/abs/2512.18365v1)** | 2025-12-20 | preprint |
 | **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
 | **[Region-Constraint In-Context Generation for Instructional Video Editing](https://arxiv.org/abs/2512.17650v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project page: https://zhw-zhang.github.io/ReCo-page/</p></details> |
 | **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v2)** | 2025-12-19 | 17 pages, 11 figures |
@@ -36,11 +41,6 @@ labels: documentation
 | **[TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering](https://arxiv.org/abs/2512.16270v1)** | 2025-12-18 |  |
 | **[Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://arxiv.org/abs/2512.15603v1)** | 2025-12-17 | 12 pages, 8 figures |
 | **[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](https://arxiv.org/abs/2512.14423v2)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page:https://synps26.github.io/</p></details> |
-| **[Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation](https://arxiv.org/abs/2508.07981v4)** | 2025-12-17 | Accepted to AAAI2026 |
-| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
-| **[OpenVE-3M: A Large-Scale High-Quality Dataset for Instruction-Guided Video Editing](https://arxiv.org/abs/2512.07826v2)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://lewandofskee.github.io/projects/OpenVE</p></details> |
-| **[Towards Transferable Defense Against Malicious Image Edits](https://arxiv.org/abs/2512.14341v1)** | 2025-12-16 | 14 pages, 5 figures |
-| **[Dual Attention Guided Defense Against Malicious Edits](https://arxiv.org/abs/2512.14333v1)** | 2025-12-16 | 11 pages, 7 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,8 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716v2)** | 2025-12-22 |  |
+| **[BARD: Reducing Write Latency of DDR5 Memory by Exploiting Bank-Parallelism](https://arxiv.org/abs/2512.18300v1)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
 | **[Bayesian Optimisation: Which Constraints Matter?](https://arxiv.org/abs/2512.17569v1)** | 2025-12-19 |  |
 | **[Nested subspace learning with flags](https://arxiv.org/abs/2502.06022v2)** | 2025-12-18 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
@@ -107,8 +109,6 @@ labels: documentation
 | **[VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack](https://arxiv.org/abs/2512.05853v2)** | 2025-12-08 |  |
 | **[Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection](https://arxiv.org/abs/2409.14985v4)** | 2025-12-08 | WACV 2026 |
 | **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
-| **[Where to Fly, What to Send: Communication-Aware Aerial Support for Ground Robots](https://arxiv.org/abs/2512.06207v1)** | 2025-12-05 | <details><summary>Submi...</summary><p>Submitted to conference</p></details> |
-| **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
