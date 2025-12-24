@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
 | **[The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)](https://arxiv.org/abs/2507.17640v2)** | 2025-11-25 |  |
 | **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v1)** | 2025-11-24 |  |
 | **[A review of Recent Techniques for Person Re-Identification](https://arxiv.org/abs/2509.22690v2)** | 2025-10-24 |  |
@@ -18,7 +19,6 @@ labels: documentation
 | **[Try Harder: Hard Sample Generation and Learning for Clothes-Changing Person Re-ID](https://arxiv.org/abs/2507.11119v1)** | 2025-07-15 |  |
 | **[S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification](https://arxiv.org/abs/2505.24401v1)** | 2025-05-30 |  |
 | **[Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](https://arxiv.org/abs/2505.20540v2)** | 2025-05-28 | 30 pages, 9 figures |
-| **[Differentiable Channel Selection in Self-Attention For Person Re-Identification](https://arxiv.org/abs/2505.08961v1)** | 2025-05-13 |  |
 | **[DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID](https://arxiv.org/abs/2503.22912v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025</p></details> |
 | **[Local-Aware Global Attention Network for Person Re-Identification Based on Body and Hand Images](https://arxiv.org/abs/2209.04821v4)** | 2025-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2108.02234</p></details> |
 | **[Synthetic-To-Real Video Person Re-ID](https://arxiv.org/abs/2402.02108v3)** | 2025-02-04 |  |
@@ -26,6 +26,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Regressor-Guided Generative Image Editing Balances User Emotions to Reduce Time Spent Online](https://arxiv.org/abs/2501.12289v2)** | 2025-12-23 | 44 pages, 22 figures |
+| **[SE360: Semantic Edit in 360$^\circ$ Panoramas via Hierarchical Data Construction](https://arxiv.org/abs/2512.19943v1)** | 2025-12-23 |  |
 | **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
 | **[VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference](https://arxiv.org/abs/2512.18853v1)** | 2025-12-21 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis'26 TVCG Track)</p></details> |
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](https://arxiv.org/abs/2506.23484v4)** | 2025-12-21 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864v1)** | 2025-12-18 | <details><summary>Preci...</summary><p>Precise region control and planning for instruction-based image editing. Our project page: https://replan-iv-edit.github.io</p></details> |
 | **[TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering](https://arxiv.org/abs/2512.16270v1)** | 2025-12-18 |  |
-| **[Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition](https://arxiv.org/abs/2512.15603v1)** | 2025-12-17 | 12 pages, 8 figures |
-| **[The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy](https://arxiv.org/abs/2512.14423v2)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page:https://synps26.github.io/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
 | **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
@@ -89,11 +90,13 @@ labels: documentation
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
 | **[HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment](https://arxiv.org/abs/2505.19638v3)** | 2025-10-29 | <details><summary>After...</summary><p>After the publication of the paper, we discovered some significant errors/omissions that need to be corrected and improved</p></details> |
 | **[ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text](https://arxiv.org/abs/2501.16757v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
-| **[ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On](https://arxiv.org/abs/2509.25749v2)** | 2025-10-16 | 21 pages |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Machine Learning to Predict Digital Frustration from Clickstream Data](https://arxiv.org/abs/2512.20438v1)** | 2025-12-23 | 17 pages, 5 figures |
+| **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
+| **[Game of Coding: Beyond Honest-Majority Assumptions](https://arxiv.org/abs/2401.16643v6)** | 2025-12-23 |  |
 | **[Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716v2)** | 2025-12-22 |  |
 | **[BARD: Reducing Write Latency of DDR5 Memory by Exploiting Bank-Parallelism](https://arxiv.org/abs/2512.18300v1)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
 | **[Bayesian Optimisation: Which Constraints Matter?](https://arxiv.org/abs/2512.17569v1)** | 2025-12-19 |  |
@@ -106,9 +109,6 @@ labels: documentation
 | **[Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model](https://arxiv.org/abs/2512.09441v1)** | 2025-12-10 |  |
 | **[GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://arxiv.org/abs/2512.09396v1)** | 2025-12-10 |  |
 | **[An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features](https://arxiv.org/abs/2512.08782v1)** | 2025-12-09 |  |
-| **[VRSA: Jailbreaking Multimodal Large Language Models through Visual Reasoning Sequential Attack](https://arxiv.org/abs/2512.05853v2)** | 2025-12-08 |  |
-| **[Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection](https://arxiv.org/abs/2409.14985v4)** | 2025-12-08 | WACV 2026 |
-| **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
