@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2512.20940v1)** | 2025-12-24 | 8 pages, 6 figures |
 | **[Machine Learning to Predict Digital Frustration from Clickstream Data](https://arxiv.org/abs/2512.20438v1)** | 2025-12-23 | 17 pages, 5 figures |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[Game of Coding: Beyond Honest-Majority Assumptions](https://arxiv.org/abs/2401.16643v6)** | 2025-12-23 |  |
@@ -108,7 +109,6 @@ labels: documentation
 | **[Shortest Paths in a Weighted Simplicial Complex](https://arxiv.org/abs/2506.12921v2)** | 2025-12-13 | <details><summary>Comme...</summary><p>Comments are welcome. 17 pages, 5 figures, added Bellman-Ford for Abstract Simplicial Complexes and Discovery Algorithms</p></details> |
 | **[Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model](https://arxiv.org/abs/2512.09441v1)** | 2025-12-10 |  |
 | **[GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://arxiv.org/abs/2512.09396v1)** | 2025-12-10 |  |
-| **[An Explainable AI Model for the Detecting Malicious Smart Contracts Based on EVM Opcode Based Features](https://arxiv.org/abs/2512.08782v1)** | 2025-12-09 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
