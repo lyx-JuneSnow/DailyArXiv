@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 28, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v2)** | 2025-12-25 | <details><summary>Neuro...</summary><p>Neurocomputing Volume 669, 7 March 2026, 132446</p></details> |
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
 | **[The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)](https://arxiv.org/abs/2507.17640v2)** | 2025-11-25 |  |
-| **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v1)** | 2025-11-24 |  |
 | **[A review of Recent Techniques for Person Re-Identification](https://arxiv.org/abs/2509.22690v2)** | 2025-10-24 |  |
 | **[Similarity-based Outlier Detection for Noisy Object Re-Identification Using Beta Mixtures](https://arxiv.org/abs/2509.08926v3)** | 2025-09-15 |  |
 | **[CHIRLA: Comprehensive High-resolution Identification and Re-identification for Large-scale Analysis](https://arxiv.org/abs/2502.06681v2)** | 2025-09-08 |  |
@@ -26,6 +26,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation](https://arxiv.org/abs/2508.20987v2)** | 2025-12-26 |  |
+| **[S$^2$Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](https://arxiv.org/abs/2507.04584v2)** | 2025-12-26 |  |
+| **[Training-Free Disentangled Text-Guided Image Editing via Sparse Latent Constraints](https://arxiv.org/abs/2512.21637v1)** | 2025-12-25 |  |
+| **[Toward Intelligent Scene Augmentation for Context-Aware Object Placement and Sponsor-Logo Integration](https://arxiv.org/abs/2512.21560v1)** | 2025-12-25 |  |
 | **[Regressor-Guided Generative Image Editing Balances User Emotions to Reduce Time Spent Online](https://arxiv.org/abs/2501.12289v2)** | 2025-12-23 | 44 pages, 22 figures |
 | **[SE360: Semantic Edit in 360$^\circ$ Panoramas via Hierarchical Data Construction](https://arxiv.org/abs/2512.19943v1)** | 2025-12-23 |  |
 | **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Region-Constraint In-Context Generation for Instructional Video Editing](https://arxiv.org/abs/2512.17650v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project page: https://zhw-zhang.github.io/ReCo-page/</p></details> |
 | **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v2)** | 2025-12-19 | 17 pages, 11 figures |
 | **[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://arxiv.org/abs/2512.17459v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://3dregen.jdihlmann.com/</p></details> |
-| **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
-| **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
-| **[RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing](https://arxiv.org/abs/2512.16864v1)** | 2025-12-18 | <details><summary>Preci...</summary><p>Precise region control and planning for instruction-based image editing. Our project page: https://replan-iv-edit.github.io</p></details> |
-| **[TextEditBench: Evaluating Reasoning-aware Text Editing Beyond Rendering](https://arxiv.org/abs/2512.16270v1)** | 2025-12-18 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[S&P 500 Stock's Movement Prediction using CNN](https://arxiv.org/abs/2512.21804v1)** | 2025-12-25 | <details><summary>9 pag...</summary><p>9 pages, 19 diagrams. Originally submitted as a part of my Stanford University program taught by Dr. Fei Fei Lee and Andrej Karpathy CS231N 2018</p></details> |
 | **[ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2512.20940v1)** | 2025-12-24 | 8 pages, 6 figures |
 | **[Machine Learning to Predict Digital Frustration from Clickstream Data](https://arxiv.org/abs/2512.20438v1)** | 2025-12-23 | 17 pages, 5 figures |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
@@ -108,7 +109,6 @@ labels: documentation
 | **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v4)** | 2025-12-13 |  |
 | **[Shortest Paths in a Weighted Simplicial Complex](https://arxiv.org/abs/2506.12921v2)** | 2025-12-13 | <details><summary>Comme...</summary><p>Comments are welcome. 17 pages, 5 figures, added Bellman-Ford for Abstract Simplicial Complexes and Discovery Algorithms</p></details> |
 | **[Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model](https://arxiv.org/abs/2512.09441v1)** | 2025-12-10 |  |
-| **[GAIR: GUI Automation via Information-Joint Reasoning and Group Reflection](https://arxiv.org/abs/2512.09396v1)** | 2025-12-10 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
