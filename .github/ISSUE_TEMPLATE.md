@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization](https://arxiv.org/abs/2512.23374v1)** | 2025-12-29 |  |
+| **[M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models](https://arxiv.org/abs/2512.22877v1)** | 2025-12-28 |  |
+| **[Envision: Embodied Visual Planning via Goal-Imagery Video Diffusion](https://arxiv.org/abs/2512.22626v1)** | 2025-12-27 | <details><summary>Page:...</summary><p>Page: https://envision-paper.github.io</p></details> |
+| **[RAVEL: Rare Concept Generation and Editing via Graph-driven Relational Guidance](https://arxiv.org/abs/2412.09614v2)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://ravel-diffusion.github.io/</p></details> |
+| **[SpotEdit: Selective Region Editing in Diffusion Transformers](https://arxiv.org/abs/2512.22323v1)** | 2025-12-26 | 14 pages, 8 figures |
 | **[Webly-Supervised Image Manipulation Localization via Category-Aware Auto-Annotation](https://arxiv.org/abs/2508.20987v2)** | 2025-12-26 |  |
 | **[S$^2$Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control](https://arxiv.org/abs/2507.04584v2)** | 2025-12-26 |  |
 | **[Training-Free Disentangled Text-Guided Image Editing via Sparse Latent Constraints](https://arxiv.org/abs/2512.21637v1)** | 2025-12-25 |  |
@@ -36,11 +41,6 @@ labels: documentation
 | **[VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference](https://arxiv.org/abs/2512.18853v1)** | 2025-12-21 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis'26 TVCG Track)</p></details> |
 | **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](https://arxiv.org/abs/2506.23484v4)** | 2025-12-21 |  |
 | **[Uni-Neur2Img: Unified Neural Signal-Guided Image Generation, Editing, and Stylization via Diffusion Transformers](https://arxiv.org/abs/2512.18635v1)** | 2025-12-21 |  |
-| **[Efficient Zero-Shot Inpainting with Decoupled Diffusion Guidance](https://arxiv.org/abs/2512.18365v1)** | 2025-12-20 | preprint |
-| **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
-| **[Region-Constraint In-Context Generation for Instructional Video Editing](https://arxiv.org/abs/2512.17650v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project page: https://zhw-zhang.github.io/ReCo-page/</p></details> |
-| **[DeContext as Defense: Safe Image Editing in Diffusion Transformers](https://arxiv.org/abs/2512.16625v2)** | 2025-12-19 | 17 pages, 11 figures |
-| **[3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://arxiv.org/abs/2512.17459v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://3dregen.jdihlmann.com/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,25 +94,26 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities](https://arxiv.org/abs/2512.23508v1)** | 2025-12-29 |  |
+| **[Computing Balanced Solutions for Large International Kidney Exchange Schemes When Cycle Length Is Unbounded](https://arxiv.org/abs/2312.16653v3)** | 2025-12-28 |  |
+| **[Chord Recognition with Deep Learning](https://arxiv.org/abs/2512.22621v1)** | 2025-12-27 |  |
 | **[S&P 500 Stock's Movement Prediction using CNN](https://arxiv.org/abs/2512.21804v1)** | 2025-12-25 | <details><summary>9 pag...</summary><p>9 pages, 19 diagrams. Originally submitted as a part of my Stanford University program taught by Dr. Fei Fei Lee and Andrej Karpathy CS231N 2018</p></details> |
 | **[ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2512.20940v1)** | 2025-12-24 | 8 pages, 6 figures |
 | **[Machine Learning to Predict Digital Frustration from Clickstream Data](https://arxiv.org/abs/2512.20438v1)** | 2025-12-23 | 17 pages, 5 figures |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[Game of Coding: Beyond Honest-Majority Assumptions](https://arxiv.org/abs/2401.16643v6)** | 2025-12-23 |  |
+| **[On Extending Semantic Abstraction for Efficient Search of Hidden Objects](https://arxiv.org/abs/2512.22220v1)** | 2025-12-22 |  |
 | **[Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716v2)** | 2025-12-22 |  |
 | **[BARD: Reducing Write Latency of DDR5 Memory by Exploiting Bank-Parallelism](https://arxiv.org/abs/2512.18300v1)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
 | **[Bayesian Optimisation: Which Constraints Matter?](https://arxiv.org/abs/2512.17569v1)** | 2025-12-19 |  |
 | **[Nested subspace learning with flags](https://arxiv.org/abs/2502.06022v2)** | 2025-12-18 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data](https://arxiv.org/abs/2512.14425v1)** | 2025-12-16 |  |
-| **[LikeBench: Evaluating Subjective Likability in LLMs for Personalization](https://arxiv.org/abs/2512.13077v1)** | 2025-12-15 |  |
-| **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v4)** | 2025-12-13 |  |
-| **[Shortest Paths in a Weighted Simplicial Complex](https://arxiv.org/abs/2506.12921v2)** | 2025-12-13 | <details><summary>Comme...</summary><p>Comments are welcome. 17 pages, 5 figures, added Bellman-Ford for Abstract Simplicial Complexes and Discovery Algorithms</p></details> |
-| **[Representation Calibration and Uncertainty Guidance for Class-Incremental Learning based on Vision Language Model](https://arxiv.org/abs/2512.09441v1)** | 2025-12-10 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](https://arxiv.org/abs/2509.24022v2)** | 2025-12-28 | 9 pages |
 | **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v2)** | 2025-12-19 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
 | **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
@@ -126,6 +127,5 @@ labels: documentation
 | **[Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement](https://arxiv.org/abs/2510.17105v1)** | 2025-10-20 |  |
 | **[Blind Video Super-Resolution based on Implicit Kernels](https://arxiv.org/abs/2503.07856v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](https://arxiv.org/abs/2506.22762v3)** | 2025-10-04 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper (3rd version)</p></details> |
-| **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](https://arxiv.org/abs/2509.24022v1)** | 2025-09-28 | 9 pages |
 | **[DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](https://arxiv.org/abs/2509.23723v1)** | 2025-09-28 |  |
 
