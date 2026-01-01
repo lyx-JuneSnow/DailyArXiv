@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 31, 2025
+title: Latest 15 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://edit3r.github.io/edit3r/</p></details> |
+| **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](https://arxiv.org/abs/2506.23361v3)** | 2025-12-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
 | **[NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization](https://arxiv.org/abs/2512.23374v1)** | 2025-12-29 |  |
 | **[M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models](https://arxiv.org/abs/2512.22877v1)** | 2025-12-28 |  |
 | **[Envision: Embodied Visual Planning via Goal-Imagery Video Diffusion](https://arxiv.org/abs/2512.22626v1)** | 2025-12-27 | <details><summary>Page:...</summary><p>Page: https://envision-paper.github.io</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[SE360: Semantic Edit in 360$^\circ$ Panoramas via Hierarchical Data Construction](https://arxiv.org/abs/2512.19943v1)** | 2025-12-23 |  |
 | **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
 | **[VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference](https://arxiv.org/abs/2512.18853v1)** | 2025-12-21 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis'26 TVCG Track)</p></details> |
-| **[TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity](https://arxiv.org/abs/2506.23484v4)** | 2025-12-21 |  |
-| **[Uni-Neur2Img: Unified Neural Signal-Guided Image Generation, Editing, and Stylization via Diffusion Transformers](https://arxiv.org/abs/2512.18635v1)** | 2025-12-21 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
@@ -89,11 +90,12 @@ labels: documentation
 | **[PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos](https://arxiv.org/abs/2511.12935v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
 | **[HF-VTON: High-Fidelity Virtual Try-On via Consistent Geometric and Semantic Alignment](https://arxiv.org/abs/2505.19638v3)** | 2025-10-29 | <details><summary>After...</summary><p>After the publication of the paper, we discovered some significant errors/omissions that need to be corrected and improved</p></details> |
-| **[ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text](https://arxiv.org/abs/2501.16757v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
+| **[Application-Specific Power Side-Channel Attacks and Countermeasures: A Survey](https://arxiv.org/abs/2512.23785v1)** | 2025-12-29 |  |
 | **[Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities](https://arxiv.org/abs/2512.23508v1)** | 2025-12-29 |  |
 | **[Computing Balanced Solutions for Large International Kidney Exchange Schemes When Cycle Length Is Unbounded](https://arxiv.org/abs/2312.16653v3)** | 2025-12-28 |  |
 | **[Chord Recognition with Deep Learning](https://arxiv.org/abs/2512.22621v1)** | 2025-12-27 |  |
@@ -107,12 +109,12 @@ labels: documentation
 | **[BARD: Reducing Write Latency of DDR5 Memory by Exploiting Bank-Parallelism](https://arxiv.org/abs/2512.18300v1)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
 | **[Bayesian Optimisation: Which Constraints Matter?](https://arxiv.org/abs/2512.17569v1)** | 2025-12-19 |  |
 | **[Nested subspace learning with flags](https://arxiv.org/abs/2502.06022v2)** | 2025-12-18 |  |
-| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
-| **[Time and Relations into Focus: Ontological Foundations of Object-Centric Event Data](https://arxiv.org/abs/2512.14425v1)** | 2025-12-16 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653v1)** | 2025-12-31 |  |
+| **[Reinforced Diffusion: Learning to Push the Limits of Anisotropic Diffusion for Image Denoising](https://arxiv.org/abs/2512.24035v1)** | 2025-12-30 |  |
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](https://arxiv.org/abs/2509.24022v2)** | 2025-12-28 | 9 pages |
 | **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v2)** | 2025-12-19 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
@@ -126,6 +128,4 @@ labels: documentation
 | **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677v2)** | 2025-10-29 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, Accepted by NeurIPS 2025</p></details> |
 | **[Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement](https://arxiv.org/abs/2510.17105v1)** | 2025-10-20 |  |
 | **[Blind Video Super-Resolution based on Implicit Kernels](https://arxiv.org/abs/2503.07856v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
-| **[VSRM: A Robust Mamba-Based Framework for Video Super-Resolution](https://arxiv.org/abs/2506.22762v3)** | 2025-10-04 | <details><summary>Arxiv...</summary><p>Arxiv version of ICCV 2025 paper (3rd version)</p></details> |
-| **[DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](https://arxiv.org/abs/2509.23723v1)** | 2025-09-28 |  |
 
