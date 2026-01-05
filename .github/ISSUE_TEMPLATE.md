@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 04, 2026
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction](https://arxiv.org/abs/2601.00542v1)** | 2026-01-02 | 9 pages, 6 figures |
 | **[Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://edit3r.github.io/edit3r/</p></details> |
 | **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](https://arxiv.org/abs/2506.23361v3)** | 2025-12-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
 | **[NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization](https://arxiv.org/abs/2512.23374v1)** | 2025-12-29 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Regressor-Guided Generative Image Editing Balances User Emotions to Reduce Time Spent Online](https://arxiv.org/abs/2501.12289v2)** | 2025-12-23 | 44 pages, 22 figures |
 | **[SE360: Semantic Edit in 360$^\circ$ Panoramas via Hierarchical Data Construction](https://arxiv.org/abs/2512.19943v1)** | 2025-12-23 |  |
 | **[WaTeRFlow: Watermark Temporal Robustness via Flow Consistency](https://arxiv.org/abs/2512.19048v1)** | 2025-12-22 |  |
-| **[VizDefender: Unmasking Visualization Tampering through Proactive Localization and Intent Inference](https://arxiv.org/abs/2512.18853v1)** | 2025-12-21 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Visualization and Computer Graphics (IEEE PacificVis'26 TVCG Track)</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More](https://arxiv.org/abs/2601.00208v1)** | 2026-01-01 | 6 pages, 4 figures |
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
 | **[Application-Specific Power Side-Channel Attacks and Countermeasures: A Survey](https://arxiv.org/abs/2512.23785v1)** | 2025-12-29 |  |
 | **[Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities](https://arxiv.org/abs/2512.23508v1)** | 2025-12-29 |  |
@@ -108,7 +109,6 @@ labels: documentation
 | **[Efficiently Ranking Software Variants with Minimal Benchmarks](https://arxiv.org/abs/2509.06716v2)** | 2025-12-22 |  |
 | **[BARD: Reducing Write Latency of DDR5 Memory by Exploiting Bank-Parallelism](https://arxiv.org/abs/2512.18300v1)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted to HPCA 2026</p></details> |
 | **[Bayesian Optimisation: Which Constraints Matter?](https://arxiv.org/abs/2512.17569v1)** | 2025-12-19 |  |
-| **[Nested subspace learning with flags](https://arxiv.org/abs/2502.06022v2)** | 2025-12-18 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
