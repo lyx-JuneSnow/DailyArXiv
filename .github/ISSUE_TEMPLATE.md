@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v1)** | 2026-01-06 |  |
+| **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v2)** | 2026-01-06 |  |
+| **[LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing](https://arxiv.org/abs/2601.02987v1)** | 2026-01-06 |  |
+| **[FLUID: Training-Free Face De-identification via Latent Identity Substitution](https://arxiv.org/abs/2511.17005v2)** | 2026-01-06 |  |
+| **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
 | **[VIBE: Visual Instruction Based Editor](https://arxiv.org/abs/2601.02242v1)** | 2026-01-05 |  |
 | **[Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion](https://arxiv.org/abs/2601.02211v1)** | 2026-01-05 | 11 pages |
 | **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
@@ -36,11 +41,6 @@ labels: documentation
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v2)** | 2026-01-03 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction](https://arxiv.org/abs/2601.00542v1)** | 2026-01-02 | 9 pages, 6 figures |
 | **[Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://edit3r.github.io/edit3r/</p></details> |
-| **[OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions](https://arxiv.org/abs/2506.23361v3)** | 2025-12-31 | <details><summary>NeurI...</summary><p>NeurIPS 2025; A data construction pipeline and a diffusion Transformer framework for controllable subject-driven video customization</p></details> |
-| **[NeXT-IMDL: Build Benchmark for NeXT-Generation Image Manipulation Detection & Localization](https://arxiv.org/abs/2512.23374v1)** | 2025-12-29 |  |
-| **[M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models](https://arxiv.org/abs/2512.22877v1)** | 2025-12-28 |  |
-| **[Envision: Embodied Visual Planning via Goal-Imagery Video Diffusion](https://arxiv.org/abs/2512.22626v1)** | 2025-12-27 | <details><summary>Page:...</summary><p>Page: https://envision-paper.github.io</p></details> |
-| **[RAVEL: Rare Concept Generation and Editing via Graph-driven Relational Guidance](https://arxiv.org/abs/2412.09614v2)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://ravel-diffusion.github.io/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on](https://arxiv.org/abs/2601.02945v1)** | 2026-01-06 |  |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
@@ -89,13 +90,13 @@ labels: documentation
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v1)** | 2025-11-19 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[Clothing agnostic Pre-inpainting Virtual Try-ON](https://arxiv.org/abs/2509.17654v3)** | 2025-11-19 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
 | **[PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos](https://arxiv.org/abs/2511.12935v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off](https://arxiv.org/abs/2508.04825v2)** | 2025-11-05 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2025, project page: https://nxnai.github.io/Voost/</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on](https://arxiv.org/abs/2601.02945v1)** | 2026-01-06 |  |
+| **[RSwinV2-MD: An Enhanced Residual SwinV2 Transformer for Monkeypox Detection from Skin Images](https://arxiv.org/abs/2601.01835v2)** | 2026-01-06 | <details><summary>17 Pa...</summary><p>17 Pages, 7 Figures, 4 Tables</p></details> |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
-| **[RSwinV2-MD: An Enhanced Residual SwinV2 Transformer for Monkeypox Detection from Skin Images](https://arxiv.org/abs/2601.01835v1)** | 2026-01-05 | <details><summary>15 Pa...</summary><p>15 Pages, 7 Figures, 4 Tables</p></details> |
 | **[CatchAll: Repository-Aware Exception Handling with Knowledge-Guided LLMs](https://arxiv.org/abs/2601.01271v1)** | 2026-01-03 |  |
 | **[Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More](https://arxiv.org/abs/2601.00208v1)** | 2026-01-01 | 6 pages, 4 figures |
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
@@ -108,13 +109,12 @@ labels: documentation
 | **[Machine Learning to Predict Digital Frustration from Clickstream Data](https://arxiv.org/abs/2512.20438v1)** | 2025-12-23 | 17 pages, 5 figures |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[Game of Coding: Beyond Honest-Majority Assumptions](https://arxiv.org/abs/2401.16643v6)** | 2025-12-23 |  |
-| **[On Extending Semantic Abstraction for Efficient Search of Hidden Objects](https://arxiv.org/abs/2512.22220v1)** | 2025-12-22 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653v2)** | 2026-01-06 |  |
 | **[API: Empowering Generalizable Real-World Image Dehazing via Adaptive Patch Importance Learning](https://arxiv.org/abs/2601.01992v1)** | 2026-01-05 |  |
-| **[RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653v1)** | 2025-12-31 |  |
 | **[Reinforced Diffusion: Learning to Push the Limits of Anisotropic Diffusion for Image Denoising](https://arxiv.org/abs/2512.24035v1)** | 2025-12-30 |  |
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](https://arxiv.org/abs/2509.24022v2)** | 2025-12-28 | 9 pages |
 | **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v2)** | 2025-12-19 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
