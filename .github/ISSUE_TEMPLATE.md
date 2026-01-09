@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 07, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,13 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization](https://arxiv.org/abs/2601.05127v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/LooseRoPE/</p></details> |
+| **[OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images](https://arxiv.org/abs/2601.04915v1)** | 2026-01-08 |  |
+| **[MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing](https://arxiv.org/abs/2601.04589v1)** | 2026-01-08 |  |
+| **[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/abs/2510.08377v3)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
+| **[I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](https://arxiv.org/abs/2601.03741v1)** | 2026-01-07 |  |
+| **[ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing](https://arxiv.org/abs/2601.03467v1)** | 2026-01-06 |  |
+| **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v1)** | 2026-01-06 |  |
 | **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v1)** | 2026-01-06 |  |
 | **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v2)** | 2026-01-06 |  |
 | **[LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing](https://arxiv.org/abs/2601.02987v1)** | 2026-01-06 |  |
@@ -34,13 +41,6 @@ labels: documentation
 | **[VIBE: Visual Instruction Based Editor](https://arxiv.org/abs/2601.02242v1)** | 2026-01-05 |  |
 | **[Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion](https://arxiv.org/abs/2601.02211v1)** | 2026-01-05 | 11 pages |
 | **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
-| **[TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing](https://arxiv.org/abs/2601.01915v1)** | 2026-01-05 | <details><summary>a Con...</summary><p>a Conversational Assistant for Intelligent Image Editing</p></details> |
-| **[PICABench: How Far Are We from Physically Realistic Image Editing?](https://arxiv.org/abs/2510.17681v3)** | 2026-01-04 |  |
-| **[DeepInv: A Novel Self-supervised Learning Approach for Fast and Accurate Diffusion Inversion](https://arxiv.org/abs/2601.01487v1)** | 2026-01-04 |  |
-| **[Training-Free Video Editing via Optical Flow-Enhanced Score Distillation](https://arxiv.org/abs/2406.04888v3)** | 2026-01-04 |  |
-| **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v2)** | 2026-01-03 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
-| **[DynaDrag: Dynamic Drag-Style Image Editing by Motion Prediction](https://arxiv.org/abs/2601.00542v1)** | 2026-01-02 | 9 pages, 6 figures |
-| **[Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://edit3r.github.io/edit3r/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -113,6 +113,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quaternion-Hadamard Network: A Novel Defense Against Adversarial Attacks with a New Dataset](https://arxiv.org/abs/2502.10452v3)** | 2026-01-07 |  |
 | **[RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653v2)** | 2026-01-06 |  |
 | **[API: Empowering Generalizable Real-World Image Dehazing via Adaptive Patch Importance Learning](https://arxiv.org/abs/2601.01992v1)** | 2026-01-05 |  |
 | **[Reinforced Diffusion: Learning to Push the Limits of Anisotropic Diffusion for Image Denoising](https://arxiv.org/abs/2512.24035v1)** | 2025-12-30 |  |
@@ -127,5 +128,4 @@ labels: documentation
 | **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](https://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
 | **[FIPER: Factorized Features for Robust Image Super-Resolution and Compression](https://arxiv.org/abs/2410.18083v4)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://jayisaking.github.io/FIPER/</p></details> |
 | **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677v2)** | 2025-10-29 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, Accepted by NeurIPS 2025</p></details> |
-| **[Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement](https://arxiv.org/abs/2510.17105v1)** | 2025-10-20 |  |
 
