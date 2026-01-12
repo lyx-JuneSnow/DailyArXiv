@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 11, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,12 +26,14 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural-Driven Image Editing](https://arxiv.org/abs/2507.05397v3)** | 2026-01-09 | 22 pages, 14 figures |
+| **[Towards Generalized Multi-Image Editing for Unified Multimodal Models](https://arxiv.org/abs/2601.05572v1)** | 2026-01-09 | <details><summary>Proje...</summary><p>Project page: https://github.com/Pengchengpcx/MIE-UMM</p></details> |
+| **[ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing](https://arxiv.org/abs/2601.03467v2)** | 2026-01-09 |  |
 | **[LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization](https://arxiv.org/abs/2601.05127v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/LooseRoPE/</p></details> |
 | **[OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images](https://arxiv.org/abs/2601.04915v1)** | 2026-01-08 |  |
 | **[MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing](https://arxiv.org/abs/2601.04589v1)** | 2026-01-08 |  |
 | **[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/abs/2510.08377v3)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
 | **[I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](https://arxiv.org/abs/2601.03741v1)** | 2026-01-07 |  |
-| **[ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing](https://arxiv.org/abs/2601.03467v1)** | 2026-01-06 |  |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v1)** | 2026-01-06 |  |
 | **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v1)** | 2026-01-06 |  |
 | **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v2)** | 2026-01-06 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[FLUID: Training-Free Face De-identification via Latent Identity Substitution](https://arxiv.org/abs/2511.17005v2)** | 2026-01-06 |  |
 | **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
 | **[VIBE: Visual Instruction Based Editor](https://arxiv.org/abs/2601.02242v1)** | 2026-01-05 |  |
-| **[Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion](https://arxiv.org/abs/2601.02211v1)** | 2026-01-05 | 11 pages |
-| **[NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation](https://arxiv.org/abs/2601.02204v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://github.com/ByteVisionLab/NextFlow</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
 | **[VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on](https://arxiv.org/abs/2601.02945v1)** | 2026-01-06 |  |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
@@ -89,11 +90,14 @@ labels: documentation
 | **[One Model for All: Unified Try-On and Try-Off in Any Pose via LLM-Inspired Bidirectional Tweedie Diffusion](https://arxiv.org/abs/2508.04559v2)** | 2025-11-20 |  |
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v1)** | 2025-11-19 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[Clothing agnostic Pre-inpainting Virtual Try-ON](https://arxiv.org/abs/2509.17654v3)** | 2025-11-19 | <details><summary>Githu...</summary><p>Github : https://github.com/DevChoco/CAP-VTON</p></details> |
-| **[PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos](https://arxiv.org/abs/2511.12935v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
+| **[Forecasting Extreme Day and Night Heat in Paris](https://arxiv.org/abs/2508.12886v4)** | 2026-01-09 | <details><summary>5 fig...</summary><p>5 figures and 2 pseudocode tables. Revised with new technical material added. Prose edited. References updated</p></details> |
+| **[On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386v1)** | 2026-01-08 |  |
+| **[Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings](https://arxiv.org/abs/2601.05330v1)** | 2026-01-08 |  |
 | **[VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on](https://arxiv.org/abs/2601.02945v1)** | 2026-01-06 |  |
 | **[RSwinV2-MD: An Enhanced Residual SwinV2 Transformer for Monkeypox Detection from Skin Images](https://arxiv.org/abs/2601.01835v2)** | 2026-01-06 | <details><summary>17 Pa...</summary><p>17 Pages, 7 Figures, 4 Tables</p></details> |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
@@ -105,10 +109,6 @@ labels: documentation
 | **[Computing Balanced Solutions for Large International Kidney Exchange Schemes When Cycle Length Is Unbounded](https://arxiv.org/abs/2312.16653v3)** | 2025-12-28 |  |
 | **[Chord Recognition with Deep Learning](https://arxiv.org/abs/2512.22621v1)** | 2025-12-27 |  |
 | **[S&P 500 Stock's Movement Prediction using CNN](https://arxiv.org/abs/2512.21804v1)** | 2025-12-25 | <details><summary>9 pag...</summary><p>9 pages, 19 diagrams. Originally submitted as a part of my Stanford University program taught by Dr. Fei Fei Lee and Andrej Karpathy CS231N 2018</p></details> |
-| **[ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2512.20940v1)** | 2025-12-24 | 8 pages, 6 figures |
-| **[Machine Learning to Predict Digital Frustration from Clickstream Data](https://arxiv.org/abs/2512.20438v1)** | 2025-12-23 | 17 pages, 5 figures |
-| **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
-| **[Game of Coding: Beyond Honest-Majority Assumptions](https://arxiv.org/abs/2401.16643v6)** | 2025-12-23 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
