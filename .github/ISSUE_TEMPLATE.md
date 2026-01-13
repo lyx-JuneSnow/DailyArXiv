@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VENUS: Visual Editing with Noise Inversion Using Scene Graphs](https://arxiv.org/abs/2601.07219v1)** | 2026-01-12 |  |
+| **[Unified Personalized Understanding, Generating and Editing](https://arxiv.org/abs/2601.06965v1)** | 2026-01-11 |  |
+| **[RPO: Fine-Tuning Visual Generative Models via Rich Vision-Language Preferences](https://arxiv.org/abs/2503.11720v5)** | 2026-01-10 |  |
 | **[Neural-Driven Image Editing](https://arxiv.org/abs/2507.05397v3)** | 2026-01-09 | 22 pages, 14 figures |
 | **[Towards Generalized Multi-Image Editing for Unified Multimodal Models](https://arxiv.org/abs/2601.05572v1)** | 2026-01-09 | <details><summary>Proje...</summary><p>Project page: https://github.com/Pengchengpcx/MIE-UMM</p></details> |
 | **[ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing](https://arxiv.org/abs/2601.03467v2)** | 2026-01-09 |  |
 | **[LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization](https://arxiv.org/abs/2601.05127v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/LooseRoPE/</p></details> |
 | **[OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images](https://arxiv.org/abs/2601.04915v1)** | 2026-01-08 |  |
+| **[QwenStyle: Content-Preserving Style Transfer with Qwen-Image-Edit](https://arxiv.org/abs/2601.06202v1)** | 2026-01-08 | <details><summary>The c...</summary><p>The codes and models are released at https://github.com/witcherofresearch/Qwen-Image-Style-Transfer</p></details> |
 | **[MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing](https://arxiv.org/abs/2601.04589v1)** | 2026-01-08 |  |
 | **[UniVideo: Unified Understanding, Generation, and Editing for Videos](https://arxiv.org/abs/2510.08377v3)** | 2026-01-07 | <details><summary>Proje...</summary><p>Project Website https://congwei1230.github.io/UniVideo/</p></details> |
 | **[I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](https://arxiv.org/abs/2601.03741v1)** | 2026-01-07 |  |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v1)** | 2026-01-06 |  |
 | **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v1)** | 2026-01-06 |  |
 | **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v2)** | 2026-01-06 |  |
-| **[LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing](https://arxiv.org/abs/2601.02987v1)** | 2026-01-06 |  |
-| **[FLUID: Training-Free Face De-identification via Latent Identity Substitution](https://arxiv.org/abs/2511.17005v2)** | 2026-01-06 |  |
-| **[Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network](https://arxiv.org/abs/2601.02566v1)** | 2026-01-05 | <details><summary>Under...</summary><p>Under review for journal publication</p></details> |
-| **[VIBE: Visual Instruction Based Editor](https://arxiv.org/abs/2601.02242v1)** | 2026-01-05 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
