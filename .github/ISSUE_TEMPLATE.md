@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 13, 2026
+title: Latest 15 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs](https://arxiv.org/abs/2601.08470v1)** | 2026-01-13 |  |
 | **[VENUS: Visual Editing with Noise Inversion Using Scene Graphs](https://arxiv.org/abs/2601.07219v1)** | 2026-01-12 |  |
 | **[Unified Personalized Understanding, Generating and Editing](https://arxiv.org/abs/2601.06965v1)** | 2026-01-11 |  |
 | **[RPO: Fine-Tuning Visual Generative Models via Rich Vision-Language Preferences](https://arxiv.org/abs/2503.11720v5)** | 2026-01-10 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing](https://arxiv.org/abs/2601.03741v1)** | 2026-01-07 |  |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v1)** | 2026-01-06 |  |
 | **[Unified Thinker: A General Reasoning Modular Core for Image Generation](https://arxiv.org/abs/2601.03127v1)** | 2026-01-06 |  |
-| **[Evaluating Gemini Robotics Policies in a Veo World Simulator](https://arxiv.org/abs/2512.10675v2)** | 2026-01-06 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques](https://arxiv.org/abs/2601.07860v1)** | 2026-01-10 |  |
 | **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
 | **[Forecasting Extreme Day and Night Heat in Paris](https://arxiv.org/abs/2508.12886v4)** | 2026-01-09 | <details><summary>5 fig...</summary><p>5 figures and 2 pseudocode tables. Revised with new technical material added. Prose edited. References updated</p></details> |
 | **[On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386v1)** | 2026-01-08 |  |
@@ -108,11 +109,11 @@ labels: documentation
 | **[Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities](https://arxiv.org/abs/2512.23508v1)** | 2025-12-29 |  |
 | **[Computing Balanced Solutions for Large International Kidney Exchange Schemes When Cycle Length Is Unbounded](https://arxiv.org/abs/2312.16653v3)** | 2025-12-28 |  |
 | **[Chord Recognition with Deep Learning](https://arxiv.org/abs/2512.22621v1)** | 2025-12-27 |  |
-| **[S&P 500 Stock's Movement Prediction using CNN](https://arxiv.org/abs/2512.21804v1)** | 2025-12-25 | <details><summary>9 pag...</summary><p>9 pages, 19 diagrams. Originally submitted as a part of my Stanford University program taught by Dr. Fei Fei Lee and Andrej Karpathy CS231N 2018</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction](https://arxiv.org/abs/2601.08293v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Quaternion-Hadamard Network: A Novel Defense Against Adversarial Attacks with a New Dataset](https://arxiv.org/abs/2502.10452v3)** | 2026-01-07 |  |
 | **[RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence](https://arxiv.org/abs/2512.24653v2)** | 2026-01-06 |  |
 | **[API: Empowering Generalizable Real-World Image Dehazing via Adaptive Patch Importance Learning](https://arxiv.org/abs/2601.01992v1)** | 2026-01-05 |  |
@@ -127,5 +128,4 @@ labels: documentation
 | **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v1)** | 2025-11-20 |  |
 | **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](https://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
 | **[FIPER: Factorized Features for Robust Image Super-Resolution and Compression](https://arxiv.org/abs/2410.18083v4)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://jayisaking.github.io/FIPER/</p></details> |
-| **[RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation](https://arxiv.org/abs/2506.06677v2)** | 2025-10-29 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, Accepted by NeurIPS 2025</p></details> |
 
