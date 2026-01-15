@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -94,6 +94,8 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Build Code is Still Code: Finding the Antidote for Pipeline Poisoning](https://arxiv.org/abs/2601.08995v1)** | 2026-01-13 | <details><summary>2026 ...</summary><p>2026 IEEE/ACM 48th International Conference on Software Engineering. April 12--18, 2026. Rio de Janeiro, Brazil. 5 pages. 3 figures. 2 code listings. 1 table</p></details> |
+| **[First African Digital Humanism Summer School 2025](https://arxiv.org/abs/2601.08870v1)** | 2026-01-11 | <details><summary>Summe...</summary><p>Summer School Proceedings, 81 pages, 6 Articles plus Preface, Introduction, Conclusion</p></details> |
 | **[Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques](https://arxiv.org/abs/2601.07860v1)** | 2026-01-10 |  |
 | **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
 | **[Forecasting Extreme Day and Night Heat in Paris](https://arxiv.org/abs/2508.12886v4)** | 2026-01-09 | <details><summary>5 fig...</summary><p>5 figures and 2 pseudocode tables. Revised with new technical material added. Prose edited. References updated</p></details> |
@@ -107,8 +109,6 @@ labels: documentation
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
 | **[Application-Specific Power Side-Channel Attacks and Countermeasures: A Survey](https://arxiv.org/abs/2512.23785v1)** | 2025-12-29 |  |
 | **[Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities](https://arxiv.org/abs/2512.23508v1)** | 2025-12-29 |  |
-| **[Computing Balanced Solutions for Large International Kidney Exchange Schemes When Cycle Length Is Unbounded](https://arxiv.org/abs/2312.16653v3)** | 2025-12-28 |  |
-| **[Chord Recognition with Deep Learning](https://arxiv.org/abs/2512.22621v1)** | 2025-12-27 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
