@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -94,6 +94,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attend to what I say: Highlighting relevant content on slides](https://arxiv.org/abs/2601.10244v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Document Analysis and Recognition (ICDAR) 2025</p></details> |
+| **[PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary](https://arxiv.org/abs/2601.10201v1)** | 2026-01-15 |  |
+| **[MiLe Loss: a New Entropy-Weighed Loss for Mitigating the Bias of Learning Difficulties in Large Language Models](https://arxiv.org/abs/2310.19531v8)** | 2026-01-15 | <details><summary>This ...</summary><p>This paper has been accepted by NAACL 2024</p></details> |
 | **[Build Code is Still Code: Finding the Antidote for Pipeline Poisoning](https://arxiv.org/abs/2601.08995v1)** | 2026-01-13 | <details><summary>2026 ...</summary><p>2026 IEEE/ACM 48th International Conference on Software Engineering. April 12--18, 2026. Rio de Janeiro, Brazil. 5 pages. 3 figures. 2 code listings. 1 table</p></details> |
 | **[First African Digital Humanism Summer School 2025](https://arxiv.org/abs/2601.08870v1)** | 2026-01-11 | <details><summary>Summe...</summary><p>Summer School Proceedings, 81 pages, 6 Articles plus Preface, Introduction, Conclusion</p></details> |
 | **[Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques](https://arxiv.org/abs/2601.07860v1)** | 2026-01-10 |  |
@@ -106,9 +109,6 @@ labels: documentation
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
 | **[CatchAll: Repository-Aware Exception Handling with Knowledge-Guided LLMs](https://arxiv.org/abs/2601.01271v1)** | 2026-01-03 |  |
 | **[Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More](https://arxiv.org/abs/2601.00208v1)** | 2026-01-01 | 6 pages, 4 figures |
-| **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
-| **[Application-Specific Power Side-Channel Attacks and Countermeasures: A Survey](https://arxiv.org/abs/2512.23785v1)** | 2025-12-29 |  |
-| **[Why AI Safety Requires Uncertainty, Incomplete Preferences, and Non-Archimedean Utilities](https://arxiv.org/abs/2512.23508v1)** | 2025-12-29 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
