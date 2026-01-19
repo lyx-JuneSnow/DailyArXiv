@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 18, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Classification-Aware Super-Resolution Framework for Ship Targets in SAR Imagery](https://arxiv.org/abs/2508.06407v2)** | 2026-01-16 |  |
 | **[Attend to what I say: Highlighting relevant content on slides](https://arxiv.org/abs/2601.10244v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Document Analysis and Recognition (ICDAR) 2025</p></details> |
 | **[PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary](https://arxiv.org/abs/2601.10201v1)** | 2026-01-15 |  |
 | **[MiLe Loss: a New Entropy-Weighed Loss for Mitigating the Bias of Learning Difficulties in Large Language Models](https://arxiv.org/abs/2310.19531v8)** | 2026-01-15 | <details><summary>This ...</summary><p>This paper has been accepted by NAACL 2024</p></details> |
@@ -108,7 +109,6 @@ labels: documentation
 | **[RSwinV2-MD: An Enhanced Residual SwinV2 Transformer for Monkeypox Detection from Skin Images](https://arxiv.org/abs/2601.01835v2)** | 2026-01-06 | <details><summary>17 Pa...</summary><p>17 Pages, 7 Figures, 4 Tables</p></details> |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
 | **[CatchAll: Repository-Aware Exception Handling with Knowledge-Guided LLMs](https://arxiv.org/abs/2601.01271v1)** | 2026-01-03 |  |
-| **[Avoiding Thread Stalls and Switches in Key-Value Stores: New Latch-Free Techniques and More](https://arxiv.org/abs/2601.00208v1)** | 2026-01-01 | 6 pages, 4 figures |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
