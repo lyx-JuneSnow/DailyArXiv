@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption](https://arxiv.org/abs/2601.14738v1)** | 2026-01-21 |  |
 | **[GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter](https://arxiv.org/abs/2411.13794v2)** | 2026-01-20 | 10 pages, 6 figures |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v2)** | 2026-01-20 |  |
 | **[ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation](https://arxiv.org/abs/2511.14259v3)** | 2026-01-19 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Towards Generalized Multi-Image Editing for Unified Multimodal Models](https://arxiv.org/abs/2601.05572v1)** | 2026-01-09 | <details><summary>Proje...</summary><p>Project page: https://github.com/Pengchengpcx/MIE-UMM</p></details> |
 | **[ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing](https://arxiv.org/abs/2601.03467v2)** | 2026-01-09 |  |
 | **[LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization](https://arxiv.org/abs/2601.05127v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/LooseRoPE/</p></details> |
-| **[OnomaCompass: A Texture Exploration Interface that Shuttles between Words and Images](https://arxiv.org/abs/2601.04915v1)** | 2026-01-08 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v1)** | 2026-01-20 | 5pages, 3 figures |
 | **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
@@ -89,11 +90,12 @@ labels: documentation
 | **[Eevee: Towards Close-up High-resolution Video-based Virtual Try-on](https://arxiv.org/abs/2511.18957v1)** | 2025-11-24 |  |
 | **[Rethinking Garment Conditioning in Diffusion-based Virtual Try-On](https://arxiv.org/abs/2511.18775v1)** | 2025-11-24 | <details><summary>15 pa...</summary><p>15 pages (including references and supplementary material), 10 figures, 7 tables. Code and pretrained models will be released</p></details> |
 | **[RefVTON: person-to-person Try on with Additional Unpaired Visual Reference](https://arxiv.org/abs/2511.00956v3)** | 2025-11-22 |  |
-| **[One Model for All: Unified Try-On and Try-Off in Any Pose via LLM-Inspired Bidirectional Tweedie Diffusion](https://arxiv.org/abs/2508.04559v2)** | 2025-11-20 |  |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
+| **[GSINA: Improving Subgraph Extraction for Graph Invariant Learning via Graph Sinkhorn Attention](https://arxiv.org/abs/2402.07191v2)** | 2026-01-21 |  |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
 | **[Learning Fine-Grained Correspondence with Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation](https://arxiv.org/abs/2601.13565v1)** | 2026-01-20 | <details><summary>The s...</summary><p>The source code will be made publicly available at https://github.com/zjjqinyu/FiCoP</p></details> |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v1)** | 2026-01-20 | 5pages, 3 figures |
@@ -107,12 +109,11 @@ labels: documentation
 | **[First African Digital Humanism Summer School 2025](https://arxiv.org/abs/2601.08870v1)** | 2026-01-11 | <details><summary>Summe...</summary><p>Summer School Proceedings, 81 pages, 6 Articles plus Preface, Introduction, Conclusion</p></details> |
 | **[Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques](https://arxiv.org/abs/2601.07860v1)** | 2026-01-10 |  |
 | **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
-| **[Forecasting Extreme Day and Night Heat in Paris](https://arxiv.org/abs/2508.12886v4)** | 2026-01-09 | <details><summary>5 fig...</summary><p>5 figures and 2 pseudocode tables. Revised with new technical material added. Prose edited. References updated</p></details> |
-| **[On the Effect of Cheating in Chess](https://arxiv.org/abs/2601.05386v1)** | 2026-01-08 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v2)** | 2026-01-21 |  |
 | **[Exploring the Potentials of Spiking Neural Networks for Image Deraining](https://arxiv.org/abs/2512.02258v3)** | 2026-01-18 | Accepted By AAAI2026 |
 | **[M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction](https://arxiv.org/abs/2601.08293v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Quaternion-Hadamard Network: A Novel Defense Against Adversarial Attacks with a New Dataset](https://arxiv.org/abs/2502.10452v3)** | 2026-01-07 |  |
@@ -125,7 +126,6 @@ labels: documentation
 | **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
 | **[UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement](https://arxiv.org/abs/2512.06750v1)** | 2025-12-07 |  |
-| **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v1)** | 2025-11-20 |  |
 | **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](https://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
 | **[FIPER: Factorized Features for Robust Image Super-Resolution and Compression](https://arxiv.org/abs/2410.18083v4)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://jayisaking.github.io/FIPER/</p></details> |
 
