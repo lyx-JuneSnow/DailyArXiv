@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
+| **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](https://arxiv.org/abs/2508.10509v3)** | 2026-01-22 |  |
+| **[Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling](https://arxiv.org/abs/2601.15664v1)** | 2026-01-22 |  |
 | **[Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption](https://arxiv.org/abs/2601.14738v1)** | 2026-01-21 |  |
 | **[GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter](https://arxiv.org/abs/2411.13794v2)** | 2026-01-20 | 10 pages, 6 figures |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v2)** | 2026-01-20 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Unified Personalized Understanding, Generating and Editing](https://arxiv.org/abs/2601.06965v1)** | 2026-01-11 |  |
 | **[RPO: Fine-Tuning Visual Generative Models via Rich Vision-Language Preferences](https://arxiv.org/abs/2503.11720v5)** | 2026-01-10 |  |
 | **[Neural-Driven Image Editing](https://arxiv.org/abs/2507.05397v3)** | 2026-01-09 | 22 pages, 14 figures |
-| **[Towards Generalized Multi-Image Editing for Unified Multimodal Models](https://arxiv.org/abs/2601.05572v1)** | 2026-01-09 | <details><summary>Proje...</summary><p>Project page: https://github.com/Pengchengpcx/MIE-UMM</p></details> |
-| **[ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing](https://arxiv.org/abs/2601.03467v2)** | 2026-01-09 |  |
-| **[LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization](https://arxiv.org/abs/2601.05127v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://snap-research.github.io/LooseRoPE/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,9 +75,9 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
-| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v1)** | 2026-01-20 | 5pages, 3 figures |
 | **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
 | **[VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on](https://arxiv.org/abs/2601.02945v1)** | 2026-01-06 |  |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
@@ -94,11 +94,11 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[GSINA: Improving Subgraph Extraction for Graph Invariant Learning via Graph Sinkhorn Attention](https://arxiv.org/abs/2402.07191v2)** | 2026-01-21 |  |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
 | **[Learning Fine-Grained Correspondence with Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation](https://arxiv.org/abs/2601.13565v1)** | 2026-01-20 | <details><summary>The s...</summary><p>The source code will be made publicly available at https://github.com/zjjqinyu/FiCoP</p></details> |
-| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v1)** | 2026-01-20 | 5pages, 3 figures |
 | **[Tuning for TraceTarnish: Techniques, Trends, and Testing Tangible Traits](https://arxiv.org/abs/2512.03465v2)** | 2026-01-19 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 2 tables</p></details> |
 | **[Optimal Power Allocation and Sub-Optimal Channel Assignment for Downlink NOMA Systems Using Deep Reinforcement Learning](https://arxiv.org/abs/2601.12242v1)** | 2026-01-18 |  |
 | **[A Classification-Aware Super-Resolution Framework for Ship Targets in SAR Imagery](https://arxiv.org/abs/2508.06407v2)** | 2026-01-16 |  |
@@ -113,6 +113,7 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps](https://arxiv.org/abs/2601.15766v1)** | 2026-01-22 |  |
 | **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v2)** | 2026-01-21 |  |
 | **[Exploring the Potentials of Spiking Neural Networks for Image Deraining](https://arxiv.org/abs/2512.02258v3)** | 2026-01-18 | Accepted By AAAI2026 |
 | **[M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction](https://arxiv.org/abs/2601.08293v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -127,5 +128,4 @@ labels: documentation
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
 | **[UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement](https://arxiv.org/abs/2512.06750v1)** | 2025-12-07 |  |
 | **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](https://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
-| **[FIPER: Factorized Features for Robust Image Super-Resolution and Compression](https://arxiv.org/abs/2410.18083v4)** | 2025-11-01 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://jayisaking.github.io/FIPER/</p></details> |
 
