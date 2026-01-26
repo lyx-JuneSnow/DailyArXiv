@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 25, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss](https://arxiv.org/abs/2601.16645v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
 | **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](https://arxiv.org/abs/2508.10509v3)** | 2026-01-22 |  |
 | **[Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling](https://arxiv.org/abs/2601.15664v1)** | 2026-01-22 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[VENUS: Visual Editing with Noise Inversion Using Scene Graphs](https://arxiv.org/abs/2601.07219v1)** | 2026-01-12 |  |
 | **[Unified Personalized Understanding, Generating and Editing](https://arxiv.org/abs/2601.06965v1)** | 2026-01-11 |  |
 | **[RPO: Fine-Tuning Visual Generative Models via Rich Vision-Language Preferences](https://arxiv.org/abs/2503.11720v5)** | 2026-01-10 |  |
-| **[Neural-Driven Image Editing](https://arxiv.org/abs/2507.05397v3)** | 2026-01-09 | 22 pages, 14 figures |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
@@ -89,12 +90,14 @@ labels: documentation
 | **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
 | **[Eevee: Towards Close-up High-resolution Video-based Virtual Try-on](https://arxiv.org/abs/2511.18957v1)** | 2025-11-24 |  |
 | **[Rethinking Garment Conditioning in Diffusion-based Virtual Try-On](https://arxiv.org/abs/2511.18775v1)** | 2025-11-24 | <details><summary>15 pa...</summary><p>15 pages (including references and supplementary material), 10 figures, 7 tables. Code and pretrained models will be released</p></details> |
-| **[RefVTON: person-to-person Try on with Additional Unpaired Visual Reference](https://arxiv.org/abs/2511.00956v3)** | 2025-11-22 |  |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
+| **[On Best-of-Both-Worlds Fairness via Sum-of-Variances Minimization](https://arxiv.org/abs/2601.16579v1)** | 2026-01-23 |  |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
+| **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v1)** | 2026-01-21 |  |
 | **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[GSINA: Improving Subgraph Extraction for Graph Invariant Learning via Graph Sinkhorn Attention](https://arxiv.org/abs/2402.07191v2)** | 2026-01-21 |  |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
@@ -106,9 +109,6 @@ labels: documentation
 | **[PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary](https://arxiv.org/abs/2601.10201v1)** | 2026-01-15 |  |
 | **[MiLe Loss: a New Entropy-Weighed Loss for Mitigating the Bias of Learning Difficulties in Large Language Models](https://arxiv.org/abs/2310.19531v8)** | 2026-01-15 | <details><summary>This ...</summary><p>This paper has been accepted by NAACL 2024</p></details> |
 | **[Build Code is Still Code: Finding the Antidote for Pipeline Poisoning](https://arxiv.org/abs/2601.08995v1)** | 2026-01-13 | <details><summary>2026 ...</summary><p>2026 IEEE/ACM 48th International Conference on Software Engineering. April 12--18, 2026. Rio de Janeiro, Brazil. 5 pages. 3 figures. 2 code listings. 1 table</p></details> |
-| **[First African Digital Humanism Summer School 2025](https://arxiv.org/abs/2601.08870v1)** | 2026-01-11 | <details><summary>Summe...</summary><p>Summer School Proceedings, 81 pages, 6 Articles plus Preface, Introduction, Conclusion</p></details> |
-| **[Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques](https://arxiv.org/abs/2601.07860v1)** | 2026-01-10 |  |
-| **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
