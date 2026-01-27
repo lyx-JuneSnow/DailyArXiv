@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2026
+title: Latest 15 Papers - January 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance](https://arxiv.org/abs/2510.03906v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Proceedings (Oral), 5th Workshop on Image, Video, and Audio Quality Assessment in Computer Vision, with a focus on VLM and Diffusion Models</p></details> |
+| **[RemEdit: Efficient Diffusion Editing with Riemannian Geometry](https://arxiv.org/abs/2601.17927v1)** | 2026-01-25 |  |
+| **[DragNeXt: Rethinking Drag-Based Image Editing](https://arxiv.org/abs/2506.07611v2)** | 2026-01-25 | <details><summary>https...</summary><p>https://github.com/zhouyuan888888/DragNeXt</p></details> |
+| **[AlignUI: A Method for Designing LLM-Generated UIs Aligned with User Preferences](https://arxiv.org/abs/2601.17614v1)** | 2026-01-24 |  |
+| **[SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323v1)** | 2026-01-24 |  |
 | **[Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss](https://arxiv.org/abs/2601.16645v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
 | **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](https://arxiv.org/abs/2508.10509v3)** | 2026-01-22 |  |
@@ -36,11 +41,6 @@ labels: documentation
 | **[ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation](https://arxiv.org/abs/2511.14259v3)** | 2026-01-19 |  |
 | **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v3)** | 2026-01-19 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
 | **[Proc3D: Procedural 3D Generation and Parametric Editing of 3D Shapes with Large Language Models](https://arxiv.org/abs/2601.12234v1)** | 2026-01-18 |  |
-| **[Nixie: Efficient, Transparent Temporal Multiplexing for Consumer GPUs](https://arxiv.org/abs/2601.11743v1)** | 2026-01-16 |  |
-| **[Towards Safer Mobile Agents: Scalable Generation and Evaluation of Diverse Scenarios for VLMs](https://arxiv.org/abs/2601.08470v1)** | 2026-01-13 |  |
-| **[VENUS: Visual Editing with Noise Inversion Using Scene Graphs](https://arxiv.org/abs/2601.07219v1)** | 2026-01-12 |  |
-| **[Unified Personalized Understanding, Generating and Editing](https://arxiv.org/abs/2601.06965v1)** | 2026-01-11 |  |
-| **[RPO: Fine-Tuning Visual Generative Models via Rich Vision-Language Preferences](https://arxiv.org/abs/2503.11720v5)** | 2026-01-10 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -76,6 +76,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
+| **[GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088v1)** | 2026-01-23 | IEEE VR 2026 Poster |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
@@ -89,12 +90,14 @@ labels: documentation
 | **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
 | **[Not All Birds Look The Same: Identity-Preserving Generation For Birds](https://arxiv.org/abs/2512.04485v1)** | 2025-12-04 |  |
 | **[Eevee: Towards Close-up High-resolution Video-based Virtual Try-on](https://arxiv.org/abs/2511.18957v1)** | 2025-11-24 |  |
-| **[Rethinking Garment Conditioning in Diffusion-based Virtual Try-On](https://arxiv.org/abs/2511.18775v1)** | 2025-11-24 | <details><summary>15 pa...</summary><p>15 pages (including references and supplementary material), 10 figures, 7 tables. Code and pretrained models will be released</p></details> |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union](https://arxiv.org/abs/2512.00312v2)** | 2026-01-26 | <details><summary>20 pa...</summary><p>20 pages; 9 figures, 8 tables. Submitted to the Journal of Quantitative Analysis in Sports (JQAS). Code & replication package: https://github.com/WhartonSABI/rugby-ep (data from a public source; mirrored in the repo with attribution). Preprint licensed CC BY 4.0</p></details> |
+| **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](https://arxiv.org/abs/2509.20808v2)** | 2026-01-26 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
 | **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
+| **[GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088v1)** | 2026-01-23 | IEEE VR 2026 Poster |
 | **[On Best-of-Both-Worlds Fairness via Sum-of-Variances Minimization](https://arxiv.org/abs/2601.16579v1)** | 2026-01-23 |  |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v1)** | 2026-01-21 |  |
@@ -106,13 +109,11 @@ labels: documentation
 | **[Optimal Power Allocation and Sub-Optimal Channel Assignment for Downlink NOMA Systems Using Deep Reinforcement Learning](https://arxiv.org/abs/2601.12242v1)** | 2026-01-18 |  |
 | **[A Classification-Aware Super-Resolution Framework for Ship Targets in SAR Imagery](https://arxiv.org/abs/2508.06407v2)** | 2026-01-16 |  |
 | **[Attend to what I say: Highlighting relevant content on slides](https://arxiv.org/abs/2601.10244v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Document Analysis and Recognition (ICDAR) 2025</p></details> |
-| **[PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary](https://arxiv.org/abs/2601.10201v1)** | 2026-01-15 |  |
-| **[MiLe Loss: a New Entropy-Weighed Loss for Mitigating the Bias of Learning Difficulties in Large Language Models](https://arxiv.org/abs/2310.19531v8)** | 2026-01-15 | <details><summary>This ...</summary><p>This paper has been accepted by NAACL 2024</p></details> |
-| **[Build Code is Still Code: Finding the Antidote for Pipeline Poisoning](https://arxiv.org/abs/2601.08995v1)** | 2026-01-13 | <details><summary>2026 ...</summary><p>2026 IEEE/ACM 48th International Conference on Software Engineering. April 12--18, 2026. Rio de Janeiro, Brazil. 5 pages. 3 figures. 2 code listings. 1 table</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Q-Bench-Portrait: Benchmarking Multimodal Large Language Models on Portrait Image Quality Perception](https://arxiv.org/abs/2601.18346v1)** | 2026-01-26 |  |
 | **[LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps](https://arxiv.org/abs/2601.15766v1)** | 2026-01-22 |  |
 | **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v2)** | 2026-01-21 |  |
 | **[Exploring the Potentials of Spiking Neural Networks for Image Deraining](https://arxiv.org/abs/2512.02258v3)** | 2026-01-18 | Accepted By AAAI2026 |
@@ -127,5 +128,4 @@ labels: documentation
 | **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
 | **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
 | **[UARE: A Unified Vision-Language Model for Image Quality Assessment, Restoration, and Enhancement](https://arxiv.org/abs/2512.06750v1)** | 2025-12-07 |  |
-| **[GFix: Perceptually Enhanced Gaussian Splatting Video Compression](https://arxiv.org/abs/2511.06953v1)** | 2025-11-10 |  |
 
