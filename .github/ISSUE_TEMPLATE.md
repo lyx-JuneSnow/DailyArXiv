@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing](https://arxiv.org/abs/2511.11236v3)** | 2026-01-27 | Technical report |
+| **[SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing](https://arxiv.org/abs/2601.19180v1)** | 2026-01-27 |  |
 | **[From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance](https://arxiv.org/abs/2510.03906v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Proceedings (Oral), 5th Workshop on Image, Video, and Audio Quality Assessment in Computer Vision, with a focus on VLM and Diffusion Models</p></details> |
 | **[RemEdit: Efficient Diffusion Editing with Riemannian Geometry](https://arxiv.org/abs/2601.17927v1)** | 2026-01-25 |  |
 | **[DragNeXt: Rethinking Drag-Based Image Editing](https://arxiv.org/abs/2506.07611v2)** | 2026-01-25 | <details><summary>https...</summary><p>https://github.com/zhouyuan888888/DragNeXt</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter](https://arxiv.org/abs/2411.13794v2)** | 2026-01-20 | 10 pages, 6 figures |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v2)** | 2026-01-20 |  |
 | **[ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation](https://arxiv.org/abs/2511.14259v3)** | 2026-01-19 |  |
-| **[Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image](https://arxiv.org/abs/2512.16899v3)** | 2026-01-19 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/facebookresearch/MMRB2</p></details> |
-| **[Proc3D: Procedural 3D Generation and Parametric Editing of 3D Shapes with Large Language Models](https://arxiv.org/abs/2601.12234v1)** | 2026-01-18 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -113,8 +113,8 @@ labels: documentation
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps](https://arxiv.org/abs/2601.15766v2)** | 2026-01-27 |  |
 | **[Q-Bench-Portrait: Benchmarking Multimodal Large Language Models on Portrait Image Quality Perception](https://arxiv.org/abs/2601.18346v1)** | 2026-01-26 |  |
-| **[LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps](https://arxiv.org/abs/2601.15766v1)** | 2026-01-22 |  |
 | **[T2T-VICL: Unlocking the Boundaries of Cross-Task Visual In-Context Learning via Implicit Text-Driven VLMs](https://arxiv.org/abs/2511.16107v2)** | 2026-01-21 |  |
 | **[Exploring the Potentials of Spiking Neural Networks for Image Deraining](https://arxiv.org/abs/2512.02258v3)** | 2026-01-18 | Accepted By AAAI2026 |
 | **[M3SR: Multi-Scale Multi-Perceptual Mamba for Efficient Spectral Reconstruction](https://arxiv.org/abs/2601.08293v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
