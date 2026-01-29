@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 28, 2026
+title: Latest 15 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Person Re-ID in 2025: Supervised, Self-Supervised, and Language-Aligned. What Works?](https://arxiv.org/abs/2601.20598v1)** | 2026-01-28 |  |
 | **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v2)** | 2025-12-25 | <details><summary>Neuro...</summary><p>Neurocomputing Volume 669, 7 March 2026, 132446</p></details> |
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
 | **[The Early Bird Identifies the Worm: You Can't Beat a Head Start in Long-Term Body Re-ID (ECHO-BID)](https://arxiv.org/abs/2507.17640v2)** | 2025-11-25 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](https://arxiv.org/abs/2505.20540v2)** | 2025-05-28 | 30 pages, 9 figures |
 | **[DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID](https://arxiv.org/abs/2503.22912v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025</p></details> |
 | **[Local-Aware Global Attention Network for Person Re-Identification Based on Body and Hand Images](https://arxiv.org/abs/2209.04821v4)** | 2025-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2108.02234</p></details> |
-| **[Synthetic-To-Real Video Person Re-ID](https://arxiv.org/abs/2402.02108v3)** | 2025-02-04 |  |
 
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TeleStyle: Content-Preserving Style Transfer in Images and Videos](https://arxiv.org/abs/2601.20175v1)** | 2026-01-28 |  |
 | **[Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing](https://arxiv.org/abs/2511.11236v3)** | 2026-01-27 | Technical report |
 | **[SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing](https://arxiv.org/abs/2601.19180v1)** | 2026-01-27 |  |
 | **[From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance](https://arxiv.org/abs/2510.03906v2)** | 2026-01-26 | <details><summary>Accep...</summary><p>Accepted at WACV 2026 Proceedings (Oral), 5th Workshop on Image, Video, and Audio Quality Assessment in Computer Vision, with a focus on VLM and Diffusion Models</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption](https://arxiv.org/abs/2601.14738v1)** | 2026-01-21 |  |
 | **[GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter](https://arxiv.org/abs/2411.13794v2)** | 2026-01-20 | 10 pages, 6 figures |
 | **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v2)** | 2026-01-20 |  |
-| **[ManipShield: A Unified Framework for Image Manipulation Detection, Localization and Explanation](https://arxiv.org/abs/2511.14259v3)** | 2026-01-19 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
