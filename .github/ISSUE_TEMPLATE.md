@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PI-Light: Physics-Inspired Diffusion for Full-Image Relighting](https://arxiv.org/abs/2601.22135v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://arxiv.org/abs/2601.21542v1)** | 2026-01-29 |  |
+| **[SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323v2)** | 2026-01-29 |  |
+| **[MiLDEdit: Reasoning-Based Multi-Layer Design Document Editing](https://arxiv.org/abs/2601.04589v2)** | 2026-01-28 |  |
 | **[TeleStyle: Content-Preserving Style Transfer in Images and Videos](https://arxiv.org/abs/2601.20175v1)** | 2026-01-28 |  |
 | **[Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing](https://arxiv.org/abs/2511.11236v3)** | 2026-01-27 | Technical report |
 | **[SNR-Edit: Structure-Aware Noise Rectification for Inversion-Free Flow-Based Editing](https://arxiv.org/abs/2601.19180v1)** | 2026-01-27 |  |
@@ -33,14 +37,10 @@ labels: documentation
 | **[RemEdit: Efficient Diffusion Editing with Riemannian Geometry](https://arxiv.org/abs/2601.17927v1)** | 2026-01-25 |  |
 | **[DragNeXt: Rethinking Drag-Based Image Editing](https://arxiv.org/abs/2506.07611v2)** | 2026-01-25 | <details><summary>https...</summary><p>https://github.com/zhouyuan888888/DragNeXt</p></details> |
 | **[AlignUI: A Method for Designing LLM-Generated UIs Aligned with User Preferences](https://arxiv.org/abs/2601.17614v1)** | 2026-01-24 |  |
-| **[SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323v1)** | 2026-01-24 |  |
 | **[Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss](https://arxiv.org/abs/2601.16645v1)** | 2026-01-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing](https://arxiv.org/abs/2601.16125v1)** | 2026-01-22 | Under review |
 | **[A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection](https://arxiv.org/abs/2508.10509v3)** | 2026-01-22 |  |
 | **[Skywork UniPic 3.0: Unified Multi-Image Composition via Sequence Modeling](https://arxiv.org/abs/2601.15664v1)** | 2026-01-22 |  |
-| **[Safeguarding Facial Identity against Diffusion-based Face Swapping via Cascading Pathway Disruption](https://arxiv.org/abs/2601.14738v1)** | 2026-01-21 |  |
-| **[GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter](https://arxiv.org/abs/2411.13794v2)** | 2026-01-20 | 10 pages, 6 figures |
-| **[Edit2Restore:Few-Shot Image Restoration via Parameter-Efficient Adaptation of Pre-trained Editing Models](https://arxiv.org/abs/2601.03391v2)** | 2026-01-20 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
