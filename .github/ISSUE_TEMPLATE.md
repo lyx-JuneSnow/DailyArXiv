@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](https://arxiv.org/abs/2509.12203v3)** | 2026-02-03 | <details><summary>https...</summary><p>https://zxyin.github.io/LazyDrag</p></details> |
+| **[VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers](https://arxiv.org/abs/2602.03210v1)** | 2026-02-03 |  |
+| **[DuoGen: Towards General Purpose Interleaved Multimodal Generation](https://arxiv.org/abs/2602.00508v2)** | 2026-02-03 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://research.nvidia.com/labs/dir/duogen/</p></details> |
 | **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v1)** | 2026-02-02 |  |
 | **[How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing](https://arxiv.org/abs/2602.01851v1)** | 2026-02-02 | <details><summary>https...</summary><p>https://vibe-benchmark.github.io/</p></details> |
 | **[FlowBypass: Rectified Flow Trajectory Bypass for Training-Free Image Editing](https://arxiv.org/abs/2602.01805v1)** | 2026-02-02 |  |
@@ -35,12 +38,9 @@ labels: documentation
 | **[Position: Universal Aesthetic Alignment Narrows Artistic Expression](https://arxiv.org/abs/2512.11883v2)** | 2026-02-01 |  |
 | **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](https://arxiv.org/abs/2509.23909v3)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code, models, and benchmark: https://github.com/VectorSpaceLab/EditScore</p></details> |
 | **[Supervised sparse auto-encoders as unconstrained feature models for semantic composition](https://arxiv.org/abs/2602.00924v1)** | 2026-01-31 |  |
-| **[DuoGen: Towards General Purpose Interleaved Multimodal Generation](https://arxiv.org/abs/2602.00508v1)** | 2026-01-31 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://research.nvidia.com/labs/dir/duetgen/</p></details> |
 | **[World-Shaper: A Unified Framework for 360° Panoramic Editing](https://arxiv.org/abs/2602.00265v1)** | 2026-01-30 |  |
 | **[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://arxiv.org/abs/2601.21542v2)** | 2026-01-30 |  |
 | **[Antithetic Noise in Diffusion Models](https://arxiv.org/abs/2506.06185v2)** | 2026-01-30 | <details><summary>Code:...</summary><p>Code: https://github.com/jjia131/Antithetic-Noise-in-Diffusion-Models-page, Project Page: https://jjia131.github.io/Antithetic-Noise-in-Diffusion-Models-page/, Blog: https://jjia131.github.io/Antithetic-Noise-in-Diffusion-Models-page/static/blog/blog.html</p></details> |
-| **[PI-Light: Physics-Inspired Diffusion for Full-Image Relighting](https://arxiv.org/abs/2601.22135v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323v2)** | 2026-01-29 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[If It's Nice, Do It Twice: We Should Try Iterative Corpus Curation](https://arxiv.org/abs/2501.15280v2)** | 2026-02-03 |  |
+| **[Understanding Bug-Reproducing Tests: A First Empirical Study](https://arxiv.org/abs/2602.02965v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted for publication at AST 2026</p></details> |
+| **[Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations](https://arxiv.org/abs/2506.19004v2)** | 2026-02-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (spotlight)</p></details> |
 | **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
 | **[A Qualitative Study of IT Students' Skill Development: Comparing Online and Face- to-Face Learning Environments](https://arxiv.org/abs/2602.00799v1)** | 2026-01-31 |  |
 | **[Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model](https://arxiv.org/abs/2601.22838v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications. 16 pages, 10 figures</p></details> |
@@ -106,13 +109,11 @@ labels: documentation
 | **[On Best-of-Both-Worlds Fairness via Sum-of-Variances Minimization](https://arxiv.org/abs/2601.16579v1)** | 2026-01-23 |  |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v1)** | 2026-01-21 |  |
-| **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
-| **[GSINA: Improving Subgraph Extraction for Graph Invariant Learning via Graph Sinkhorn Attention](https://arxiv.org/abs/2402.07191v2)** | 2026-01-21 |  |
-| **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](https://arxiv.org/abs/2503.13745v3)** | 2026-02-02 | <details><summary>Final...</summary><p>Final version. Accepted at ACM Multimedia Systems (MMSys) 2026</p></details> |
 | **[Bridging Degradation Discrimination and Generation for Universal Image Restoration](https://arxiv.org/abs/2602.00579v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps](https://arxiv.org/abs/2601.15766v2)** | 2026-01-27 |  |
 | **[Q-Bench-Portrait: Benchmarking Multimodal Large Language Models on Portrait Image Quality Perception](https://arxiv.org/abs/2601.18346v1)** | 2026-01-26 |  |
@@ -127,5 +128,4 @@ labels: documentation
 | **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v2)** | 2025-12-19 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
 | **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
-| **[Diffusion Models for Image Restoration and Enhancement: A Comprehensive Survey](https://arxiv.org/abs/2308.09388v3)** | 2025-12-08 | <details><summary>Accep...</summary><p>Accepted by IJCV 2025</p></details> |
 
