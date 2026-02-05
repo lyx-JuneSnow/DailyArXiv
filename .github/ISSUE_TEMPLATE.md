@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 04, 2026
+title: Latest 15 Papers - February 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,10 +26,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v2)** | 2026-02-04 |  |
 | **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](https://arxiv.org/abs/2509.12203v3)** | 2026-02-03 | <details><summary>https...</summary><p>https://zxyin.github.io/LazyDrag</p></details> |
 | **[VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers](https://arxiv.org/abs/2602.03210v1)** | 2026-02-03 |  |
 | **[DuoGen: Towards General Purpose Interleaved Multimodal Generation](https://arxiv.org/abs/2602.00508v2)** | 2026-02-03 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://research.nvidia.com/labs/dir/duogen/</p></details> |
-| **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v1)** | 2026-02-02 |  |
 | **[How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing](https://arxiv.org/abs/2602.01851v1)** | 2026-02-02 | <details><summary>https...</summary><p>https://vibe-benchmark.github.io/</p></details> |
 | **[FlowBypass: Rectified Flow Trajectory Bypass for Training-Free Image Editing](https://arxiv.org/abs/2602.01805v1)** | 2026-02-02 |  |
 | **[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](https://arxiv.org/abs/2602.01382v1)** | 2026-02-01 |  |
@@ -94,6 +94,7 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nemotron ColEmbed V2: Top-Performing Late Interaction embedding models for Visual Document Retrieval](https://arxiv.org/abs/2602.03992v1)** | 2026-02-03 |  |
 | **[If It's Nice, Do It Twice: We Should Try Iterative Corpus Curation](https://arxiv.org/abs/2501.15280v2)** | 2026-02-03 |  |
 | **[Understanding Bug-Reproducing Tests: A First Empirical Study](https://arxiv.org/abs/2602.02965v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted for publication at AST 2026</p></details> |
 | **[Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations](https://arxiv.org/abs/2506.19004v2)** | 2026-02-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (spotlight)</p></details> |
@@ -108,7 +109,6 @@ labels: documentation
 | **[GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088v1)** | 2026-01-23 | IEEE VR 2026 Poster |
 | **[On Best-of-Both-Worlds Fairness via Sum-of-Variances Minimization](https://arxiv.org/abs/2601.16579v1)** | 2026-01-23 |  |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
-| **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v1)** | 2026-01-21 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
