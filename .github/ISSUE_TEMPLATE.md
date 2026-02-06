@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2026
+title: Latest 15 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Person Re-ID
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReText: Text Boosts Generalization in Image-Based Person Re-identification](https://arxiv.org/abs/2602.05785v1)** | 2026-02-05 |  |
 | **[Person Re-ID in 2025: Supervised, Self-Supervised, and Language-Aligned. What Works?](https://arxiv.org/abs/2601.20598v1)** | 2026-01-28 |  |
 | **[DynaMix: Generalizable Person Re-identification via Dynamic Relabeling and Mixed Data Sampling](https://arxiv.org/abs/2511.19067v2)** | 2025-12-25 | <details><summary>Neuro...</summary><p>Neurocomputing Volume 669, 7 March 2026, 132446</p></details> |
 | **[Learning Informative Attention Weights for Person Re-Identification](https://arxiv.org/abs/2505.08961v2)** | 2025-12-23 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification](https://arxiv.org/abs/2505.24401v1)** | 2025-05-30 |  |
 | **[Causality and "In-the-Wild" Video-Based Person Re-ID: A Survey](https://arxiv.org/abs/2505.20540v2)** | 2025-05-28 | 30 pages, 9 figures |
 | **[DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID](https://arxiv.org/abs/2503.22912v1)** | 2025-03-28 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025</p></details> |
-| **[Local-Aware Global Attention Network for Person Re-Identification Based on Body and Hand Images](https://arxiv.org/abs/2209.04821v4)** | 2025-03-01 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2108.02234</p></details> |
 
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization](https://arxiv.org/abs/2602.05577v1)** | 2026-02-05 | 11 pages, 7 figures |
 | **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v2)** | 2026-02-04 |  |
 | **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](https://arxiv.org/abs/2509.12203v3)** | 2026-02-03 | <details><summary>https...</summary><p>https://zxyin.github.io/LazyDrag</p></details> |
 | **[VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers](https://arxiv.org/abs/2602.03210v1)** | 2026-02-03 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Supervised sparse auto-encoders as unconstrained feature models for semantic composition](https://arxiv.org/abs/2602.00924v1)** | 2026-01-31 |  |
 | **[World-Shaper: A Unified Framework for 360° Panoramic Editing](https://arxiv.org/abs/2602.00265v1)** | 2026-01-30 |  |
 | **[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://arxiv.org/abs/2601.21542v2)** | 2026-01-30 |  |
-| **[Antithetic Noise in Diffusion Models](https://arxiv.org/abs/2506.06185v2)** | 2026-01-30 | <details><summary>Code:...</summary><p>Code: https://github.com/jjia131/Antithetic-Noise-in-Diffusion-Models-page, Project Page: https://jjia131.github.io/Antithetic-Noise-in-Diffusion-Models-page/, Blog: https://jjia131.github.io/Antithetic-Noise-in-Diffusion-Models-page/static/blog/blog.html</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,6 +94,10 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structure-Aware Computing, Partial Quantifier Elimination And SAT](https://arxiv.org/abs/2403.05928v8)** | 2026-02-05 |  |
+| **[NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain](https://arxiv.org/abs/2602.05334v1)** | 2026-02-05 | 14 pages, 6 figures |
+| **[Exceptional Behaviors: How Frequently Are They Tested?](https://arxiv.org/abs/2602.05123v1)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published at AST 2025</p></details> |
+| **[Learning Context Matters: Measuring and Diagnosing Personalization Gaps in LLM-Based Instructional Design](https://arxiv.org/abs/2602.04972v1)** | 2026-02-04 |  |
 | **[Nemotron ColEmbed V2: Top-Performing Late Interaction embedding models for Visual Document Retrieval](https://arxiv.org/abs/2602.03992v1)** | 2026-02-03 |  |
 | **[If It's Nice, Do It Twice: We Should Try Iterative Corpus Curation](https://arxiv.org/abs/2501.15280v2)** | 2026-02-03 |  |
 | **[Understanding Bug-Reproducing Tests: A First Empirical Study](https://arxiv.org/abs/2602.02965v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted for publication at AST 2026</p></details> |
@@ -105,10 +109,6 @@ labels: documentation
 | **[InstructPLM-mu: 1-Hour Fine-Tuning of ESM2 Beats ESM3 in Protein Mutation Predictions](https://arxiv.org/abs/2510.03370v3)** | 2026-01-30 | preprint |
 | **[Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union](https://arxiv.org/abs/2512.00312v2)** | 2026-01-26 | <details><summary>20 pa...</summary><p>20 pages; 9 figures, 8 tables. Submitted to the Journal of Quantitative Analysis in Sports (JQAS). Code & replication package: https://github.com/WhartonSABI/rugby-ep (data from a public source; mirrored in the repo with attribution). Preprint licensed CC BY 4.0</p></details> |
 | **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](https://arxiv.org/abs/2509.20808v2)** | 2026-01-26 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
-| **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
-| **[GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088v1)** | 2026-01-23 | IEEE VR 2026 Poster |
-| **[On Best-of-Both-Worlds Fairness via Sum-of-Variances Minimization](https://arxiv.org/abs/2601.16579v1)** | 2026-01-23 |  |
-| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
