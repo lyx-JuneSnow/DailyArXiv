@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](https://arxiv.org/abs/2508.15772v2)** | 2026-02-06 | <details><summary>ICLR ...</summary><p>ICLR 2026; Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
 | **[LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization](https://arxiv.org/abs/2602.05577v1)** | 2026-02-05 | 11 pages, 7 figures |
 | **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v2)** | 2026-02-04 |  |
 | **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](https://arxiv.org/abs/2509.12203v3)** | 2026-02-03 | <details><summary>https...</summary><p>https://zxyin.github.io/LazyDrag</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](https://arxiv.org/abs/2509.23909v3)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code, models, and benchmark: https://github.com/VectorSpaceLab/EditScore</p></details> |
 | **[Supervised sparse auto-encoders as unconstrained feature models for semantic composition](https://arxiv.org/abs/2602.00924v1)** | 2026-01-31 |  |
 | **[World-Shaper: A Unified Framework for 360° Panoramic Editing](https://arxiv.org/abs/2602.00265v1)** | 2026-01-30 |  |
-| **[Bi-Anchor Interpolation Solver for Accelerating Generative Modeling](https://arxiv.org/abs/2601.21542v2)** | 2026-01-30 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
