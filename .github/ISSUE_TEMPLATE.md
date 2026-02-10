@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shifting the Breaking Point of Flow Matching for Multi-Instance Editing](https://arxiv.org/abs/2602.08749v1)** | 2026-02-09 |  |
+| **[FusionEdit: Semantic Fusion and Attention Modulation for Training-Free Image Editing](https://arxiv.org/abs/2602.08725v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
+| **[Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers](https://arxiv.org/abs/2602.08388v1)** | 2026-02-09 |  |
+| **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](https://arxiv.org/abs/2310.08785v3)** | 2026-02-08 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
+| **[MCIE: Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance](https://arxiv.org/abs/2602.07993v1)** | 2026-02-08 | Accepted by AAAI2026 |
+| **[PairUni: Pairwise Training for Unified Multimodal Language Models](https://arxiv.org/abs/2510.25682v3)** | 2026-02-08 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, and 10 tables</p></details> |
+| **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v3)** | 2026-02-07 |  |
+| **[SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](https://arxiv.org/abs/2602.07564v1)** | 2026-02-07 |  |
+| **[Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](https://arxiv.org/abs/2602.07533v1)** | 2026-02-07 |  |
+| **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v1)** | 2026-02-07 |  |
+| **[Extended to Reality: Prompt Injection in 3D Environments](https://arxiv.org/abs/2602.07104v1)** | 2026-02-06 |  |
+| **[WorldEdit: Towards Open-World Image Editing with a Knowledge-Informed Benchmark](https://arxiv.org/abs/2602.07095v1)** | 2026-02-06 |  |
 | **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](https://arxiv.org/abs/2508.15772v2)** | 2026-02-06 | <details><summary>ICLR ...</summary><p>ICLR 2026; Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
 | **[LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization](https://arxiv.org/abs/2602.05577v1)** | 2026-02-05 | 11 pages, 7 figures |
-| **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v2)** | 2026-02-04 |  |
-| **[LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence](https://arxiv.org/abs/2509.12203v3)** | 2026-02-03 | <details><summary>https...</summary><p>https://zxyin.github.io/LazyDrag</p></details> |
-| **[VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers](https://arxiv.org/abs/2602.03210v1)** | 2026-02-03 |  |
-| **[DuoGen: Towards General Purpose Interleaved Multimodal Generation](https://arxiv.org/abs/2602.00508v2)** | 2026-02-03 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://research.nvidia.com/labs/dir/duogen/</p></details> |
-| **[How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing](https://arxiv.org/abs/2602.01851v1)** | 2026-02-02 | <details><summary>https...</summary><p>https://vibe-benchmark.github.io/</p></details> |
-| **[FlowBypass: Rectified Flow Trajectory Bypass for Training-Free Image Editing](https://arxiv.org/abs/2602.01805v1)** | 2026-02-02 |  |
-| **[PromptRL: Prompt Matters in RL for Flow-Based Image Generation](https://arxiv.org/abs/2602.01382v1)** | 2026-02-01 |  |
-| **[Interaction-Consistent Object Removal via MLLM-Based Reasoning](https://arxiv.org/abs/2602.01298v1)** | 2026-02-01 |  |
-| **[Addressing Explainability of Generative AI using SMILE (Statistical Model-agnostic Interpretability with Local Explanations)](https://arxiv.org/abs/2602.01206v1)** | 2026-02-01 |  |
-| **[Position: Universal Aesthetic Alignment Narrows Artistic Expression](https://arxiv.org/abs/2512.11883v2)** | 2026-02-01 |  |
-| **[EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling](https://arxiv.org/abs/2509.23909v3)** | 2026-02-01 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code, models, and benchmark: https://github.com/VectorSpaceLab/EditScore</p></details> |
-| **[Supervised sparse auto-encoders as unconstrained feature models for semantic composition](https://arxiv.org/abs/2602.00924v1)** | 2026-01-31 |  |
-| **[World-Shaper: A Unified Framework for 360° Panoramic Editing](https://arxiv.org/abs/2602.00265v1)** | 2026-01-30 |  |
+| **[Reliable and Responsible Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2602.08145v1)** | 2026-02-04 | <details><summary>TMLR ...</summary><p>TMLR camera-ready version</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,11 +75,11 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model](https://arxiv.org/abs/2601.22838v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications. 16 pages, 10 figures</p></details> |
 | **[OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](https://arxiv.org/abs/2601.22725v1)** | 2026-01-30 |  |
 | **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
 | **[GlassesGB: Controllable 2D GAN-Based Eyewear Personalization for 3D Gaussian Blendshapes Head Avatars](https://arxiv.org/abs/2601.17088v1)** | 2026-01-23 | IEEE VR 2026 Poster |
-| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v2)** | 2026-01-22 | <details><summary>5page...</summary><p>5pages, 3 figures, Accepted at ICASSP 2026</p></details> |
 | **[Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network](https://arxiv.org/abs/2601.15110v1)** | 2026-01-21 | <details><summary>Camer...</summary><p>Camera-ready version accepted at AAAI 2026</p></details> |
 | **[VTONGuard: Automatic Detection and Authentication of AI-Generated Virtual Try-On Content](https://arxiv.org/abs/2601.13951v1)** | 2026-01-20 |  |
 | **[LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.05853v1)** | 2026-01-09 |  |
@@ -94,6 +94,13 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute](https://arxiv.org/abs/2602.08948v1)** | 2026-02-09 |  |
+| **[Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views](https://arxiv.org/abs/2602.08755v1)** | 2026-02-09 |  |
+| **[A Review on Single-Problem Multi-Attempt Heuristic Optimization](https://arxiv.org/abs/2509.26321v2)** | 2026-02-09 |  |
+| **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v5)** | 2026-02-09 |  |
+| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
+| **[Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking](https://arxiv.org/abs/2602.07593v1)** | 2026-02-07 |  |
+| **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v2)** | 2026-02-07 |  |
 | **[Structure-Aware Computing, Partial Quantifier Elimination And SAT](https://arxiv.org/abs/2403.05928v8)** | 2026-02-05 |  |
 | **[NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain](https://arxiv.org/abs/2602.05334v1)** | 2026-02-05 | 14 pages, 6 figures |
 | **[Exceptional Behaviors: How Frequently Are They Tested?](https://arxiv.org/abs/2602.05123v1)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published at AST 2025</p></details> |
@@ -102,13 +109,6 @@ labels: documentation
 | **[If It's Nice, Do It Twice: We Should Try Iterative Corpus Curation](https://arxiv.org/abs/2501.15280v2)** | 2026-02-03 |  |
 | **[Understanding Bug-Reproducing Tests: A First Empirical Study](https://arxiv.org/abs/2602.02965v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted for publication at AST 2026</p></details> |
 | **[Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations](https://arxiv.org/abs/2506.19004v2)** | 2026-02-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (spotlight)</p></details> |
-| **[Active Causal Experimentalist (ACE): Learning Intervention Strategies via Direct Preference Optimization](https://arxiv.org/abs/2602.02451v1)** | 2026-02-02 | 9 pages, 5 figures |
-| **[A Qualitative Study of IT Students' Skill Development: Comparing Online and Face- to-Face Learning Environments](https://arxiv.org/abs/2602.00799v1)** | 2026-01-31 |  |
-| **[Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model](https://arxiv.org/abs/2601.22838v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications. 16 pages, 10 figures</p></details> |
-| **[OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](https://arxiv.org/abs/2601.22725v1)** | 2026-01-30 |  |
-| **[InstructPLM-mu: 1-Hour Fine-Tuning of ESM2 Beats ESM3 in Protein Mutation Predictions](https://arxiv.org/abs/2510.03370v3)** | 2026-01-30 | preprint |
-| **[Kicking for Goal or Touch? An Expected Points Framework for Penalty Decisions in Rugby Union](https://arxiv.org/abs/2512.00312v2)** | 2026-01-26 | <details><summary>20 pa...</summary><p>20 pages; 9 figures, 8 tables. Submitted to the Journal of Quantitative Analysis in Sports (JQAS). Code & replication package: https://github.com/WhartonSABI/rugby-ep (data from a public source; mirrored in the repo with attribution). Preprint licensed CC BY 4.0</p></details> |
-| **[Intelligent Graybox Fuzzing via ATPG-Guided Seed Generation and Submodule Analysis](https://arxiv.org/abs/2509.20808v2)** | 2026-01-26 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, 4 tables</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
