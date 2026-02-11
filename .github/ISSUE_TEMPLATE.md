@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 10, 2026
+title: Latest 15 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,7 +26,11 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Shifting the Breaking Point of Flow Matching for Multi-Instance Editing](https://arxiv.org/abs/2602.08749v1)** | 2026-02-09 |  |
+| **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations 2026 (ICLR 2026). Code is available at: https://adagorgun.github.io/PCI-Project/</p></details> |
+| **[Shifting the Breaking Point of Flow Matching for Multi-Instance Editing](https://arxiv.org/abs/2602.08749v2)** | 2026-02-10 |  |
+| **[MieDB-100k: A Comprehensive Dataset for Medical Image Editing](https://arxiv.org/abs/2602.09587v1)** | 2026-02-10 |  |
+| **[Rethinking Global Text Conditioning in Diffusion Transformers](https://arxiv.org/abs/2602.09268v1)** | 2026-02-09 | Accepted at ICLR26 |
+| **[Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling](https://arxiv.org/abs/2602.09084v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project Website: agent-banana.github.io</p></details> |
 | **[FusionEdit: Semantic Fusion and Attention Modulation for Training-Free Image Editing](https://arxiv.org/abs/2602.08725v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers](https://arxiv.org/abs/2602.08388v1)** | 2026-02-09 |  |
 | **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](https://arxiv.org/abs/2310.08785v3)** | 2026-02-08 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](https://arxiv.org/abs/2602.07533v1)** | 2026-02-07 |  |
 | **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v1)** | 2026-02-07 |  |
 | **[Extended to Reality: Prompt Injection in 3D Environments](https://arxiv.org/abs/2602.07104v1)** | 2026-02-06 |  |
-| **[WorldEdit: Towards Open-World Image Editing with a Knowledge-Informed Benchmark](https://arxiv.org/abs/2602.07095v1)** | 2026-02-06 |  |
-| **[Visual Autoregressive Modeling for Instruction-Guided Image Editing](https://arxiv.org/abs/2508.15772v2)** | 2026-02-06 | <details><summary>ICLR ...</summary><p>ICLR 2026; Source codes and models are available at https://github.com/HiDream-ai/VAREdit</p></details> |
-| **[LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization](https://arxiv.org/abs/2602.05577v1)** | 2026-02-05 | 11 pages, 7 figures |
-| **[Reliable and Responsible Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2602.08145v1)** | 2026-02-04 | <details><summary>TMLR ...</summary><p>TMLR camera-ready version</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model](https://arxiv.org/abs/2601.22838v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications. 16 pages, 10 figures</p></details> |
 | **[OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](https://arxiv.org/abs/2601.22725v1)** | 2026-01-30 |  |
@@ -89,13 +90,16 @@ labels: documentation
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 | **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
-| **[Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer](https://arxiv.org/abs/2512.05593v1)** | 2025-12-05 | Accepted to 3DV 2026 |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Feasible Dose-Response Curves for Continuous Treatments Under Positivity Violations](https://arxiv.org/abs/2502.14566v3)** | 2026-02-10 | <details><summary>43 pa...</summary><p>43 pages (30 without appendix), 8 figures</p></details> |
+| **[Biology-inspired joint distribution neurons based on Hierarchical Correlation Reconstruction allowing for multidirectional propagation of values and densities](https://arxiv.org/abs/2405.05097v6)** | 2026-02-10 | 9 pages, 13 figures |
+| **[Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views](https://arxiv.org/abs/2602.08755v2)** | 2026-02-10 |  |
+| **[Beyond Vizing Chains: Improved Recourse in Dynamic Edge Coloring](https://arxiv.org/abs/2602.09497v1)** | 2026-02-10 |  |
+| **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute](https://arxiv.org/abs/2602.08948v1)** | 2026-02-09 |  |
-| **[Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views](https://arxiv.org/abs/2602.08755v1)** | 2026-02-09 |  |
 | **[A Review on Single-Problem Multi-Attempt Heuristic Optimization](https://arxiv.org/abs/2509.26321v2)** | 2026-02-09 |  |
 | **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v5)** | 2026-02-09 |  |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
@@ -105,14 +109,11 @@ labels: documentation
 | **[NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain](https://arxiv.org/abs/2602.05334v1)** | 2026-02-05 | 14 pages, 6 figures |
 | **[Exceptional Behaviors: How Frequently Are They Tested?](https://arxiv.org/abs/2602.05123v1)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published at AST 2025</p></details> |
 | **[Learning Context Matters: Measuring and Diagnosing Personalization Gaps in LLM-Based Instructional Design](https://arxiv.org/abs/2602.04972v1)** | 2026-02-04 |  |
-| **[Nemotron ColEmbed V2: Top-Performing Late Interaction embedding models for Visual Document Retrieval](https://arxiv.org/abs/2602.03992v1)** | 2026-02-03 |  |
-| **[If It's Nice, Do It Twice: We Should Try Iterative Corpus Curation](https://arxiv.org/abs/2501.15280v2)** | 2026-02-03 |  |
-| **[Understanding Bug-Reproducing Tests: A First Empirical Study](https://arxiv.org/abs/2602.02965v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted for publication at AST 2026</p></details> |
-| **[Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations](https://arxiv.org/abs/2506.19004v2)** | 2026-02-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (spotlight)</p></details> |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081v3)** | 2026-02-10 | Accepted by TMLR |
 | **[FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution](https://arxiv.org/abs/2503.13745v3)** | 2026-02-02 | <details><summary>Final...</summary><p>Final version. Accepted at ACM Multimedia Systems (MMSys) 2026</p></details> |
 | **[Bridging Degradation Discrimination and Generation for Universal Image Restoration](https://arxiv.org/abs/2602.00579v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
 | **[LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps](https://arxiv.org/abs/2601.15766v2)** | 2026-01-27 |  |
@@ -127,5 +128,4 @@ labels: documentation
 | **[$\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain](https://arxiv.org/abs/2509.24022v2)** | 2025-12-28 | 9 pages |
 | **[Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets](https://arxiv.org/abs/2512.15110v2)** | 2025-12-19 | <details><summary>Techn...</summary><p>Technical Report; 65 Pages, 36 Figures, 17 Tables; Poject Page: https://lowlevelbanana.github.io/</p></details> |
 | **[GMODiff: One-Step Gain Map Refinement with Diffusion Priors for HDR Reconstruction](https://arxiv.org/abs/2512.16357v1)** | 2025-12-18 |  |
-| **[IRPO: Boosting Image Restoration via Post-training GRPO](https://arxiv.org/abs/2512.00814v2)** | 2025-12-09 |  |
 
