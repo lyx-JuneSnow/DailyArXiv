@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 11, 2026
+title: Latest 15 Papers - February 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v2)** | 2026-02-10 |  |
+| **[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](https://arxiv.org/abs/2602.10179v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project homepage: https://csu-jpg.github.io/vja.github.io/</p></details> |
 | **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations 2026 (ICLR 2026). Code is available at: https://adagorgun.github.io/PCI-Project/</p></details> |
 | **[Shifting the Breaking Point of Flow Matching for Multi-Instance Editing](https://arxiv.org/abs/2602.08749v2)** | 2026-02-10 |  |
 | **[MieDB-100k: A Comprehensive Dataset for Medical Image Editing](https://arxiv.org/abs/2602.09587v1)** | 2026-02-10 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v3)** | 2026-02-07 |  |
 | **[SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](https://arxiv.org/abs/2602.07564v1)** | 2026-02-07 |  |
 | **[Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](https://arxiv.org/abs/2602.07533v1)** | 2026-02-07 |  |
-| **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v1)** | 2026-02-07 |  |
-| **[Extended to Reality: Prompt Injection in 3D Environments](https://arxiv.org/abs/2602.07104v1)** | 2026-02-06 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
