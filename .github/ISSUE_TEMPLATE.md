@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 12, 2026
+title: Latest 15 Papers - February 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://arxiv.org/abs/2602.12205v1)** | 2026-02-12 |  |
+| **[Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation](https://arxiv.org/abs/2602.11980v1)** | 2026-02-12 | 19 pages, 4 figures |
+| **[Bootstrapping Action-Grounded Visual Dynamics in Unified Vision-Language Models](https://arxiv.org/abs/2506.06006v2)** | 2026-02-11 |  |
+| **[ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning](https://arxiv.org/abs/2602.11236v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project website: https://amap-cvlab.github.io/ABot-Manipulation/ . Code: https://github.com/amap-cvlab/ABot-Manipulation . 22 pages, 10 figures, 10 tables</p></details> |
 | **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v2)** | 2026-02-10 |  |
 | **[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](https://arxiv.org/abs/2602.10179v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project homepage: https://csu-jpg.github.io/vja.github.io/</p></details> |
 | **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations 2026 (ICLR 2026). Code is available at: https://adagorgun.github.io/PCI-Project/</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers](https://arxiv.org/abs/2602.08388v1)** | 2026-02-09 |  |
 | **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](https://arxiv.org/abs/2310.08785v3)** | 2026-02-08 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
 | **[MCIE: Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance](https://arxiv.org/abs/2602.07993v1)** | 2026-02-08 | Accepted by AAAI2026 |
-| **[PairUni: Pairwise Training for Unified Multimodal Language Models](https://arxiv.org/abs/2510.25682v3)** | 2026-02-08 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, and 10 tables</p></details> |
-| **[UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing](https://arxiv.org/abs/2602.02437v3)** | 2026-02-07 |  |
-| **[SIGMA: Selective-Interleaved Generation with Multi-Attribute Tokens](https://arxiv.org/abs/2602.07564v1)** | 2026-02-07 |  |
-| **[Joint Reward Modeling: Internalizing Chain-of-Thought for Efficient Visual Reward Models](https://arxiv.org/abs/2602.07533v1)** | 2026-02-07 |  |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -94,7 +94,9 @@ labels: documentation
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Feasible Dose-Response Curves for Continuous Treatments Under Positivity Violations](https://arxiv.org/abs/2502.14566v3)** | 2026-02-10 | <details><summary>43 pa...</summary><p>43 pages (30 without appendix), 8 figures</p></details> |
+| **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
+| **[Feasible Dose-Response Curves for Continuous Treatments Under Positivity Violations](https://arxiv.org/abs/2502.14566v4)** | 2026-02-12 | <details><summary>43 pa...</summary><p>43 pages (30 without appendix), 8 figures</p></details> |
+| **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v1)** | 2026-02-11 |  |
 | **[Biology-inspired joint distribution neurons based on Hierarchical Correlation Reconstruction allowing for multidirectional propagation of values and densities](https://arxiv.org/abs/2405.05097v6)** | 2026-02-10 | 9 pages, 13 figures |
 | **[Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views](https://arxiv.org/abs/2602.08755v2)** | 2026-02-10 |  |
 | **[Beyond Vizing Chains: Improved Recourse in Dynamic Edge Coloring](https://arxiv.org/abs/2602.09497v1)** | 2026-02-10 |  |
@@ -107,8 +109,6 @@ labels: documentation
 | **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v2)** | 2026-02-07 |  |
 | **[Structure-Aware Computing, Partial Quantifier Elimination And SAT](https://arxiv.org/abs/2403.05928v8)** | 2026-02-05 |  |
 | **[NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain](https://arxiv.org/abs/2602.05334v1)** | 2026-02-05 | 14 pages, 6 figures |
-| **[Exceptional Behaviors: How Frequently Are They Tested?](https://arxiv.org/abs/2602.05123v1)** | 2026-02-04 | <details><summary>Publi...</summary><p>Published at AST 2025</p></details> |
-| **[Learning Context Matters: Measuring and Diagnosing Personalization Gaps in LLM-Based Instructional Design](https://arxiv.org/abs/2602.04972v1)** | 2026-02-04 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
