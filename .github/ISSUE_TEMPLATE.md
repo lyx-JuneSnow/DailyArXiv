@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 14, 2026
+title: Latest 15 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://arxiv.org/abs/2602.12205v1)** | 2026-02-12 |  |
+| **[Universal Image Immunization against Diffusion-based Image Editing via Semantic Injection](https://arxiv.org/abs/2602.14679v1)** | 2026-02-16 | Working paper |
+| **[Controlling Your Image via Simplified Vector Graphics](https://arxiv.org/abs/2602.14443v1)** | 2026-02-16 | Preprint |
+| **[UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2602.14186v1)** | 2026-02-15 |  |
+| **[LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.14147v1)** | 2026-02-15 | 28 pages, 11 figures |
+| **[CoCoEdit: Content-Consistent Image Editing via Region Regularized Reinforcement Learning](https://arxiv.org/abs/2602.14068v1)** | 2026-02-15 |  |
+| **[DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing](https://arxiv.org/abs/2602.12205v2)** | 2026-02-13 |  |
+| **[Human-Aligned MLLM Judges for Fine-Grained Image Editing Evaluation: A Benchmark, Framework, and Analysis](https://arxiv.org/abs/2602.13028v1)** | 2026-02-13 |  |
+| **[FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing](https://arxiv.org/abs/2509.22244v5)** | 2026-02-13 | <details><summary>Our c...</summary><p>Our code will be made publicly available at https://github.com/JunyiWuCode/FlashEdit</p></details> |
+| **[Reproducing DragDiffusion: Interactive Point-Based Editing with Diffusion Models](https://arxiv.org/abs/2602.12393v1)** | 2026-02-12 | <details><summary>16 pa...</summary><p>16 pages, 8 figures. Reproducibility study of DragDiffusion (CVPR 2024). Submitted to TMLR Reproducibility Challenge. Code available on GitHub</p></details> |
+| **[FireRed-Image-Edit-1.0 Techinical Report](https://arxiv.org/abs/2602.13344v1)** | 2026-02-12 |  |
 | **[Spatial Chain-of-Thought: Bridging Understanding and Generation Models for Spatial Reasoning Generation](https://arxiv.org/abs/2602.11980v1)** | 2026-02-12 | 19 pages, 4 figures |
 | **[Bootstrapping Action-Grounded Visual Dynamics in Unified Vision-Language Models](https://arxiv.org/abs/2506.06006v2)** | 2026-02-11 |  |
 | **[ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning](https://arxiv.org/abs/2602.11236v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project website: https://amap-cvlab.github.io/ABot-Manipulation/ . Code: https://github.com/amap-cvlab/ABot-Manipulation . 22 pages, 10 figures, 10 tables</p></details> |
 | **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v2)** | 2026-02-10 |  |
 | **[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](https://arxiv.org/abs/2602.10179v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project homepage: https://csu-jpg.github.io/vja.github.io/</p></details> |
-| **[Temporal Concept Dynamics in Diffusion Models via Prompt-Conditioned Interventions](https://arxiv.org/abs/2512.08486v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Learning Representations 2026 (ICLR 2026). Code is available at: https://adagorgun.github.io/PCI-Project/</p></details> |
-| **[Shifting the Breaking Point of Flow Matching for Multi-Instance Editing](https://arxiv.org/abs/2602.08749v2)** | 2026-02-10 |  |
-| **[MieDB-100k: A Comprehensive Dataset for Medical Image Editing](https://arxiv.org/abs/2602.09587v1)** | 2026-02-10 |  |
-| **[Rethinking Global Text Conditioning in Diffusion Transformers](https://arxiv.org/abs/2602.09268v1)** | 2026-02-09 | Accepted at ICLR26 |
-| **[Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling](https://arxiv.org/abs/2602.09084v1)** | 2026-02-09 | <details><summary>Proje...</summary><p>Project Website: agent-banana.github.io</p></details> |
-| **[FusionEdit: Semantic Fusion and Attention Modulation for Training-Free Image Editing](https://arxiv.org/abs/2602.08725v1)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers](https://arxiv.org/abs/2602.08388v1)** | 2026-02-09 |  |
-| **[DeltaSpace: A Semantic-aligned Feature Space for Flexible Text-guided Image Editing](https://arxiv.org/abs/2310.08785v3)** | 2026-02-08 | <details><summary>18 pa...</summary><p>18 pages. arXiv admin note: text overlap with arXiv:2303.06285</p></details> |
-| **[MCIE: Multimodal LLM-Driven Complex Instruction Image Editing with Spatial Guidance](https://arxiv.org/abs/2602.07993v1)** | 2026-02-08 | Accepted by AAAI2026 |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance](https://arxiv.org/abs/2602.14552v1)** | 2026-02-16 |  |
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
 | **[Neural Clothing Tryer: Customized Virtual Try-On via Semantic Enhancement and Controlling Diffusion Model](https://arxiv.org/abs/2601.22838v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications. 16 pages, 10 figures</p></details> |
@@ -89,11 +90,15 @@ labels: documentation
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 | **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
-| **[Training-free Clothing Region of Interest Self-correction for Virtual Try-On](https://arxiv.org/abs/2512.07126v1)** | 2025-12-08 | 16 pages, 8 figures |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Representations](https://arxiv.org/abs/2510.11419v3)** | 2026-02-16 |  |
+| **[OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance](https://arxiv.org/abs/2602.14552v1)** | 2026-02-16 |  |
+| **[A unified framework for evaluating the robustness of machine-learning interpretability for prospect risking](https://arxiv.org/abs/2602.14430v1)** | 2026-02-16 |  |
+| **[Bonik Somiti: A Social-market Tool for Safe, Accountable, and Harmonious Informal E-Market Ecosystem in Bangladesh](https://arxiv.org/abs/2602.12650v1)** | 2026-02-13 |  |
 | **[Think like a Scientist: Physics-guided LLM Agent for Equation Discovery](https://arxiv.org/abs/2602.12259v1)** | 2026-02-12 |  |
 | **[Feasible Dose-Response Curves for Continuous Treatments Under Positivity Violations](https://arxiv.org/abs/2502.14566v4)** | 2026-02-12 | <details><summary>43 pa...</summary><p>43 pages (30 without appendix), 8 figures</p></details> |
 | **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v1)** | 2026-02-11 |  |
@@ -104,11 +109,6 @@ labels: documentation
 | **[CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute](https://arxiv.org/abs/2602.08948v1)** | 2026-02-09 |  |
 | **[A Review on Single-Problem Multi-Attempt Heuristic Optimization](https://arxiv.org/abs/2509.26321v2)** | 2026-02-09 |  |
 | **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v5)** | 2026-02-09 |  |
-| **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
-| **[Beyond Arrow: From Impossibility to Possibilities in Multi-Criteria Benchmarking](https://arxiv.org/abs/2602.07593v1)** | 2026-02-07 |  |
-| **[Combining Tests and Proofs for Better Software Verification](https://arxiv.org/abs/2601.16239v2)** | 2026-02-07 |  |
-| **[Structure-Aware Computing, Partial Quantifier Elimination And SAT](https://arxiv.org/abs/2403.05928v8)** | 2026-02-05 |  |
-| **[NeuCLIRTech: Chinese Monolingual and Cross-Language Information Retrieval Evaluation in a Challenging Domain](https://arxiv.org/abs/2602.05334v1)** | 2026-02-05 | 14 pages, 6 figures |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
