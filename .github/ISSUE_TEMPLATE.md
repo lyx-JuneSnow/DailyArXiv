@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](https://arxiv.org/abs/2602.16502v1)** | 2026-02-18 |  |
 | **[OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance](https://arxiv.org/abs/2602.14552v1)** | 2026-02-16 |  |
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[GO-MLVTON: Garment Occlusion-Aware Multi-Layer Virtual Try-On with Diffusion Models](https://arxiv.org/abs/2601.13524v3)** | 2026-02-09 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2026</p></details> |
@@ -89,12 +90,13 @@ labels: documentation
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
 | **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
-| **[PMMD: A pose-guided multi-view multi-modal diffusion for person generation](https://arxiv.org/abs/2512.15069v1)** | 2025-12-17 |  |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v1)** | 2026-02-16 |  |
+| **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 |  |
+| **[DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](https://arxiv.org/abs/2602.16502v1)** | 2026-02-18 |  |
+| **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v2)** | 2026-02-18 |  |
 | **[Representations](https://arxiv.org/abs/2510.11419v3)** | 2026-02-16 |  |
 | **[OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance](https://arxiv.org/abs/2602.14552v1)** | 2026-02-16 |  |
 | **[A unified framework for evaluating the robustness of machine-learning interpretability for prospect risking](https://arxiv.org/abs/2602.14430v1)** | 2026-02-16 |  |
@@ -103,12 +105,10 @@ labels: documentation
 | **[Feasible Dose-Response Curves for Continuous Treatments Under Positivity Violations](https://arxiv.org/abs/2502.14566v4)** | 2026-02-12 | <details><summary>43 pa...</summary><p>43 pages (30 without appendix), 8 figures</p></details> |
 | **[Can We Really Learn One Representation to Optimize All Rewards?](https://arxiv.org/abs/2602.11399v1)** | 2026-02-11 |  |
 | **[Biology-inspired joint distribution neurons based on Hierarchical Correlation Reconstruction allowing for multidirectional propagation of values and densities](https://arxiv.org/abs/2405.05097v6)** | 2026-02-10 | 9 pages, 13 figures |
-| **[Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views](https://arxiv.org/abs/2602.08755v2)** | 2026-02-10 |  |
 | **[Beyond Vizing Chains: Improved Recourse in Dynamic Edge Coloring](https://arxiv.org/abs/2602.09497v1)** | 2026-02-10 |  |
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
 | **[CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute](https://arxiv.org/abs/2602.08948v1)** | 2026-02-09 |  |
 | **[A Review on Single-Problem Multi-Attempt Heuristic Optimization](https://arxiv.org/abs/2509.26321v2)** | 2026-02-09 |  |
-| **[Computation and Concurrency](https://arxiv.org/abs/2409.02595v5)** | 2026-02-09 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
