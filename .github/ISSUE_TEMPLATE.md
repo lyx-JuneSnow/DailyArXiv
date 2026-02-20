@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 19, 2026
+title: Latest 15 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/lyx-JuneSnow/DailyArxiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Image Editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RetouchIQ: MLLM Agents for Instruction-Based Image Retouching with Generalist Reward](https://arxiv.org/abs/2602.17558v1)** | 2026-02-19 | 10 pages, 6 figures |
 | **[Universal Image Immunization against Diffusion-based Image Editing via Semantic Injection](https://arxiv.org/abs/2602.14679v1)** | 2026-02-16 | Working paper |
 | **[Controlling Your Image via Simplified Vector Graphics](https://arxiv.org/abs/2602.14443v1)** | 2026-02-16 | Preprint |
 | **[UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing](https://arxiv.org/abs/2602.14186v1)** | 2026-02-15 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Bootstrapping Action-Grounded Visual Dynamics in Unified Vision-Language Models](https://arxiv.org/abs/2506.06006v2)** | 2026-02-11 |  |
 | **[ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning](https://arxiv.org/abs/2602.11236v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project website: https://amap-cvlab.github.io/ABot-Manipulation/ . Code: https://github.com/amap-cvlab/ABot-Manipulation . 22 pages, 10 figures, 10 tables</p></details> |
 | **[SpatialReward: Bridging the Perception Gap in Online RL for Image Editing via Explicit Spatial Reasoning](https://arxiv.org/abs/2602.07458v2)** | 2026-02-10 |  |
-| **[When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models](https://arxiv.org/abs/2602.10179v1)** | 2026-02-10 | <details><summary>Proje...</summary><p>Project homepage: https://csu-jpg.github.io/vja.github.io/</p></details> |
 
 ## Text based person retrieval
 | **Title** | **Date** | **Comment** |
@@ -75,6 +75,7 @@ labels: documentation
 ## Virtual Try-On
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CORAL: Correspondence Alignment for Improved Virtual Try-On](https://arxiv.org/abs/2602.17636v1)** | 2026-02-19 | 32 pages, 25 figures |
 | **[DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](https://arxiv.org/abs/2602.16502v1)** | 2026-02-18 |  |
 | **[OmniVTON++: Training-Free Universal Virtual Try-On with Principal Pose Guidance](https://arxiv.org/abs/2602.14552v1)** | 2026-02-16 |  |
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
@@ -89,11 +90,12 @@ labels: documentation
 | **[VTONQA: A Multi-Dimensional Quality Assessment Dataset for Virtual Try-on](https://arxiv.org/abs/2601.02945v1)** | 2026-01-06 |  |
 | **[AlignVTOFF: Texture-Spatial Feature Alignment for High-Fidelity Virtual Try-Off](https://arxiv.org/abs/2601.02038v1)** | 2026-01-05 |  |
 | **[FitControler: Toward Fit-Aware Virtual Try-On](https://arxiv.org/abs/2512.24016v1)** | 2025-12-30 |  |
-| **[The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection](https://arxiv.org/abs/2512.20340v1)** | 2025-12-23 |  |
 
 ## try on
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CORAL: Correspondence Alignment for Improved Virtual Try-On](https://arxiv.org/abs/2602.17636v1)** | 2026-02-19 | 32 pages, 25 figures |
+| **[Multi-session Localization and Mapping Exploiting Topological Information](https://arxiv.org/abs/2602.17226v1)** | 2026-02-19 |  |
 | **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 |  |
 | **[DressWild: Feed-Forward Pose-Agnostic Garment Sewing Pattern Generation from In-the-Wild Images](https://arxiv.org/abs/2602.16502v1)** | 2026-02-18 |  |
 | **[Boundary Point Jailbreaking of Black-Box LLMs](https://arxiv.org/abs/2602.15001v2)** | 2026-02-18 |  |
@@ -107,8 +109,6 @@ labels: documentation
 | **[Biology-inspired joint distribution neurons based on Hierarchical Correlation Reconstruction allowing for multidirectional propagation of values and densities](https://arxiv.org/abs/2405.05097v6)** | 2026-02-10 | 9 pages, 13 figures |
 | **[Beyond Vizing Chains: Improved Recourse in Dynamic Edge Coloring](https://arxiv.org/abs/2602.09497v1)** | 2026-02-10 |  |
 | **[UniFit: Towards Universal Virtual Try-on with MLLM-Guided Semantic Alignment](https://arxiv.org/abs/2511.15831v2)** | 2026-02-10 | <details><summary>accep...</summary><p>accepted to AAAI-2026</p></details> |
-| **[CoRefine: Confidence-Guided Self-Refinement for Adaptive Test-Time Compute](https://arxiv.org/abs/2602.08948v1)** | 2026-02-09 |  |
-| **[A Review on Single-Problem Multi-Attempt Heuristic Optimization](https://arxiv.org/abs/2509.26321v2)** | 2026-02-09 |  |
 
 ## low level vision
 | **Title** | **Date** | **Comment** |
